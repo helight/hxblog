@@ -8,7 +8,7 @@ author: "helight"
 authorlink: "http://helight.cn"
 summary: ""
 keywords: ["应用", "AI"]
-draft: false
+draft: true
 ---
 
 ## 一、MCP 介绍

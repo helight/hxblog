@@ -8,7 +8,7 @@ author: "helight"
 authorlink: "http://helight.cn"
 summary: ""
 keywords: ["应用", "AI"]
-draft: false
+draft: true
 ---
 
 ## 一、Open-Manus 产品技术解析
