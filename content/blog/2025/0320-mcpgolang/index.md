@@ -155,10 +155,10 @@ func urlencode(params map[string]string) string {
 
 func GetWeaher(city string) (ret string, err error) {
 	// 云市场分配的密钥Id
-	secretId := "AKIDnzft5u0e2j77f78c3dsdsPvjo8eiU2wor1t"
+	secretId := "xxx"
 	// 云市场分配的密钥Key
-	secretKey := "hjwZ1cyXr0DpzxBvzsfldiDwy7272wj0870teum3"
-	source := "usagePlan-6n7krm9x"
+	secretKey := "xxx"
+	source := "usagePlan-xxx"
 
 	// 签名
 	auth, datetime, _ := calcAuthorization(source, secretId, secretKey)
