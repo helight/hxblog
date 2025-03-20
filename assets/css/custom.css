@@ -1,0 +1,14 @@
+.he-list-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 10px;
+  }
+  .he-col-pic {
+    width: 34%;
+    max-height:240px ;
+    overflow: hidden;
+  }
+  .he-col-title {
+    width: 66%;
+  }

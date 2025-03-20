@@ -3,7 +3,7 @@ title: "基于ESP32的Python物联网开发实践 - 通过HTTP API控制LED灯"
 date: 2025-03-08T08:45:20+08:00
 tags: ["应用", "嵌入式"]
 categories: ["应用", "嵌入式"]
-banner: "/blog/2025/esp32/imgs/640.png"
+banner: "/blog/2025/0308-esp32/imgs/640.png"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""

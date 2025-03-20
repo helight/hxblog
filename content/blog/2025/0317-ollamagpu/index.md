@@ -3,7 +3,7 @@ title: "mac M4 上使用 ollama 跑大模型配置使用 GPU"
 date: 2025-03-17T08:45:20+08:00
 tags: ["应用", "AI"]
 categories: ["应用", "AI"]
-banner: "/blog/2025/openmanus/imgs/openmanus.jpg"
+banner: "/blog/2025/0315-openmanus/imgs/openmanus.jpg"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""

@@ -3,12 +3,12 @@ title: "使用 Go 构建 MCP Server"
 date: 2025-03-20T08:45:20+08:00
 tags: ["应用", "AI"]
 categories: ["应用", "AI"]
-banner: "/blog/2025/openmanus/imgs/mcp.png"
+banner: "/blog/2025/0320-mcpgolang/imgs/mcp.png"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""
 keywords: ["应用", "AI"]
-draft: true
+draft: false
 ---
 
 ## 一、MCP 介绍
