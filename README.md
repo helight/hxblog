@@ -4,7 +4,7 @@ helight 的个人技术博客：[黑光技术](http://www.helight.cn/)
 ## clone 
 
 ```sh
-git clone https://github.com/helight/xblog 
+git clone https://github.com/helight/hxblog 
 
 git submodule init 
 git submodule update
