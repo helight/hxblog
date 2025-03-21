@@ -10,10 +10,6 @@ enableGitInfo: true
 # enableEmoji: false
 hasCJKLanguage: true
 
-# services:
-#   googleAnalytics:
-#     ID: G-MEASUREMENT_ID
-
 outputs:
   home: [HTML]
   page: [HTML]
@@ -52,7 +48,9 @@ markup:
 enableInlineShortcodes: true
 # Define the number of posts per page
 pagination:
+  disableAliases: false
   pagerSize: 15
+  path: page
 
 Permalinks:
     # blog = "/blog/:year/:month/:day/:filename/"
@@ -97,21 +95,27 @@ menu:
       pageRef: "/about"
       weight: 2
 
-
+# Enable and disable widgets for the right sidebar
 params:
   description: Modern, responsive, batteries-included Hugo theme for creating beautiful static websites.
   contact_form_ajax: false
-
+  mainSections: ["blog"]
   navbar:
     displayTitle: true
     displayLogo: true
+    width: wide
     logo:
       path: images/logo.png
       # dark: images/logo-dark.svg
       width: 60
       height: 60
       # link: /
-    width: wide
+    
+  widgets:
+    categories: true
+    tags: true
+    search: true
+    links: true
 
   page:
     # full (100%), wide (90rem), normal (1280px)
@@ -169,21 +173,3 @@ params:
       enable: true
       # hover | always
       display: hover
-
-  comments:
-    enable: false
-    type: giscus
-
-    # https://giscus.app/
-    giscus:
-      repo: imfing/hextra
-      repoId: R_kgDOJ9fJag
-      category: General
-      categoryId: DIC_kwDOJ9fJas4CY7gW
-      # mapping: pathname
-      # strict: 0
-      # reactionsEnabled: 1
-      # emitMetadata: 0
-      # inputPosition: top
-      # lang: en
-      # theme: noborder_dark
