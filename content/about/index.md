@@ -26,35 +26,41 @@ date = "2019-05-18T13:47:08+02:00"
 
 ## 经历
 ### 2024
-- 【大会分享】2024壹佰大会：[游戏运营服务出海实践](https://www.top100summit.com/detail?id=17997&qd=dahui)
+- 【大会分享】2024壹佰大会：[游戏运营服务出海实践](https://www.top100summit.com/detail?id=17997&qd=dahui)。
 
 ### 2023
-- [开源之夏项目导师：Open Source Promotion Plan - Summer 2023](https://summer-ospp.ac.cn/2023/org/orgdetail/acac956c-ff57-4ec8-9657-e5a14ff91b62?lang=en)
-- 【大会分享】[首届中国eBPF大会分享](https://www.ebpftravel.com/2023/)
+- 【开源社区】[开源之夏项目导师：Open Source Promotion Plan - Summer 2023](https://summer-ospp.ac.cn/2023/org/orgdetail/acac956c-ff57-4ec8-9657-e5a14ff91b62?lang=en)。
+- 【大会分享】[首届中国eBPF大会分享](https://www.ebpftravel.com/2023/)。
 
 ### 2022
-- [开源之夏项目导师：Open Source Promotion Plan - Summer 2022](https://summer-ospp.ac.cn/#/org/orgdetail/acac956c-ff57-4ec8-9657-e5a14ff91b62/)
-- [GitLink编程夏令营项目导师](https://www.gitlink.org.cn/glcc/subjects/detail/387)
-- 【大会分享】中国信息通信研究院-混沌工程实验室《可观测性技木沙龙eBPF技木大揭秘》
-- 【大会分享】中国信息通信研究院-2020精益软件工程大会《基于eBPF的可观测性技术分析与实践》
+- 【开源社区】[开源之夏项目导师：Open Source Promotion Plan - Summer 2022](https://summer-ospp.ac.cn/#/org/orgdetail/acac956c-ff57-4ec8-9657-e5a14ff91b62/)。
+- 【开源社区】[GitLink编程夏令营项目导师](https://www.gitlink.org.cn/glcc/subjects/detail/387)。
+- 【大会分享】中国信息通信研究院-混沌工程实验室《可观测性技木沙龙eBPF技木大揭秘》。
+- 【大会分享】中国信息通信研究院-2020精益软件工程大会《基于eBPF的可观测性技术分析与实践》。
   
 ### 2021
 - 【标准制定】参与中国信息通信研究院《服务网格技术能力要求》的制定。
-- [开源之夏项目导师：Open Source Promotion Plan - Summer 2021](https://summer-ospp.ac.cn/2020/#/organisations/kernal-travel)，[项目详情](http://kerneltravel.net/project/)
-- 【书籍出版】[《腾讯游戏开发精粹II》](https://item.jd.com/13005125.html)作者之一：
-- 【大会分享】MPD-北京《大数据服务开发平台建设实践》
-- 【大会分享】MPD-成都《云原生技术在腾讯游戏运营服务中的应用实践》
-- 【大会分享】MPD-上海《基于Flink+ServiceMesh的腾讯游戏数据营销应用实践》
+- 【开源社区】[开源之夏项目导师：Open Source Promotion Plan - Summer 2021](https://summer-ospp.ac.cn/2020/#/organisations/kernal-travel)，[项目详情](http://kerneltravel.net/project/)。
+- 【书籍出版】[《腾讯游戏开发精粹II》](https://item.jd.com/13005125.html)作者之一。
+- 【大会分享】MPD-北京《大数据服务开发平台建设实践》。
+- 【大会分享】MPD-成都《云原生技术在腾讯游戏运营服务中的应用实践》。
+- 【大会分享】MPD-上海《基于Flink+ServiceMesh的腾讯游戏数据营销应用实践》。
+- 【开源社区】成为istio社区member，[istio](https://github.com/istio)。
+- 【开源社区】成为kubernetes社区member，[dashboard Reviewer](https://github.com/kubernetes/dashboard)。
+
 ### 2020
-- 【大会分享】dbaplus 直播分享《基于Flink+ServiceMesh的腾讯游戏大数据服务应用实践》
-- 【大会分享】2020 GIAC全球互联网架构大会 [《基于Flink+ServiceMesh的腾讯游戏数据营销应用实践》](http://giac-history.msup.com.cn/Giac2020/schedule/course?id=14712)
-- 【大会分享】Flink Forward #Asia 2020 [《腾讯游戏实时计算应用平台建设实践》](https://flink-learning.org.cn/article/detail/4ae11684c0eb36ef2553a4417ecd716c)
-- 【大会分享】Top 100全球软件案例研究峰会2020[《腾讯游戏大数据+微服务的架构设计和应用》](https://www.top100summit.com/2020-Detail?id=14975)
+- 【大会分享】dbaplus 直播分享《基于Flink+ServiceMesh的腾讯游戏大数据服务应用实践》。
+- 【大会分享】2020 GIAC全球互联网架构大会 [《基于Flink+ServiceMesh的腾讯游戏数据营销应用实践》](http://giac-history.msup.com.cn/Giac2020/schedule/course?id=14712)。
+- 【大会分享】Flink Forward #Asia 2020 [《腾讯游戏实时计算应用平台建设实践》](https://flink-learning.org.cn/article/detail/4ae11684c0eb36ef2553a4417ecd716c)。
+- 【大会分享】Top 100全球软件案例研究峰会2020[《腾讯游戏大数据+微服务的架构设计和应用》](https://www.top100summit.com/2020-Detail?id=14975)。
+- 【开源社区】[istio社区参与](https://github.com/istio)。
+- 【开源社区】[kubernetes社区参与](https://github.com/kubernetes)。
 
 ### 2019
 - 【标准制定】参与中国信息通信研究院《分布式中间件服务技术能力要求第2部分 分布式消息中间件》的制定。
 - 【标准制定】参与中国信息通信研究院主持的多期国内企业的微服务平台评审工作。
 - 【大会分享】OpenI/O 2019 启智开发者大会[《开源的世界，开源的大学》](https://openi.org.cn/html/2020/openi-o_0309/419.html)
+- 【开源社区】[istio社区参与](https://github.com/istio)。
 
 ### 2018
 - 【标准制定】参与中国信息通信研究院《分布式应用架构评估标准：第一部分：微服务平台》的制定。
@@ -62,7 +68,7 @@ date = "2019-05-18T13:47:08+02:00"
 ### 2016
 2016年开始负责腾讯游戏数据服务开发平台和游戏数据化运营方案平台DataMore的建设，将数据服务从数据分析升级为数据应用解决方案，整合了数据+游戏营销的能力，基于离线、实时大数据计算+微服务的架构，为腾讯上百款游戏提供了以数据+营销运营方案的精细化运营体系。在游戏场景内部使用落地了大规模的Flink，Kafka，ServiceMesh和kubernetes等技术。
 - 【大会分享】中国云计算技术大会-大数据核心技术与应用实战峰会[《游戏分析设计的分布式数据存储系统》](https://bss.csdn.net/m/zone/cctc2016/guest_detail?id=2472)。
-- 【大会分享】台湾 Big Data Innovation Summit，2015：[《Spark在腾讯游戏数据分析中的应用实践》](https://www.ithome.com.tw/news/110543)
+- 【大会分享】台湾 Big Data Innovation Summit，2015：[《Spark在腾讯游戏数据分析中的应用实践》](https://www.ithome.com.tw/news/110543)。
 
 ### 2013～2015
 2013年11月到深圳腾讯-互动娱乐数据中心从事游戏数据分析后台开发工作。 主要开发小型分布式存储系统，调度系统和数据分析系统，大数据应用系统和游戏微服务应用相关事情。
