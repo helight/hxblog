@@ -1,6 +1,6 @@
 ---
 title: 项目展示
-description: "由 Hextra 驱动的开源网站和项目。"
+description: "由 helight 开发开发的开源项目。"
 toc: false
 layout: wide
 ---
@@ -8,76 +8,69 @@ layout: wide
 <div class="hx-mt-4"></div>
 
 <p class="hx-mb-12 hx-text-center hx-text-lg hx-text-gray-500 dark:hx-text-gray-400">
-由 Hextra 驱动的开源网站和项目。
+由 helight 开发开发的开源项目，欢迎有兴趣的小伙伴试用，提问题，提需求，fork，或者一起来开发。
 </p>
 
 {{< cards >}}
 
   {{< card
-        link="https://github.com/axivo/website"
-        title="AXIVO Docs"
-        image="https://github.com/imfing/hextra/assets/19806136/f22f0710-23a0-430b-8bad-616283b8a3e5"
+        link="https://github.com/helight/go-patterns"
+        title="项目简介：用golang实现设计模式的测试程序。"
+        image="/images/gopatterns.png"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 
   {{< card
-        link="https://github.com/infracourse/web"
-        title="Stanford CS 40"
-        image="https://github.com/imfing/hextra/assets/5097752/8c29470b-3994-41c8-be9a-5b41476e6f3c"
+        link="https://github.com/helight/xcut"
+        title="项目简介：xcut 是一个针对c的单元测试框架，是lcut的一个分支项目，加入了一些新特性。"
+        image="/images/xcut.png"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 
   {{< card
-        link="https://github.com/helixml/docs"
-        title="Helix Docs"
-        image="https://github.com/imfing/hextra/assets/5097752/78045af0-4922-4358-ae73-624770909db6"
-        imageStyle="object-fit:cover; aspect-ratio:16/9;"
-  >}}
-
-  {{< card
-        link="https://developers.clever-cloud.com/"
-        title="Clever Cloud Documentation"
-        image="https://cellar-c2.services.clever-cloud.com/documentation/doc-screenshot.png" imageStyle="object-fit:cover; aspect-ratio:16/9;"
-  >}}
-
-  {{< card
-        link="https://owaspai.org/"
-        title="OWASP AI Security and Privacy Guide"
-        image="https://github.com/imfing/hextra/assets/5097752/fbb1d3a5-a0e8-4cfc-88cf-3523b0176c89"
-        imageStyle="object-fit:cover; aspect-ratio:16/9;"
-  >}}
-
-  {{< card
-        link="https://developers.osuny.org"
-        title="Osuny"
-        image="https://raw.githubusercontent.com/noesya/osuny-developers/main/static/images/showcase-hextra/screenshot.png"
-        imageStyle="object-fit:cover; aspect-ratio:16/9;"
-  >}}
-
-  {{< card link="https://porter.sh/"
-        title="Porter"
-        image="https://github.com/imfing/hextra/assets/5097752/401abc3a-b4c3-4336-b95a-a6dd9afbc1de"
-        imageStyle="object-fit:cover; aspect-ratio:16/9;"
-  >}}
-
-  {{< card
-        link="https://hoa.moe/"
-        title="HITSZ OpenAuto"
-        image="https://raw.githubusercontent.com/HITSZ-OpenAuto/hoa.moe/main/static/images/showcase-new.png"
+        link="https://github.com/helight/xrpc"
+        title="项目简介：rpc server implemented in c++ json, libev, easy to use，简单的一个rpc服务框架，使用了libev。"
+        image="/images/xrpc.png"
         imageStyle="object-fit:cover; aspect-ratio:16/9;" 
   >}}
 
   {{< card
-        link="https://lutheranconfessions.org/"
-        title="LutheranConfessions"
-        image="https://github.com/imfing/hextra/assets/5097752/ad6625e4-88cd-4cad-b102-5399997d0359"
+        link="https://github.com/helight/xgcom"
+        title="项目简介：一个Linux下的图形化的串口调试工具，帮助开发者调试串口程序。"
+        image="/blog/2019/201901imgs/xgcom.png"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 
   {{< card
-        link="https://github.com/imfing/hextra-starter-template/"
-        title="Hextra Starter Template"
-        image="https://user-images.githubusercontent.com/5097752/263551418-c403b9a9-a76c-47a6-8466-513d772ef0b7.jpg"
+        link="https://github.com/helight/xhttpd"
+        title="项目简介：编写一个可以在linux嵌入式下轻量级的http服务器软件，能够支持简单的静态页面的传输和cgi技术.目标是可以移植任意操作系统，但是主要针对于嵌入式linux。主要针对于嵌入式系统的web管理的实现。"
+        image="/blog/2019/201901imgs/xhttpd.png"
+        imageStyle="object-fit:cover; aspect-ratio:16/9;"
+  >}}
+
+  {{< card
+        link="https://github.com/helight/xnotebook"
+        title="项目简介：Xnotebook是一款用gtk＋开发的文本资料管理软件，它主要用于个人文本资料的分类管理。"
+        image="/images/xnotebook.png" imageStyle="object-fit:cover; aspect-ratio:16/9;"
+  >}}
+
+  {{< card
+        link="https://github.com/helight/xdmusic"
+        title="项目简介：一个Linux下的音乐播放软件，有基本的音乐列表管理和播放管理，相对简单，只是做来玩的，目前较少维护。"
+        image="/blog/2019/201901imgs/xdmusic.png"
+        imageStyle="object-fit:cover; aspect-ratio:16/9;"
+  >}}
+
+  {{< card
+        link="/coding/arm-linux-compile.pdf"
+        title="项目简介：编写一个关于linux在arm上比较实用的开发文档，当前使用开发芯片有pxa270和S3C2410"
+        image="/images/arm.png"
+        imageStyle="object-fit:cover; aspect-ratio:16/9;"
+  >}}
+
+  {{< card link="/tools/clib/clib.html"
+        title="C 函数库 是学习c编程的一个小助手，我将它收录到了这里。"
+        image="/images/clib.png"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 

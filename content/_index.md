@@ -1,72 +1,77 @@
 ---
-title: Hextra 主题
+title: 黑光技术 - 完美之道，不在无可增加，而在无可删减。
 layout: hextra-home
 ---
-
+<div class="he-list-row">
+<div class="he-col-main-content">
 {{< hextra/hero-badge >}}
   <div class="hx-w-2 hx-h-2 hx-rounded-full hx-bg-primary-400"></div>
-  <span>免费 开源</span>
+  <span>技术宅 迷信技术可以改变世界</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
-  创建现代化网站&nbsp;<br class="sm:hx-block hx-hidden" />由 Markdown 和 Hugo 驱动
+  一个互联网技术玩家，&nbsp;<br class="sm:hx-block hx-hidden" />一个爱捣腾技术的家伙。
 {{< /hextra/hero-headline >}}
 </div>
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  极速且全能的 Hugo 主题框架&nbsp;<br class="sm:hx-block hx-hidden" />为构建现代化的静态网站而生
+  在工作和学习中不断思考，&nbsp;<br class="sm:hx-block hx-hidden" />把这些思考总结出来，并分享，和大家一起交流进步。
 {{< /hextra/hero-subtitle >}}
 </div>
 
 <div class="hx-mb-6">
-{{< hextra/hero-button text="现在开始" link="docs" >}}
+{{< hextra/hero-button text="看我的 Blog" link="blog" >}}
 </div>
-
+</div>
+  <div class="he-col-main-pic">
+  <img src="/images/bg.webp" />
+  </div>
+</div>
 <div class="hx-mt-6"></div>
 
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
-    title="快速且功能全面"
-    subtitle="简单易用，功能强大丰富。"
+    title="云原生与微服务架构"
+    subtitle="主导腾讯游戏数据服务的云原生改造，基于 ​Kubernetes 和 ​Istio 构建混合云管理平台，实现跨云资源统一调度；推动 ​Service Mesh 在游戏数据分析中的落地，优化微服务治理能力，提升服务间通信效率30%以上。"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="/images/hextra-doc.webp"
+    image="/images/cloudms.png"
     imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
-    title="Markdown 写作"
-    subtitle="只需使用 Markdown 进行编辑。多样的 Shortcode 组件开箱即用。"
+    title="大数据引擎技术"
+    subtitle="设计并开发 ​腾讯游戏实时计算平台OneData，整合Flink、Kafka、Pulsar等组件，支撑400+款游戏的实时数据运营，包括任务系统、实时排行榜等场景，实现亚秒级延迟处理能力；"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
-    image="/images/hextra-markdown.webp"
+    image="/images/bigdata.png"
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
-    title="全文搜索"
-    subtitle="内置 FlexSearch 全文搜索，无需额外设置。"
+    title="内核与操作系统技术"
+    subtitle="作为 ​Linux内核之旅开源社区负责人，推动eBPF技术在容器网络监控、CPU性能分析等场景的应用，开发基于eBPF的实时指标采集工具。"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="/images/hextra-search.webp"
+    image="/images/kernel.png"
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
-    title="轻如羽毛"
-    subtitle="使用 Hextra 无需依赖 Node.js。由 Hugo 提供支持，Hugo 是最快的静态网站生成器之一，只需一个二进制文件即可在数秒内创建网站。"
+    title="技术标准制定"
+    subtitle="参与制定 ​​《微服务行业标准》​ 和 ​​《分布式消息队列技术标准》​​（中国信息通信研究院主导）"
   >}}
   {{< hextra/feature-card
-    title="响应式布局，暗黑模式"
-    subtitle="适应不同的屏幕尺寸。内置暗黑模式支持，并根据用户的系统偏好自动切换。"
+    title="开源生态建设"
+    subtitle="主导 ​Linux内核之旅社区，培养内核开发者超2000人，推动eBPF技术在企业级场景的规模化应用；"
   >}}
   {{< hextra/feature-card
-    title="免费构建和托管"
-    subtitle="使用 GitHub Actions 进行构建，并在 GitHub Pages 上免费托管。也可以托管在任何静态托管服务上。"
+    title="技术布道与人才培养"
+    subtitle="在 ​Flink Forward Asia 等峰会分享实时计算架构演进经验，推动Flink在游戏行业的渗透率提升至80%；担任腾讯内部​云原生技术导师。"
   >}}
   {{< hextra/feature-card
-    title="多语言轻松实现"
-    subtitle="仅需通过在 Markdown 文件后添加语言代码即可创建多语言页面。向您的站点添加 i18n 支持直观易行。"
+    title="基础设施"
+    subtitle="FUSE文件系统优化；BPF CO-RE技术应用"
   >}}
   {{< hextra/feature-card
     title="还有更多..."
