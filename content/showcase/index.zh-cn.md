@@ -5,12 +5,12 @@ toc: false
 layout: wide
 ---
 
-<div class="hx-mt-4"></div>
+
 
 <p class="hx-mb-12 hx-text-center hx-text-lg hx-text-gray-500 dark:hx-text-gray-400">
-由 helight 开发开发的开源项目，欢迎有兴趣的小伙伴试用，提问题，提需求，fork，或者一起来开发。
+由 helight 开发的项目，欢迎有兴趣的小伙伴试用，提问题，提需求，fork，或者一起来开发。
 </p>
-
+<h1 class="hx-mt-4 hx-text-center">开源项目</h1>
 {{< cards >}}
 
   {{< card
@@ -73,5 +73,25 @@ layout: wide
         image="/images/clib.png"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
+{{< /cards >}}
 
+<h1 class="hx-mt-4 hx-text-center">其他项目</h1>
+{{< cards >}}
+  {{< card link="/blog/2024/dati/"
+        title="一个微信小程序的答题系统，作为一个答题竞赛使用"
+        image="/blog/2024/dati/imgs/5.jpg"
+        imageStyle="object-fit:cover; aspect-ratio:16/9;"
+  >}}
+
+  {{< card link="/blog/2024/yuyue"
+        title="预约系统：对一个地方的使用时间进行预约管理，比如有一间会议室，它上午时间段和下午时间段的预约使用。"
+        image="/blog/2024/yuyue/imgs/640.png"
+        imageStyle="object-fit:cover; aspect-ratio:16/9;"
+  >}}
+
+  {{< card link="/blog/2025/0308-esp32/"
+        title="基于ESP32的Python物联网开发实践 - 通过HTTP API控制LED灯。"
+        image="/blog/2025/0308-esp32/imgs/640.png"
+        imageStyle="object-fit:cover; aspect-ratio:16/9;"
+  >}}
 {{< /cards >}}
