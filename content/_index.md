@@ -71,11 +71,11 @@ layout: hextra-home
   >}}
   {{< hextra/feature-card
     title="基础设施"
-    subtitle="FUSE文件系统优化；BPF CO-RE技术应用"
+    subtitle="Linux系统维护；数据库系统维护，网站维护等"
   >}}
   {{< hextra/feature-card
     title="还有更多..."
     icon="sparkles"
-    subtitle="代码高亮 / 目录 / SEO / RSS / LaTeX 公式 / Mermaid 图标 / 自定义 / 等等..."
+    subtitle="小程序开发 / eps32 开发 / hugo 网站开发 / 技术指导培训 / 自定义 / 等等..."
   >}}
 {{< /hextra/feature-grid >}}
