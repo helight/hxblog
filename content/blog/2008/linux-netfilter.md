@@ -3,7 +3,7 @@ title = "2.6.22下基于Netfilter的网络监听程序"
 date = "2008-09-27T13:47:08+02:00"
 tags = ["linux", "开源", "kernel"]
 categories = ["programming"]
-banner = "img/banners/banner-2.jpg"
+banner = "/images/banners/banner-2.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -88,5 +88,5 @@ module_exit(exit_sniffer);
 
 关注「黑光技术」，关注大数据+微服务<br>
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

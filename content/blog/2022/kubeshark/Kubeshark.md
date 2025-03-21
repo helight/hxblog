@@ -139,6 +139,6 @@ kubeshark tap -A
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 
 </center>

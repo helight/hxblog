@@ -3,7 +3,7 @@ title: "2023 对云技术发展的一些思考"
 date: 2023-01-18T08:45:20+08:00
 tags: ["云原生", "微服务"]
 categories: ["云原生", "微服务"]
-banner: "img/banners/kubernetes.jpeg"
+banner: "/images/banners/kubernetes.jpeg"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""

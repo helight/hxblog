@@ -3,7 +3,7 @@ title = "使用valgrind检测内存泄露"
 date = "2009-02-27T13:47:08+02:00"
 tags = ["valgrind", "tools", "linux"]
 categories = ["programming"]
-banner = "img/banners/banner-2.jpg"
+banner = "/images/banners/banner-2.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -124,5 +124,5 @@ helight@helight:test$
 
 关注「黑光技术」，关注大数据+微服务<br>
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

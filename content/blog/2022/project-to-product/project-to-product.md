@@ -3,7 +3,7 @@ title: "技术人的转身思考：project 到 product 的转化"
 date: 2022-05-20T08:45:20+08:00
 tags: ["programming"]
 categories: ["programming"]
-banner: "img/banners/gartner.jpg"
+banner: "/images/banners/gartner.jpg"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""
@@ -119,6 +119,6 @@ Product 是什么？中文翻译是产品，就是说啥是产品？怎么做一
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 
 </center>

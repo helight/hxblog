@@ -3,7 +3,7 @@ title: "做 API 监控有没有什么方法论？"
 date: 2020-06-07T08:45:20+08:00
 tags: ["api", "microservices"]
 categories: ["api", "microservices"]
-banner: "img/banners/ms.jpg"
+banner: "/images/banners/ms.jpg"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: "做事情还是的有一定的方法论来指导的，今天这里总结的这篇文章目的就在于对 API 的监控方面进行梳理，梳理出了 API 监控的基本层次，常用指标和常见的监控模型。"
@@ -125,5 +125,5 @@ LETS (Latency, Errors, Traffic, and Saturation)，整个模型是 Google 在 200
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

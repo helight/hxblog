@@ -3,7 +3,7 @@ title: "2022 年 kubernetes 的 5 个发展趋势"
 date: 2022-03-01T08:45:20+08:00
 tags: ["云原生"]
 categories: ["云原生", "微服务"]
-banner: "img/banners/kubernetes.jpeg"
+banner: "/images/banners/kubernetes.jpeg"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""
@@ -121,6 +121,6 @@ Kubernetes 发行版将开始在发行版中直接添加更多安全功能。这
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 
 </center>

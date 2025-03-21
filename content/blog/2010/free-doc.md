@@ -3,7 +3,7 @@ title = "《Richard Stallman选集 －－free software,free society》"
 date = "2010-08-18T13:47:08+02:00"
 tags = ["vim", "开源"]
 categories = ["programming"]
-banner = "img/banners/banner-2.jpg"
+banner = "/images/banners/banner-2.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -187,5 +187,5 @@ prefer copylefted manuals to non-copylefted ones.
 
 关注「黑光技术」，关注大数据+微服务<br>
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

@@ -3,7 +3,7 @@ title: "envoy filter 开发实践系列 4：envoy filter 原理介绍"
 date: 2020-10-20T08:45:20+08:00
 tags: ["Envoy", "microservices"]
 categories: ["Envoy", "microservices"]
-banner: "img/banners/envoy.png"
+banner: "/images/banners/envoy.png"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""
@@ -35,5 +35,5 @@ draft: false
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

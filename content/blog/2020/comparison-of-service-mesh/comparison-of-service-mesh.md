@@ -3,7 +3,7 @@ title = "【译】Kubernetes 服务网格: Istio, Linkerd 和 Consul 大比较"
 date = "2020-02-02T13:47:08+02:00"
 tags = ["istio", "k8s"]
 categories = ["sevicemesh", "microservices"]
-banner = "img/banners/istio.png"
+banner = "/images/banners/istio.png"
 draft = false
 author = "helight"
 authorlink = "http://helight.cn"
@@ -168,7 +168,7 @@ Istio 正迅速的成为 Kubernetes 上的服务网格技术标准。它是最�
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>
 <!--
 <table><tbody>

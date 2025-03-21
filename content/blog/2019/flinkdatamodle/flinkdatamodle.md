@@ -3,7 +3,7 @@ title = "Flink数据流编程模型"
 date = "2019-02-18T13:47:08+02:00"
 tags = ["bigdata", "flink"]
 categories = ["flink"]
-banner = "img/banners/flink.jpg"
+banner = "/images/banners/flink.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -117,5 +117,5 @@ Flink以一种特殊的的[流处理程序](https://ci.apache.org/projects/flink
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

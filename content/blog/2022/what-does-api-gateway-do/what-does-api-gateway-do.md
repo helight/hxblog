@@ -3,7 +3,7 @@ title: "API 网关做哪些事情呢？"
 date: 2022-09-24T08:45:20+08:00
 tags: ["云原生"]
 categories: ["云原生", "API", "gatway"]
-banner: "img/banners/envoy.png"
+banner: "/images/banners/envoy.png"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""
@@ -45,6 +45,6 @@ draft: false
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 
 </center>

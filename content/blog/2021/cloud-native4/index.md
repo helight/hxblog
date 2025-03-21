@@ -3,7 +3,7 @@ title: "云原生技术解读2-云原生运行时：容器和容器编排"
 date: 2021-11-08T08:45:20+08:00
 tags: ["云原生"]
 categories: ["云原生", "微服务"]
-banner: "img/banners/kubernetes.jpeg"
+banner: "/images/banners/kubernetes.jpeg"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""
@@ -101,6 +101,6 @@ Image
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 
 </center>

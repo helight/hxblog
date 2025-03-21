@@ -5,7 +5,7 @@ description = "Istio 的扩展中使用 WASM 的前景"
 date = "2020-03-07T13:47:08+02:00"
 tags = ["istio", "wasm"]
 categories = ["sevicemesh", "microservices"]
-banner = "img/banners/istio.png"
+banner = "/images/banners/istio.png"
 draft = false
 author = "helight"
 authorlink = "http://helight.cn"
@@ -109,5 +109,5 @@ WebAssembly Hub 工具提供了功能强大的 CLI 和优雅且易于使用的�
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

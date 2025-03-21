@@ -3,7 +3,7 @@ title: "什么是 GitOps？"
 date: 2022-03-08T08:45:20+08:00
 tags: ["云原生"]
 categories: ["云原生", "DevOps"]
-banner: "img/banners/DevOPSLifeCycle.jpg"
+banner: "/images/banners/DevOPSLifeCycle.jpg"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""
@@ -78,6 +78,6 @@ GitOps 给你工具和框架让你实践 DevOps，比如协作，CI/CD和版本�
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 
 </center>

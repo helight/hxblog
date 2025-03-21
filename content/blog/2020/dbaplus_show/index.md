@@ -3,7 +3,7 @@ title: "【dbaplus社群】线上分享-游戏数据应用的DevOps建设"
 date: 2020-07-12T08:45:20+08:00
 tags: ["bigdata", "Envoy", "microservices"]
 categories: ["bigdata", "microservices"]
-banner: "img/banners/ms.jpg"
+banner: "/images/banners/ms.jpg"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""
@@ -44,5 +44,5 @@ draft: false
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

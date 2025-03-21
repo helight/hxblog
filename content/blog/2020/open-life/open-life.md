@@ -2,7 +2,7 @@
 title: "读书总结：Open Life"
 date: 2020-03-14T7:15:43+08:00
 draft: false
-banner: "img/banners/tao.jpg"
+banner: "/images/banners/tao.jpg"
 author: "helight"
 authorlink: "http://helight.cn"
 tags: ["life"]
@@ -62,5 +62,5 @@ summary: "这本书从作者身边的生活琐事开始来思考开源这件事�
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

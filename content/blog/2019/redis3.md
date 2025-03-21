@@ -3,7 +3,7 @@ title = "Redis的事件处理模型2：客户端命令执行过程"
 date = "2019-06-18T13:47:08+02:00"
 tags = ["redis", "db"]
 categories = ["redis"]
-banner = "img/banners/redis.png"
+banner = "/images/banners/redis.png"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -275,5 +275,5 @@ robj *lookupKeyReadOrReply(client *c, robj *key, robj *reply) {
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

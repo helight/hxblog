@@ -3,7 +3,7 @@ title: "云原生架构中 Kubernetes 可观测性的挑战和解决思路"
 date: 2021-11-27T21:45:20+08:00
 tags: ["Kubernetes", "ebpf"]
 categories: ["k8s", "microservices"]
-banner: "img/banners/kubernetes.jpeg"
+banner: "/images/banners/kubernetes.jpeg"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""
@@ -79,5 +79,5 @@ namespace: onlineboutique
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

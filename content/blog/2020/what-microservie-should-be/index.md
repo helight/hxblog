@@ -3,7 +3,7 @@ title = "微服务的架构适合你吗？微服务为何而来？"
 date = "2020-03-28T18:47:08+02:00"
 tags = ["microservices","DevOps"]
 categories = ["sevicemesh", "microservices"]
-banner = "img/banners/ms.jpg"
+banner = "/images/banners/ms.jpg"
 draft = false
 author = "helight"
 authorlink = "http://helight.cn"
@@ -107,5 +107,5 @@ keywords = ["microservices","微服务", "架构", "单体", "DevOps"]
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

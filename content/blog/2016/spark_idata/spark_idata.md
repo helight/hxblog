@@ -3,7 +3,7 @@ title = "Spark在腾讯游戏数据分析和营销干预中的应用实践"
 date = "2016-12-18T13:47:08+02:00"
 tags = ["bigdata", "spark"]
 categories = ["bigdata"]
-banner = "img/banners/banner-2.jpg"
+banner = "/images/banners/banner-2.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -58,5 +58,5 @@ keywords = ["bigdata","spark", "数据分析"]
 
 关注「黑光技术」，关注大数据+微服务<br>
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

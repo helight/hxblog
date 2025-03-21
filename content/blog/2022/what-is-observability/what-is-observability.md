@@ -3,7 +3,7 @@ title: "可观测性:不是你想的那样"
 date: 2022-03-26T08:45:20+08:00
 tags: ["云原生"]
 categories: ["云原生", "DevOps"]
-banner: "img/banners/ms.jpg"
+banner: "/images/banners/ms.jpg"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""
@@ -111,6 +111,6 @@ draft: false
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 
 </center>

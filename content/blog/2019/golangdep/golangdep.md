@@ -3,7 +3,7 @@ title = "Golang官方依赖管理工具：dep"
 date = "2019-05-18T13:47:08+02:00"
 tags = ["golang"]
 categories = ["golang"]
-banner = "img/banners/golang.jpg"
+banner = "/images/banners/golang.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -199,5 +199,5 @@ $GOPATH/pkg/dep/sources
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

@@ -3,7 +3,7 @@ title = "GUN 工具学习"
 date = "2010-06-18T13:47:08+02:00"
 tags = ["GNU", "开源"]
 categories = ["programming"]
-banner = "img/banners/banner-2.jpg"
+banner = "/images/banners/banner-2.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -462,5 +462,5 @@ MANSECT 1:8:2:3:4:5:6:7:9:tcl:n:l:p
 
 关注「黑光技术」，关注大数据+微服务<br>
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

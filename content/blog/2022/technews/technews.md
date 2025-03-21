@@ -3,7 +3,7 @@ title: "开发了一个技术文章订阅器：TechNews"
 date: 2022-04-05T08:45:20+08:00
 tags: ["golang", "programming"]
 categories: ["golang", "programming"]
-banner: "img/banners/technews.jpeg"
+banner: "/images/banners/technews.jpeg"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""
@@ -86,6 +86,6 @@ draft: false
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 
 </center>

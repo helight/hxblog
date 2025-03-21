@@ -3,7 +3,7 @@ title = "【译】以 Istio 为例来看什么时候不要拆分微服务"
 date = "2020-02-04T13:47:08+02:00"
 tags = ["istio", "microservices"]
 categories = ["sevicemesh", "microservices"]
-banner = "img/banners/istio2.png"
+banner = "/images/banners/istio2.png"
 draft = false
 author = "helight"
 authorlink = "http://helight.cn"
@@ -108,5 +108,5 @@ keywords = ["istio","microservices", "sevicemesh"]
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

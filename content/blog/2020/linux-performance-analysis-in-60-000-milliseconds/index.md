@@ -3,7 +3,7 @@ title: "如何 60 秒内进行 Linux 性能分析"
 date: 2020-05-21T08:45:20+08:00
 tags: ["linux 应用", "Performance"]
 categories: ["linux 应用", "kernel"]
-banner: "img/banners/linux_performance_ovservability.png"
+banner: "/images/banners/linux_performance_ovservability.png"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: "在你登陆一台 Linux 服务器之后，因为一个问题要做性能分析时：你会在第一分钟内做哪些检测呢？"
@@ -264,5 +264,5 @@ top 的一个缺陷也比较明显，很难看出变化趋势，其它像 vmstat
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

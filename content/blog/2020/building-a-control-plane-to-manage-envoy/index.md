@@ -3,7 +3,7 @@ title: "如何为 Envoy 构建一个控制面来管理集群网络流量"
 date: 2020-05-10T08:45:20+08:00
 tags: ["envoy", "mesh"]
 categories: ["sevicemesh", "microservices"]
-banner: "img/banners/istio2.png"
+banner: "/images/banners/istio2.png"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: "这篇文章我看了之后非常想翻译，为什么呢？一方面我也在学习 Envoy，并且在公司的实际项目中使用 Envoy，另一方面，我确实也在设计一个控制管理端来统一管控多个集群的所有流量，没错我说的是所有的流量管控。"
@@ -91,5 +91,5 @@ Gloo 团队相信使用 gRPC streaming 和 xDS API 来实现对 Envoy 的动态�
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

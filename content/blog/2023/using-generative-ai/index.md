@@ -3,7 +3,7 @@ title: "【译】在 IT 系统的开发和运营中使用生成式人工智能�
 date: 2023-05-30T08:45:20+08:00
 tags: ["DevOps", "SRE"]
 categories: ["DevOps", "SRE"]
-banner: "img/banners/kubernetes.jpeg"
+banner: "/images/banners/kubernetes.jpeg"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""

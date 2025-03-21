@@ -3,7 +3,7 @@ title = "又是一个岁终年末的随想"
 date = "2008-12-25T13:47:08+02:00"
 tags = ["life"]
 categories = ["life"]
-banner = "img/banners/banner-2.jpg"
+banner = "/images/banners/banner-2.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -27,5 +27,5 @@ Zhenwen Xu - Open and Free Home Page: http://zhwen.org My Studio: http://helight
 
 关注「黑光技术」，关注大数据+微服务<br>
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

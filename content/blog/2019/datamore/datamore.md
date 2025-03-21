@@ -3,7 +3,7 @@ title = "DataMore数据服务开发系统Xone在服务化的架构实践"
 date = "2019-05-18T13:47:08+02:00"
 tags = ["bigdata"]
 categories = ["bigdata"]
-banner = "img/banners/banner-2.jpg"
+banner = "/images/banners/banner-2.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -114,5 +114,5 @@ DataMore通过建设标准化的数据营销能力，利用微服务化理念进
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

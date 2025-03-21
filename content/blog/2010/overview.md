@@ -3,7 +3,7 @@ title = "The Linux Kernel Device Model"
 date = "2010-03-18T13:47:08+02:00"
 tags = ["GNU", "开源"]
 categories = ["programming"]
-banner = "img/banners/banner-2.jpg"
+banner = "/images/banners/banner-2.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -187,5 +187,5 @@ Documentation/filesystems/sysfs.txt...<br>
 
 关注「黑光技术」，关注大数据+微服务<br>
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

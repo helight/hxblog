@@ -3,7 +3,7 @@ title: "微服务架构设计和其设计模式介绍"
 date: 2022-12-27T08:45:20+08:00
 tags: ["云原生", "微服务"]
 categories: ["云原生", "微服务"]
-banner: "img/banners/kubernetes.jpeg"
+banner: "/images/banners/kubernetes.jpeg"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""

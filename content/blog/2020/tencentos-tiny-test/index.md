@@ -3,7 +3,7 @@ title: "来玩 TencentOS tiny 物联网终端操作系统"
 date: 2020-09-20T08:45:20+08:00
 tags: ["life", "kernel", "生活"]
 categories: ["kernel", "生活"]
-banner: "img/banners/tencentos.png"
+banner: "/images/banners/tencentos.png"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""

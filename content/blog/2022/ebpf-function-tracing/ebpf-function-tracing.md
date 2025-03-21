@@ -3,7 +3,7 @@ title: "如何在生产环境跟踪 Go 函数的参数"
 date: 2022-10-26T08:47:20+08:00
 tags: ["ebpf"]
 categories: ["ebpf",]
-banner: "img/banners/ebpf.png"
+banner: "/images/banners/ebpf.png"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""

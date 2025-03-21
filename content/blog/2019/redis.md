@@ -3,7 +3,7 @@ title = "Redis源码分析1:Redis启动分析"
 date = "2019-05-18T13:47:08+02:00"
 tags = ["redis", "db"]
 categories = ["redis"]
-banner = "img/banners/redis.png"
+banner = "/images/banners/redis.png"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -333,5 +333,5 @@ redis的事件驱动框架也是redis中非常重要的一个设计，下次分�
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

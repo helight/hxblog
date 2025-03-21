@@ -3,7 +3,7 @@ title: "linux5.3.0编译测试ebpf"
 date: 2021-03-30T08:45:20+08:00
 tags: ["kernel", "ebpf"]
 categories: ["kernel", "ebpf"]
-banner: "img/banners/linux_ebpf_support.png"
+banner: "/images/banners/linux_ebpf_support.png"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""
@@ -140,5 +140,5 @@ apt-get install clang-10
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

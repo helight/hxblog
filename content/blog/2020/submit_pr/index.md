@@ -2,7 +2,7 @@
 title: "如何给《Linux内核之旅社区》投稿"
 date: 2020-04-11T14:31:20+08:00
 categories: ["社区"]
-banner : "img/logo.png"
+banner : "/images/logo.png"
 summary: "Linux 内核之旅的网站我们重构了，这次使用了 github 管理，hugo 作为站点管理工具。目标是能够让更多的同学参与进来，学习，分享，共同建设，让大家更方便高效的走 Linux 内核之旅。"
 author: "helight"
 authorlink: "http://helight.cn"
@@ -158,5 +158,5 @@ helightxu$
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

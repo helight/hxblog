@@ -3,7 +3,7 @@ title = "Linux内核中的P，V操作之V"
 date = "2008-11-29T13:47:08+02:00"
 tags = ["linux", "开源", "kernel"]
 categories = ["programming"]
-banner = "img/banners/banner-2.jpg"
+banner = "/images/banners/banner-2.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -40,5 +40,5 @@ wake_up_process(waiter->task);再调用函数try_to_wake_up(p, TASK_ALL, 0);进�
 
 关注「黑光技术」，关注大数据+微服务<br>
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

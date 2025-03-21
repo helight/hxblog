@@ -3,7 +3,7 @@ title: "比较 kube-proxy 模式: iptables 或者 IPVS?"
 date: 2021-10-20T08:45:20+08:00
 tags: ["k8s"]
 categories: ["k8s"]
-banner: "img/banners/kubernetes.jpeg"
+banner: "/images/banners/kubernetes.jpeg"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""
@@ -99,5 +99,5 @@ OK，虽然说 kube-proxy 的链接处理在 iptables 模式下是 O(n) 的复�
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

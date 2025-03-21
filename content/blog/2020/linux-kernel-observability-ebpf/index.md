@@ -5,7 +5,7 @@ description: "基于 eBPF 的 Linux 可观测性"
 date: 2020-03-30T20:14:34+08:00
 tags: ["kernel", "ebpf"]
 categories: ["kernel"]
-banner: "img/banners/linux_ebpf_support.png"
+banner: "/images/banners/linux_ebpf_support.png"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: "最近发布的 Linux 内核带了一个针对内核的能力强大的 Linux 监控框架。它起源于历史上人们所说的的 BPF。"
@@ -295,5 +295,5 @@ eBPF 还在持续的发展并且在持续获得更广泛的应用。随着内核
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

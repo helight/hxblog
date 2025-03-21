@@ -3,7 +3,7 @@ title = "Linux下守护进程认识"
 date = "2008-10-25T13:47:08+02:00"
 tags = ["linux", "开源"]
 categories = ["programming"]
-banner = "img/banners/banner-2.jpg"
+banner = "/images/banners/banner-2.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -72,5 +72,5 @@ setsid()调用成功后，进程成为新的会话组长和新的进程组长，
 
 关注「黑光技术」，关注大数据+微服务<br>
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

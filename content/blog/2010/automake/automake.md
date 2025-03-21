@@ -3,7 +3,7 @@ title = "AutoMake 学习笔记"
 date = "2010-09-18T13:47:08+02:00"
 tags = ["linux", "开源"]
 categories = ["programming"]
-banner = "img/banners/banner-2.jpg"
+banner = "/images/banners/banner-2.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -214,5 +214,5 @@ helight@helight:myshell$ make
 
 关注「黑光技术」，关注大数据+微服务<br>
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

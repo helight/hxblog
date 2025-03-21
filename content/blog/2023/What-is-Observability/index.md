@@ -3,7 +3,7 @@ title: "【译】什么是可观测性？高级指南"
 date: 2023-06-02T08:45:20+08:00
 tags: ["DevOps", "SRE"]
 categories: ["DevOps", "SRE", "Observability"]
-banner: "img/banners/kubernetes.jpeg"
+banner: "/images/banners/kubernetes.jpeg"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""

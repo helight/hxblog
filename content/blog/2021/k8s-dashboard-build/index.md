@@ -3,7 +3,7 @@ title: "k8s dashboard 编译测试"
 date: 2021-03-31T08:45:20+08:00
 tags: ["k8s"]
 categories: ["k8s"]
-banner: "img/banners/kubernetes.jpeg"
+banner: "/images/banners/kubernetes.jpeg"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""
@@ -159,5 +159,5 @@ npm run start --kubernetes-dashboard:bind_address="0.0.0.0" --enable-skip-login
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

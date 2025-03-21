@@ -3,7 +3,7 @@ title = "Http协议分析"
 date = "2009-02-17T13:47:08+02:00"
 tags = ["linux", "开源", "http"]
 categories = ["programming"]
-banner = "img/banners/banner-2.jpg"
+banner = "/images/banners/banner-2.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -63,5 +63,5 @@ body域很简单，你只需要将一个文件全部读入内存，然后附加�
 
 关注「黑光技术」，关注大数据+微服务<br>
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

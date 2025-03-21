@@ -3,7 +3,7 @@ title = "关于dim4"
 date = "2008-05-18T13:47:08+02:00"
 tags = ["开源"]
 categories = ["doc"]
-banner = "img/banners/banner-2.jpg"
+banner = "/images/banners/banner-2.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -27,5 +27,5 @@ Email: helight at 126 dot com  |  jiang_hongfei at 126 dot com yijian_2007 at ho
 
 关注「黑光技术」，关注大数据+微服务<br>
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

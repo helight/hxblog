@@ -3,7 +3,7 @@ title: "对微服务的一些思考---微服务架构的特点和优势"
 date: 2020-04-12T22:57:42+08:00
 tags: ["microservices"]
 categories: ["sevicemesh", "microservices"]
-banner: "img/banners/ms.jpg"
+banner: "/images/banners/ms.jpg"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: "根据这段时间读的书想梳理一下我对微服务的一些思考，部分内容来自一些外文书籍，我感觉这部分内容还是要直接读外文书籍会得到更真实可靠的思路和解读。"
@@ -77,5 +77,5 @@ draft: false
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

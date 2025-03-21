@@ -3,7 +3,7 @@ title: "k8s代码走读---kube-controller-manager"
 date: 2020-07-30T08:45:20+08:00
 tags: ["k8s", "microservices"]
 categories: ["k8s", "microservices"]
-banner: "img/banners/kubernetes.jpeg"
+banner: "/images/banners/kubernetes.jpeg"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""

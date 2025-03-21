@@ -139,6 +139,6 @@ PayPay 是一家日本支付提供商，拥有近 5000 万用户。其增长战�
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 
 </center>

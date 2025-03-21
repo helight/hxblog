@@ -3,7 +3,7 @@ title: "我们是否真的需要使用服务网格？"
 date: 2021-12-10T08:45:20+08:00
 tags: ["sevicemesh", "microservices"]
 categories: ["sevicemesh", "microservices"]
-banner: "img/banners/istio2.png"
+banner: "/images/banners/istio2.png"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""
@@ -122,5 +122,5 @@ Kubernetes 本身带来了很多挑战，通过启动和运行 Kubernetes，安�
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

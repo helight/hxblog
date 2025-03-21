@@ -3,7 +3,7 @@ title: "怎么写 Envoy 的 Filter"
 date: 2020-06-07T08:45:20+08:00
 tags: ["api", "Envoy", "microservices"]
 categories: ["api", "microservices"]
-banner: "img/banners/ms.jpg"
+banner: "/images/banners/ms.jpg"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""

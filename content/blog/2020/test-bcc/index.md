@@ -6,7 +6,7 @@ description = "在 ubuntu 系统中测试 ebpf 程序。"
 date = "2020-03-21T23:47:08+02:00"
 tags = ["kernel", "ebpf"]
 categories = ["kernel"]
-banner = "img/banners/linux_ebpf_support.png"
+banner = "/images/banners/linux_ebpf_support.png"
 draft = false
 author = "helight"
 authorlink = "http://helight.cn"
@@ -316,5 +316,5 @@ as
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

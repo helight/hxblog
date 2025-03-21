@@ -3,7 +3,7 @@ title = "Xnotebook文本资料管理软件"
 date = "2009-02-26T13:47:08+02:00"
 tags = ["linux", "开源", "tools"]
 categories = ["tools"]
-banner = "img/banners/banner-2.jpg"
+banner = "/images/banners/banner-2.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -46,5 +46,5 @@ xnotebook$ xnotebook
 
 关注「黑光技术」，关注大数据+微服务<br>
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

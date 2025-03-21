@@ -3,7 +3,7 @@ title = " Redis源码分析2:Redis的事件处理模型"
 date = "2019-05-18T13:47:08+02:00"
 tags = ["redis", "db"]
 categories = ["redis"]
-banner = "img/banners/redis.png"
+banner = "/images/banners/redis.png"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -181,5 +181,5 @@ void aeMain(aeEventLoop *eventLoop) {
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

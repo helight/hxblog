@@ -3,7 +3,7 @@ title = "golua虚拟机的使用"
 date = "2018-11-18T13:47:08+02:00"
 tags = ["golang", "lua"]
 categories = ["golang"]
-banner = "img/banners/golua.jpg"
+banner = "/images/banners/golua.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -128,5 +128,5 @@ func main() {
 <center> 
 看完本文有收获？请分享给更多人 <br> 关注「黑光技术」，关注大数据+微服务 <br> 
 
-![](/img/qrcode_helight_tech.jpg) 
+![](/images/qrcode_helight_tech.jpg) 
 </center>

@@ -3,7 +3,7 @@ title = "嵌入式开发中NFS调试环境搭建-V0.2"
 date = "2010-01-18T13:47:08+02:00"
 tags = ["nfs", "开源"]
 categories = ["programming"]
-banner = "img/banners/banner-2.jpg"
+banner = "/images/banners/banner-2.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -126,5 +126,5 @@ mount -t nfs 192.168.1.242:/var/nfs /mnt -o nolock
 
 关注「黑光技术」，关注大数据+微服务<br>
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

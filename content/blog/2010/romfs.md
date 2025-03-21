@@ -3,7 +3,7 @@ title = "ROMFS文件系统分析"
 date = "2010-01-18T13:47:08+02:00"
 tags = ["romfs", "开源"]
 categories = ["programming"]
-banner = "img/banners/banner-2.jpg"
+banner = "/images/banners/banner-2.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -191,5 +191,5 @@ include/linux/romfs_fs.h
 
 关注「黑光技术」，关注大数据+微服务<br>
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

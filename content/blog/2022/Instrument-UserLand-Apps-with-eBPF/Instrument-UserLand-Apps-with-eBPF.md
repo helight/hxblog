@@ -3,7 +3,7 @@ title: "如何使用 eBPF 检测分析用户态程序"
 date: 2022-10-25T08:47:20+08:00
 tags: ["ebpf"]
 categories: ["ebpf",]
-banner: "img/banners/ebpf.png"
+banner: "/images/banners/ebpf.png"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""

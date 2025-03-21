@@ -3,7 +3,7 @@ title = "Linux下UML工具和截图工具的使用"
 date = "2008-11-10T13:47:08+02:00"
 tags = ["UML", "tools"]
 categories = ["programming"]
-banner = "img/banners/banner-2.jpg"
+banner = "/images/banners/banner-2.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -38,5 +38,5 @@ file 指定截图保存的文件名。 如果 [file] 没有指定，截图就会
 
 关注「黑光技术」，关注大数据+微服务<br>
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

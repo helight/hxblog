@@ -3,7 +3,7 @@ title: "【译】什么是平台工程？如何建设？"
 date: 2023-04-23T08:45:20+08:00
 tags: ["DevOps", "SRE", "Platform Engineering"]
 categories: ["DevOps", "SRE", "Platform Engineering"]
-banner: "img/banners/kubernetes.jpeg"
+banner: "/images/banners/kubernetes.jpeg"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""

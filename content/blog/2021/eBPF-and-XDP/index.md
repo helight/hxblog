@@ -3,7 +3,7 @@ title: "使用 eBPF 和 XDP 高速处理数据包"
 date: 2021-11-20T08:45:20+08:00
 tags: ["ebpf", "kernel"]
 categories: ["ebpf", "kernel"]
-banner: "img/banners/linux_ebpf_support.png"
+banner: "/images/banners/linux_ebpf_support.png"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""
@@ -175,6 +175,6 @@ XDP 在 Linux 内核中慢慢以高速包处理标准出现。通过这篇博文
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 
 </center>

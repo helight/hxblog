@@ -3,7 +3,7 @@ title = "源代码中的中断分析(一)"
 date = "2008-11-13T13:47:08+02:00"
 tags = ["linux", "开源", "kernel"]
 categories = ["programming"]
-banner = "img/banners/banner-2.jpg"
+banner = "/images/banners/banner-2.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -59,5 +59,5 @@ struct irq_desc {
 
 关注「黑光技术」，关注大数据+微服务<br>
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

@@ -3,7 +3,7 @@ title: "什么是 PaaS？ PaaS 类型介绍"
 date: 2022-03-20T08:45:20+08:00
 tags: ["云原生"]
 categories: ["云原生", "DevOps"]
-banner: "img/banners/kubernetes.jpeg"
+banner: "/images/banners/kubernetes.jpeg"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""
@@ -98,6 +98,6 @@ Jelastic 这家公司是专门做 PaaS，SaaS 解决方案的，看了官网还�
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 
 </center>

@@ -3,7 +3,7 @@ title = "☯道&禅"
 date = "2010-01-18T13:47:08+02:00"
 tags = ["tao", "life"]
 categories = ["life"]
-banner = "img/banners/tao.jpg"
+banner = "/images/banners/tao.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -42,5 +42,5 @@ keywords = ["tao","life"]
 
 关注「黑光技术」，关注大数据+微服务<br>
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

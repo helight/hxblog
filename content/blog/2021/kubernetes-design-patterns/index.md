@@ -3,7 +3,7 @@ title: "必须知道的 Kubernetes 设计模式 Top 10"
 date: 2021-11-27T08:45:20+08:00
 tags: ["Kubernetes", "ebpf"]
 categories: ["k8s", "microservices"]
-banner: "img/banners/kubernetes.jpeg"
+banner: "/images/banners/kubernetes.jpeg"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""
@@ -90,5 +90,5 @@ Top 10 Kubernetes Design Patterns
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

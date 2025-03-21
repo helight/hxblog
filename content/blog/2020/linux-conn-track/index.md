@@ -3,7 +3,7 @@ title: "Linux 中 nf_conntrack 源码梳理"
 date: 2020-09-15T08:45:20+08:00
 tags: ["netlink", "kernel", "netfilter"]
 categories: ["kernel"]
-banner: "img/banners/linux.jpeg"
+banner: "/images/banners/linux.jpeg"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""

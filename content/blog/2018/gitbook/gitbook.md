@@ -3,7 +3,7 @@ title = "使用gitbook来写文档和文章"
 date = "2018-11-18T13:47:08+02:00"
 tags = ["git"]
 categories = ["tools"]
-banner = "img/banners/gitbook.png"
+banner = "/images/banners/gitbook.png"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -174,5 +174,5 @@ $ gitbook mobi ./ ./mybook.mobi
 <center> 
 看完本文有收获？请分享给更多人 <br> 关注「黑光技术」，关注大数据+微服务 <br> 
 
-![](/img/qrcode_helight_tech.jpg) 
+![](/images/qrcode_helight_tech.jpg) 
 </center>

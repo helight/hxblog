@@ -3,7 +3,7 @@ title = "Function as a Service介绍"
 date = "2018-11-18T13:47:08+02:00"
 tags = ["serverless", "FaaS"]
 categories = ["programming"]
-banner = "img/banners/banner-2.jpg"
+banner = "/images/banners/banner-2.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -62,5 +62,5 @@ FaaS的出现也是服务发展的必然趋势，在微服务大行其道的现�
 <center> 
 看完本文有收获？请分享给更多人 <br> 关注「黑光技术」，关注大数据+微服务 <br> 
 
-![](/img/qrcode_helight_tech.jpg) 
+![](/images/qrcode_helight_tech.jpg) 
 </center>

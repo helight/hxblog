@@ -3,7 +3,7 @@ title: "程序在我机器上是跑的好好的"
 date: 2022-09-17T08:47:20+08:00
 tags: ["云原生"]
 categories: ["云原生", "devops"]
-banner: "img/banners/kubernetes.jpeg"
+banner: "/images/banners/kubernetes.jpeg"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""
@@ -39,6 +39,6 @@ draft: false
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 
 </center>

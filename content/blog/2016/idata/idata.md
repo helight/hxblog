@@ -3,7 +3,7 @@ title = "腾讯游戏数据分析平台"
 date = "2016-05-18T13:47:08+02:00"
 tags = ["bigdata"]
 categories = ["bigdata"]
-banner = "img/banners/banner-2.jpg"
+banner = "/images/banners/banner-2.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -104,5 +104,5 @@ keywords = ["bigdata", "数据分析"]
 
 关注「黑光技术」，关注大数据+微服务<br>
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

@@ -3,7 +3,7 @@ title = "什么是DevOps的生命周期"
 date = "2019-05-18T13:47:08+02:00"
 tags = ["devops", "开源"]
 categories = ["DevOps"]
-banner = "img/banners/DevOPSLifeCycle.jpg"
+banner = "/images/banners/DevOPSLifeCycle.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -85,5 +85,5 @@ DevOps是一个持续的过程，是对开发和运营之间活动关系的一�
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

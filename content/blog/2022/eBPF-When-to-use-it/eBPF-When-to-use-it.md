@@ -3,7 +3,7 @@ title: "何时（以及何时不）使用 eBPF"
 date: 2022-10-31T08:47:20+08:00
 tags: ["ebpf"]
 categories: ["ebpf",]
-banner: "img/banners/ebpf.png"
+banner: "/images/banners/ebpf.png"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""

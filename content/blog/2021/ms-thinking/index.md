@@ -3,7 +3,7 @@ title: "关于微服务开发平台的思考"
 date: 2021-04-11T08:45:20+08:00
 tags: ["microservices"]
 categories: ["microservices"]
-banner: "img/banners/ms.jpg"
+banner: "/images/banners/ms.jpg"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""
@@ -73,5 +73,5 @@ draft: false
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

@@ -3,7 +3,7 @@ title = "什么是ServiceMesh"
 date = "2019-12-07T13:47:08+02:00"
 tags = ["sevicemesh", "开源", "istio"]
 categories = ["sevicemesh", "microservices"]
-banner = "img/banners/istio2.png"
+banner = "/images/banners/istio2.png"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -127,5 +127,5 @@ HELIGHTXU-MB0:istio helightxu$
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

@@ -3,7 +3,7 @@ title = "Flink分布式运行时环境"
 date = "2019-02-20T13:47:08+02:00"
 tags = ["flink", "bigdata"]
 categories = ["flink"]
-banner = "img/banners/flink.jpg"
+banner = "/images/banners/flink.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -81,5 +81,5 @@ API中也包含了一个资源组[resource group](https://ci.apache.org/projects
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

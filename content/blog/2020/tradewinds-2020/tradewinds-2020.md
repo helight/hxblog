@@ -5,7 +5,7 @@ description = "Istio 2020 年的愿景申明和路线图计划。"
 date = "2020-03-06T13:47:08+02:00"
 tags = ["istio", "k8s"]
 categories = ["sevicemesh", "microservices"]
-banner = "img/banners/istio.png"
+banner = "/images/banners/istio.png"
 draft = false
 author = "helight"
 authorlink = "http://helight.cn"
@@ -101,5 +101,5 @@ Here's a snapshot of some more exciting things you can expect from Istio in
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

@@ -3,7 +3,7 @@ title = "【译】有了Service Mesh，还需要 API 网关吗？"
 date = "2020-02-07T13:47:08+02:00"
 tags = ["istio", "microservices"]
 categories = ["sevicemesh", "microservices"]
-banner = "img/banners/istio.png"
+banner = "/images/banners/istio.png"
 draft = false
 author = "helight"
 authorlink = "http://helight.cn"
@@ -180,5 +180,5 @@ API 网关在一些功能点上和服务网格是重合的。它们在使用的�
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

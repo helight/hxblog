@@ -5,7 +5,7 @@ description = "发布可扩展和改进的 webassembly hub，帮助 envoy 和 Is
 date = "2020-03-13T13:47:08+02:00"
 tags = ["istio", "k8s"]
 categories = ["sevicemesh", "microservices"]
-banner = "img/banners/wasm-hub.png"
+banner = "/images/banners/wasm-hub.png"
 draft = false
 author = "helight"
 authorlink = "http://helight.cn"
@@ -69,5 +69,5 @@ Video 2: [https://youtu.be/-XPTGXEpUp8](https://youtu.be/vuJKRnjh1b8)
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

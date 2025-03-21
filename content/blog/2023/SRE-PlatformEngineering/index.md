@@ -3,7 +3,7 @@ title: "【译】SRE和平台工程"
 date: 2023-02-15T08:45:20+08:00
 tags: ["DevOps", "SRE"]
 categories: ["DevOps", "SRE"]
-banner: "img/banners/kubernetes.jpeg"
+banner: "/images/banners/kubernetes.jpeg"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""

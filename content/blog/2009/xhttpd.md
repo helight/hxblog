@@ -3,7 +3,7 @@ title = "Linux嵌入式轻量级http服务器"
 date = "2008-10-25T13:47:08+02:00"
 tags = ["linux", "开源", "http"]
 categories = ["programming"]
-banner = "img/banners/banner-2.jpg"
+banner = "/images/banners/banner-2.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -27,5 +27,5 @@ keywords = ["开源", "linux", "http"]
 
 关注「黑光技术」，关注大数据+微服务<br>
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

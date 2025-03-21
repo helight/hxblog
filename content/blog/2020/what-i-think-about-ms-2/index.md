@@ -3,7 +3,7 @@ title: "对微服务的一些思考---微服务架构下的挑战和应对策略
 date: 2020-05-03T20:57:42+08:00
 tags: ["microservices"]
 categories: ["sevicemesh", "microservices"]
-banner: "img/banners/ms.jpg"
+banner: "/images/banners/ms.jpg"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: "上一篇中梳理介绍了微服务架构的特点和优势，也明确说微服务架构是现代软件开发中解决生产力的一种模式。微服务可以大家加速现代企业中软件开发效率、软件稳定性，扩展性。"
@@ -96,5 +96,5 @@ draft: false
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

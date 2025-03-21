@@ -3,7 +3,7 @@ title = "Flink状态监控介绍"
 date = "2019-09-17T13:47:08+02:00"
 tags = ["flink"]
 categories = ["flink"]
-banner = "img/banners/flink.jpg"
+banner = "/images/banners/flink.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -128,5 +128,5 @@ getRuntimeContext().getMetricGroup().addGroup("MyMetrics").counter("myCounter");
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

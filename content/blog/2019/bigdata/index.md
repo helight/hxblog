@@ -3,7 +3,7 @@ title = "自2013到2019年大数据领域发生了什么变化"
 date = "2019-05-18T13:47:08+02:00"
 tags = ["5G", "cloud"]
 categories = ["doc"]
-banner = "img/banners/banner-2.jpg"
+banner = "/images/banners/banner-2.jpg"
 draft = false
 author = "helight"
 authorlink = "https://helight.cn"
@@ -168,5 +168,5 @@ I’m working on cleaning up the code so that you can generate the dataset by yo
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

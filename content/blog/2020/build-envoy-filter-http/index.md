@@ -3,7 +3,7 @@ title: "envoy filter 开发实践系列 2：官网 http filter 示例编译测�
 date: 2020-09-30T08:45:20+08:00
 tags: ["Envoy", "microservices"]
 categories: ["Envoy", "microservices"]
-banner: "img/banners/envoy.png"
+banner: "/images/banners/envoy.png"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""
@@ -204,5 +204,5 @@ content-length: 0
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

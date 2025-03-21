@@ -3,7 +3,7 @@ title = "API 网关和服务网格功能定位比较"
 date = "2020-02-08T13:47:08+02:00"
 tags = ["istio", "microservices"]
 categories = ["sevicemesh", "microservices"]
-banner = "img/banners/istio2.png"
+banner = "/images/banners/istio2.png"
 draft = false
 author = "helight"
 authorlink = "http://helight.cn"
@@ -48,5 +48,5 @@ keywords = ["istio","microservices", "sevicemesh"]
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

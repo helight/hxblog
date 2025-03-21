@@ -3,7 +3,7 @@ title: "深入学习 eBPF：编写高效 DNS 监控"
 date: 2022-10-23T08:47:20+08:00
 tags: ["ebpf"]
 categories: ["ebpf",]
-banner: "img/banners/ebpf.png"
+banner: "/images/banners/ebpf.png"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""

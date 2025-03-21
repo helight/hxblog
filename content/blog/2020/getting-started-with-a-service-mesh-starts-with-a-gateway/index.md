@@ -3,7 +3,7 @@ title: "ServiceMesh入门的起点：构建一个微服务网关"
 date: 2020-05-24T08:45:20+08:00
 tags: ["istio", "envoy"]
 categories: ["sevicemesh", "microservices"]
-banner: "img/banners/envoy.png"
+banner: "/images/banners/envoy.png"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: "本文是在看了国外 Solo 公司 CTO 的博客之后整理的，本来也是想按原文翻译，但是考虑到我自己在公司实践的思路，还是想把他的思路和我自己的思路做一些结合。"
@@ -91,5 +91,5 @@ Envoy 目前已经成为主流服务网格的数据面，所以其功能和成�
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>

@@ -3,7 +3,7 @@ title = "在minikube上安装istio并测试使用"
 date = "2020-01-18T13:47:08+02:00"
 tags = ["istio", "k8s"]
 categories = ["sevicemesh", "microservices"]
-banner = "img/banners/istio.png"
+banner = "/images/banners/istio.png"
 draft = false
 author = "helight"
 authorlink = "http://helight.cn"
@@ -306,5 +306,5 @@ spec:
 
 关注「黑光技术」，关注大数据+微服务
 
-![](/img/qrcode_helight_tech.jpg)
+![](/images/qrcode_helight_tech.jpg)
 </center>
