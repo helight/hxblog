@@ -3,13 +3,13 @@ linkTitle: "文档"
 title: 介绍
 ---
 
-👋 你好！欢迎来到 Hextra 文档！
+👋 你好！欢迎来到 helight 的文档！
 
 <!--more-->
 
-## 什么是 Hextra？
+## 这个文档做什么用？
 
-Hextra 是一个现代、快速且功能齐全的 [Hugo][hugo] 主题，基于 [Tailwind CSS][tailwind-css] 构建。专为构建美观的文档、博客和网站而设计，它提供了开箱即用的功能和灵活性，以满足各种需求。
+这里主要是我在技术学习上做的一些笔记记录，想在把对每个技术学习的过程记录下来，整理学习过程中做过的一些事情。
 
 ## 特性
 
@@ -34,7 +34,3 @@ Hextra 是一个现代、快速且功能齐全的 [Hugo][hugo] 主题，基于 [
 {{< cards >}}
   {{< card link="getting-started" title="入门指南" icon="document-text" subtitle="学习如何使用 Hextra 创建网站" >}}
 {{< /cards >}}
-
-[hugo]: https://gohugo.io/
-[flex-search]: https://github.com/nextapps-de/flexsearch
-[tailwind-css]: https://tailwindcss.com/

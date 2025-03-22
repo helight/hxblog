@@ -66,10 +66,10 @@ menu:
       name: Showcase
       pageRef: /showcase
       weight: 2
-    #- identifier: documentation
-    #  name: Documentation
-    #  pageRef: /docs
-    #  weight: 3
+    - identifier: documentation
+      name: Documentation
+      pageRef: /docs
+      weight: 3
     - identifier: about
       name: About
       pageRef: /about
