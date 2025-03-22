@@ -1,8 +1,8 @@
 ---
-title: esp32-microPython 学习实践
+title: esp32-microPython实践
 weight: 1
 prev: /docs/
-next: /docs/esp32-microPython/ESP32DevKit32E
+next: /docs/esp32-microPython/02Esp32DevKit32E
 sidebar:
   open: true
 ---
@@ -12,12 +12,12 @@ sidebar:
 <!--more-->
 
 {{< cards >}}
-  {{< card link="ESP32DevKit32E" title="ESP32 DevKit 32E 介绍" icon="document-duplicate" >}}
-  {{< card link="configuration" title="配置" icon="adjustments" >}}
-  {{< card link="markdown" title="Markdown" icon="markdown" >}}
-  {{< card link="syntax-highlighting" title="语法高亮" icon="sparkles" >}}
-  {{< card link="latex" title="LaTeX" icon="variable" >}}
-  {{< card link="diagrams" title="图表" icon="chart-square-bar" >}}
+  {{< card link="02Esp32DevKit32E" title="ESP32 DevKit 32E 介绍" icon="document-duplicate" >}}
+  {{< card link="03tonny-esp32" title="Thonny使用方法" icon="adjustments" >}}
+  {{< card link="04oled1306" title="OLED显示屏12864屏IIC SSD1306使用" icon="markdown" >}}
+  {{< card link="05tft-oled-st7735g" title="TFT显示彩屏 OLED液晶屏 st7735使用" icon="sparkles" >}}
+  {{< card link="06mqttclient" title="esp32 使用 mqtt 通信" icon="variable" >}}
+  {{< card link="07soundled" title="esp32声音控制灯的实现" icon="chart-square-bar" >}}
   {{< card link="shortcodes" title="短代码" icon="template" >}}
   {{< card link="deploy-site" title="部署站点" icon="server" >}}
 {{< /cards >}}

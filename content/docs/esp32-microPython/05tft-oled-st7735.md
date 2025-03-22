@@ -1,7 +1,7 @@
 ---
 title: TFT显示彩屏 OLED液晶屏 st7735使用
 weight: 5
-prev: /docs/esp32-microPython/ESP32DevKit32E
+prev: /docs/esp32-microPython/02Esp32DevKit32E
 next: /docs/esp32-microPython/
 sidebar:
   open: true

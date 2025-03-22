@@ -1,8 +1,8 @@
 ---
-title: esp32-microPython 学习实践
+title: Esp32DevKit32E 介绍
 weight: 2
 prev: /docs/esp32-microPython/
-next: /docs/esp32-microPython/ESP32DevKit32E
+next: /docs/esp32-microPython/02Esp32DevKit32E
 sidebar:
   open: true
 ---
