@@ -12,7 +12,7 @@ date = "2019-05-18T13:47:08+02:00"
 
 - 🌱 Istio 社区 Member，Kubernetes 社区Member。
 - 🤔 参与中国信息通信研究院主导的多个行业标准制定，受聘技术专家。
-- 👯 Linux 内核之旅开源社区的负责人。
+- 👯 [Linux 内核之旅开源社区](https://github.com/linuxkerneltravel/lmp)的负责人。
 - 🔭 在分布式存储，调度、实时计算、微服务、ServiceMesh等领域有丰富的实战经验。 
 <div class="he-list-row"> 
 
