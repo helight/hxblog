@@ -5,8 +5,6 @@ toc: false
 layout: wide
 ---
 
-
-
 <p class="hx-mb-12 hx-text-center hx-text-lg hx-text-gray-500 dark:hx-text-gray-400">
 由 helight 开发的项目，欢迎有兴趣的小伙伴试用，提问题，提需求，fork，或者一起来开发。
 </p>
@@ -43,7 +41,7 @@ layout: wide
 
   {{< card
         link="https://github.com/helight/xhttpd"
-        title="项目简介：编写一个可以在linux嵌入式下轻量级的http服务器软件，能够支持简单的静态页面的传输和cgi技术.目标是可以移植任意操作系统，但是主要针对于嵌入式linux。主要针对于嵌入式系统的web管理的实现。"
+        title="项目简介：一个可以在linux嵌入式下轻量级的http服务器软件，能够支持简单的静态页面的传输和cgi技术.目标是可以移植任意操作系统，但是主要针对于嵌入式linux。"
         image="/blog/2019/201901imgs/xhttpd.png"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
