@@ -18,6 +18,4 @@ sidebar:
   {{< card link="05tft-oled-st7735g" title="TFT显示彩屏 OLED液晶屏 st7735使用" icon="sparkles" >}}
   {{< card link="06mqttclient" title="esp32 使用 mqtt 通信" icon="variable" >}}
   {{< card link="07soundled" title="esp32声音控制灯的实现" icon="chart-square-bar" >}}
-  {{< card link="shortcodes" title="短代码" icon="template" >}}
-  {{< card link="deploy-site" title="部署站点" icon="server" >}}
 {{< /cards >}}

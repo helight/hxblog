@@ -18,7 +18,7 @@ sidebar:
 ## 二、服务部署
 服务端是我在腾讯云的主机上部署的，使用的 mqtt 软件是 [emqx](https://www.emqx.com/) 的免费版本，还是比较好用的，在 ubuntu 上直接安装就可以了。安装过程非常简单，可以看官方的[安装指引](https://www.emqx.com/en/downloads-and-install/broker?os=Ubuntu)。
 
-### 配置
+### 服务配置
 配置文件/etc/emqx/emqx.conf
 ``` conf
 node {
@@ -85,7 +85,7 @@ server{
 界面如下：
 ![](imgs-mqtt/3.jpg)
 
-## esp 端代码开发
+## 三、esp 端代码开发
 
 ### 程序编写
  1. 客户端库文件：umqtt.py，存放在 lib目录下。这个文件github 都有，搜索就可以拿到。
@@ -99,14 +99,8 @@ import json
 import utime
 import math
 
-
-from neopixel import NeoPixel
-from machine import SoftI2C, Pin, SoftSPI
 from lib.umqtt import MQTTClient
-from lib.st7735 import TFT,TFTColor
-from lib.sysfont import sysfont
-from lib import ssd1306
-from lib import ufont
+
 
 def sub_cb(topic, msg): # 回调函数，收到服务器消息后会调用这个函数
     print(topic, msg)
@@ -148,3 +142,17 @@ if __name__ == "__main__":
 发送后接受的数据如下图：
 
 ![](imgs-mqtt/6.jpg)
+
+## 四、总结
+mqtt 协议较为简单而且效率也非常高，目前生态也比较成熟，从客户端到服务端的相关软件服务体系都是比较完善的。对于嵌入式开发还是比较友好的。
+
+MQTT协议设计极简，​头部仅2字节，传输开销远低于HTTP（HTTP头部约8000字节），在低带宽、高延迟的网络中表现优异。其二进制编码特性（如Protocol Buffer）进一步压缩数据体积，序列化效率比JSON高3-10倍。
+协议支持TLS加密传输和用户名/密码认证，可通过ClientID、IP地址实现访问控制（ACL）。生态方面：
+
+​客户端覆盖广：从嵌入式设备（ESP8266、STM32）到X86平台均有成熟SDK
+​服务端多样化：Mosquitto、EMQX等开源Broker，以及阿里云、AWS等商业方案
+​开发便捷：支持30+编程语言，提供Paho、MQTT.js等开源库
+
+MQTT凭借轻量、可靠、灵活的特性，已成为物联网通信的事实标准。其成熟的生态和低开发门槛，尤其适合嵌入式设备在复杂网络环境中的高效通信需求。
+
+所以玩起来还是挺好用的，可以做远程控制灯，控制电视，控制各种家电等等。你也可以来试试。

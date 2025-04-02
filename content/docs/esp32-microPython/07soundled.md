@@ -6,31 +6,26 @@ next: /docs/esp32-microPython/
 sidebar:
   open: true
 ---
-高感度麦克风传感器模块 模块特点：
+## 高感度麦克风传感器模块 模块特点：
 1、有3mm的安装螺丝孔
-
 2、使用5v直流电源供电
-
 3、有模拟量输出
-
 4、有阀值翻转电平输出
-
 5、高感度麦克风，灵敏度高。
-
 6、有电源指示灯
-
 7、比较器输出有指示灯
+
 ![](soundled-imgs/1.avif)
 <!--more-->
 
 ## 一、连接方式
 ![](soundled-imgs/2.png)
 
-## esp 端代码开发
+## 二、实验设计
 程序设计中我加入了声音大于一个值的时候就点亮一个 led 灯，做到了声控灯。led 灯的控制，这里使用了 14 端口。
 模拟获取端口是 35，数字获取端口为 34。
 
-### 程序编写
+## 三、程序编写
  1. 测试文件：soundled.py，文件内容如下：
 
 ``` python
@@ -76,6 +71,6 @@ from funtools import soundled
 if __name__ == "__main__":
     soundled.sound_check()
 ```
-### 测试结果
+## 四、测试结果
 
 ![](soundled-imgs/3.jpg)
