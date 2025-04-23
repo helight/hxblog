@@ -10,7 +10,5 @@ next: /docs/advanced/multi-language
 <!--more-->
 
 {{< cards >}}
-  {{< card link="multi-language" title="多语言" icon="translate" >}}
   {{< card link="customization" title="自定义" icon="pencil" >}}
-  {{< card link="comments" title="评论系统" icon="chat-alt" >}}
 {{< /cards >}}
