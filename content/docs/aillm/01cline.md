@@ -1,5 +1,5 @@
 ---
-title: VSCode CLine 插件自定义配置使用 Claude 3.7 模型进行 AI 开发
+title: VSCode + CLine + Claude 3.7 进行开发
 weight: 1
 prev: /docs/aillm/
 next: /docs/aillm/02tts
