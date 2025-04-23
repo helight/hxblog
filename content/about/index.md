@@ -5,10 +5,11 @@ date = "2019-05-18T13:47:08+02:00"
 +++
 
 ## AboutMe
-许振文，腾讯技术专家工程师。目前在深圳腾讯从事游戏数据分析应用平台，云原生微服务平台的研发和团队建设工作。 
+许振文，一个互联网技术玩家，一个爱聊技术的家伙。在工作和学习中不断思考，把这些思考总结出来，并分享，和大家一起交流进步。
 
-- 10年毕业进入腾讯，从事游戏数据服务和云原生服务建设。
-- 先后负责研发腾讯游戏数据分析平台iData，数据应用平台Xone的研发，目前专注于云原生服务开发平台的研发。
+技术公众号：黑光技术
+
+行业和社区参与：
 
 - 🌱 Istio 社区 Member，Kubernetes 社区Member。
 - 🤔 参与中国信息通信研究院主导的多个行业标准制定，受聘技术专家。
@@ -25,6 +26,9 @@ date = "2019-05-18T13:47:08+02:00"
 </div>
 
 ## 经历
+### 2025
+- 【大会参与】第三届eBPF开发者大会：[eBPF技术及发展会场主场](https://mp.weixin.qq.com/s/UMpcD0HeHwwBGwBhMsbl5g)。
+
 ### 2024
 - 【大会分享】2024壹佰大会：[游戏运营服务出海实践](https://www.top100summit.com/detail?id=17997&qd=dahui)。
 
@@ -32,11 +36,13 @@ date = "2019-05-18T13:47:08+02:00"
 - 【开源社区】[开源之夏项目导师：Open Source Promotion Plan - Summer 2023](https://summer-ospp.ac.cn/2023/org/orgdetail/acac956c-ff57-4ec8-9657-e5a14ff91b62?lang=en)。
 - 【大会分享】[首届中国eBPF大会分享](https://www.ebpftravel.com/2023/)。
 
+
 ### 2022
 - 【开源社区】[开源之夏项目导师：Open Source Promotion Plan - Summer 2022](https://summer-ospp.ac.cn/#/org/orgdetail/acac956c-ff57-4ec8-9657-e5a14ff91b62/)。
 - 【开源社区】[GitLink编程夏令营项目导师](https://www.gitlink.org.cn/glcc/subjects/detail/387)。
 - 【大会分享】中国信息通信研究院-混沌工程实验室《可观测性技木沙龙eBPF技木大揭秘》。
 - 【大会分享】中国信息通信研究院-2020精益软件工程大会《基于eBPF的可观测性技术分析与实践》。
+- 【大会参与】第一届eBPF开发者大会：[会场主场](https://mp.weixin.qq.com/s/cTjFVPtm0RtwisizUALywQ)。
   
 ### 2021
 - 【标准制定】参与中国信息通信研究院《服务网格技术能力要求》的制定。
