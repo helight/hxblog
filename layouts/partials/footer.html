@@ -3,9 +3,8 @@
 {{- $footerSwitchesVisible := and $enableFooterSwitches (or hugo.IsMultilingual $displayThemeToggle) -}}
 {{- $copyrightSectionVisible := or (.Site.Params.footer.displayPoweredBy | default true) .Site.Params.footer.displayCopyright -}}
 
-{{- $poweredBy := "Powered by helight" -}}
+{{- $poweredBy := "Powered by Helight." -}}
 {{- $copyright := (T "copyright") | default "© 2025 Helight." -}}
-{{- $poweredBy := (T "poweredBy") | default "Powered by Helight." -}}
 
 {{- $footerWidth := "hx:max-w-screen-xl" -}}
 {{- with .Site.Params.footer.width -}}
@@ -37,7 +36,7 @@
         class="{{ $footerWidth }} hx:mx-auto hx:flex hx:justify-center hx:py-12 hx:pl-[max(env(safe-area-inset-left),1.5rem)] hx:pr-[max(env(safe-area-inset-right),1.5rem)] hx:text-gray-600 hx:dark:text-gray-400 hx:md:justify-start"
       >
       <div class="hx:flex hx:w-full hx:flex-col hx:items-center hx:sm:items-start">
-
+        {{- if (.Site.Params.footer.displayPoweredBy | default true) }}<div class="hx:font-semibold">{{ template "theme-credit" $poweredBy }}</div>{{- end -}}
         {{- if .Site.Params.footer.displayCopyright }}<div class="hx:mt-6 hx:text-xs">{{ .Site.Params.footer.copyright | markdownify }}</div>{{- end -}}
         
         <div class="hx:text-xs">{{ .Site.Params.footer.sharenotes }}</div>
@@ -48,11 +47,11 @@
 </footer>
 
 {{- define "theme-credit" -}}
-  <a class="hx:flex hx:text-sm hx:items-center hx:gap-1 hx:text-current" target="_blank" rel="noopener noreferrer" title="Hextra GitHub Homepage" href="https://github.com/imfing/hextra">
+  <a class="hx:flex hx:text-sm hx:items-center hx:gap-1 hx:text-current" target="_blank" rel="noopener noreferrer" title="Helight GitHub Homepage" href="https://github.com/helight">
     <span>
       {{- . | markdownify -}}
-      {{- if strings.Contains . "Hextra" -}}
-        {{- partial "utils/icon.html" (dict "name" "hextra" "attributes" `height=1em class="hx:inline-block hx:ltr:ml-1 hx:rtl:mr-1 hx:align-[-2.5px]"`) -}}
+      {{- if strings.Contains . "Helight" -}}
+        {{- partial "utils/icon.html" (dict "name" "github" "attributes" `height=1em class="hx:inline-block hx:ltr:ml-1 hx:rtl:mr-1 hx:align-[-2.5px]"`) -}}
       {{- end -}}
     </span>
   </a>

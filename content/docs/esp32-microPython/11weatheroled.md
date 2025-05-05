@@ -184,10 +184,35 @@ if __name__ == "__main__":
 
 ## 七、总结
 
-从整体的实现思路、实现过程和最终给出的代码来看，质量还是非常不错的，不过我没有集成测试，看代码还是可以的。
+从整体的实现思路、实现过程和最终给出的代码来看，质量还是非常不错的，集成测试之后，发现有几个地方需要简单修改的，但是整体看代码还是可以的。
 
 首先实现思路是没有大问题的，要考虑的线程安全等问题都考虑的还是比较好的，这些问题，在我之前写的测试程序中都没有考虑到位的，但是他这里考虑的还是比较全面的。
 
 实现的代码逻辑上来看也没有什么问题。思考+实现输出大概不到 2 分钟。还是非常给力的。
 
 后面开发这类简单项目，大模型的服务能力应该是非常有帮助的。
+
+## 八、修改代码部分
+``` python
+# 时间获取代码需要修改，修改如下，这里时间的映射关系有问题，需要稍微调整一下。
+year, month, day, hour, minute, second, _, _ = time.localtime(time.time() + 8 * 3600)
+current_time = f"{month:02d}:{day:02d}-{hour:02d}:{minute:02d}:{second:02d}"
+
+# 天气获取函数需要修改，我是用了心知天气的 API：https://www.seniverse.com/
+# 主要修改的是问题和描述获取方式
+print(data)
+temperature = data["results"][0]["now"]["temperature"]
+description = data["results"][0]["now"]["text"]
+
+# main函数修改，这部分其实不修改也是可以的，主要是把初始化的一些代码规整了进来
+if __name__ == "__main__":
+    # 同步时间（UTC）
+    connect_wifi()
+    ntptime.settime()  # 同步 UTC 时间
+    
+    start_new_thread(update_time_display, ())  # 线程 A：时间显示主线程
+    fetch_weather()                            # 主线程运行 B：天气获取
+
+    while True:
+        time.sleep(1)  # 防止主进程退出，让子线程持续执行
+
