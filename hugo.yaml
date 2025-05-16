@@ -14,6 +14,17 @@ outputs:
   home: [HTML]
   page: [HTML]
   section: [HTML, RSS]
+  
+enableInlineShortcodes: true
+# Define the number of posts per page
+pagination:
+  disableAliases: false
+  pagerSize: 15
+  path: page
+
+Permalinks:
+    # blog = "/blog/:year/:month/:day/:filename/"
+    blog: "/blog/:year/:filename/"
 
 defaultContentLanguage: zh-cn
 languages:
@@ -44,17 +55,6 @@ markup:
           block: [['\[', '\]'], ['$$', '$$']]
           inline: [['\(', '\)']]
         enable: true
-
-enableInlineShortcodes: true
-# Define the number of posts per page
-pagination:
-  disableAliases: false
-  pagerSize: 15
-  path: page
-
-Permalinks:
-    # blog = "/blog/:year/:month/:day/:filename/"
-    blog: "/blog/:year/:filename/"
 
 menu:
   main:
