@@ -6,7 +6,7 @@ categories: ["科技新闻"]
 banner: "/blog/2026/2026-03-10科技新闻/03-10-imgs/banner.jpg"
 author: "helight"
 authorlink: "http://helight.cn"
-summary: "每日科技资讯汇总，共157条，来源：海外63条、国内94条"
+summary: "每日科技资讯汇总，共100条，来源：海外40条、国内60条"
 keywords: ["科技新闻", "日报", "AI", "手机", "云计算"]
 draft: false
 ---
@@ -14,310 +14,252 @@ draft: false
 # 科技新闻日报 · 2026-03-10
 
 > 📅 抓取日期：2026-03-10  
-> 📰 共收录 **157** 条资讯  
-> 🌏 来源：海外 63条, 国内 94条  
+> 📰 共收录 **100** 条资讯  
+> 🌏 来源：海外 40条, 国内 60条  
 
 ---
 
 ## 目录
 
-- [🤖 AI / 机器学习](#ai--机器学习) (79)
-- [📱 手机 / 消费电子](#手机--消费电子) (14)
+- [🤖 AI / 机器学习](#ai--机器学习) (52)
+- [📱 手机 / 消费电子](#手机--消费电子) (8)
 - [☁️ 云计算 / 基础设施](#云计算--基础设施) (3)
-- [🔒 网络安全](#网络安全) (5)
-- [💰 科技商业](#科技商业) (6)
-- [🔬 科学 / 前沿技术](#科学--前沿技术) (2)
-- [📰 其他科技资讯](#其他科技资讯) (48)
+- [🔒 网络安全](#网络安全) (2)
+- [💰 科技商业](#科技商业) (3)
+- [🔬 科学 / 前沿技术](#科学--前沿技术) (4)
+- [📰 其他科技资讯](#其他科技资讯) (28)
 
 ---
 
 ## 🤖 AI / 机器学习
 
-### [Apple now makes one in four iPhones in India: report](https://techcrunch.com/2026/03/09/apple-now-makes-one-in-four-iphones-in-india-report/)
+### [苹果现在在印度生产四分之一的iPhone ：报告](https://techcrunch.com/2026/03/09/apple-now-makes-one-in-four-iphones-in-india-report/)
+*Apple now makes one in four iPhones in India: report*
 **来源：TechCrunch** | 海外
 
-> Founder Summit 2026 in Boston: Dont miss ticket savings of up to $300. Register Now. Save up to $680 on your Disrupt 2026 pass. Ends 11:59 p.m. PT tonight. REGISTER NOW. Apple is now manufacturing 25% of its iPhones in India hitting a milestone JPMorgan predicted back in 2022 as part of its long-term plan to reduce its reliance on China, Bloomberg reported. Last year, India accounted for 55 million iPhones of the roughly 220 million to 230 million produced worldwide, Bloombergs report said. Apple has also moved quickly to deepen that commitment: it began making the entire iPhone 17 lineup in I
+> 创始人峰会2026 ，波士顿：不要错过高达300 $的门票优惠。立即注册。Disrupt 2026通行证最高可节省$ 680。今晚太平洋时间晚上11:59结束。据彭博社报道，苹果目前正在印度生产25 ％的iPhone ，达到摩根大通在2022年预测的里程碑，这是其减少对中国依赖的长期计划的一部分。彭博社报道称，去年，在全球生产的大约2.2亿至2.3亿部iPhone中，印度占据了5500万部。
 >
 > 🔗 [查看原文](https://techcrunch.com/2026/03/09/apple-now-makes-one-in-four-iphones-in-india-report/)
 
 ---
 
-### [Yann LeCun’s AMI Labs raises $1.03 billion to build world models](https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/)
+### [Yann LeCun的AMI Labs筹集了$ 10.3亿用于构建世界模型](https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/)
+*Yann LeCun’s AMI Labs raises $1.03 billion to build world models*
 **来源：TechCrunch** | 海外
 
-> Founder Summit 2026 in Boston: Dont miss ticket savings of up to $300. Register Now. Save up to $680 on your Disrupt 2026 pass. Ends 11:59 p.m. PT tonight. REGISTER NOW. Image Credits:Ruhani Kaur/Bloomberg via Getty Images / Getty Images AI Yann LeCuns AMI Labs raises $1.03 billion to build world models Anna Heim 10:00 PM PDT · March 9, 2026 AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation. AMI is working on world models, or AI that learns from reality, not just from language. This category 
+> 创始人峰会2026 ，波士顿：不要错过高达300美元的门票优惠。立即注册。购买Disrupt 2026通行证，最多可节省680美元。今晚太平洋时间晚上11:59结束。立即注册。图片来源： Ruhani Kaur/彭博社通过Getty Images/Getty Images AI Yann LeCuns AMI Labs筹集了10.3亿美元，用于建立世界模型Anna Heim太平洋时间晚上10:00 · 2026年3月9日AMI Labs ，这是图灵奖得主Yann LeCun在离开Meta后共同创立的新合资企业，以35亿美元的投资前估值筹集了10.3亿美元。AM
 >
 > 🔗 [查看原文](https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/)
 
 ---
 
-### [An iPhone-hacking toolkit used by Russian spies likely came from U.S military contractor](https://techcrunch.com/2026/03/09/an-iphone-hacking-toolkit-used-by-russian-spies-likely-came-from-u-s-military-contractor/)
+### [俄罗斯间谍使用的iPhone黑客工具包可能来自美国军事承包商](https://techcrunch.com/2026/03/09/an-iphone-hacking-toolkit-used-by-russian-spies-likely-came-from-u-s-military-contractor/)
+*An iPhone-hacking toolkit used by Russian spies likely came from U.S military contractor*
 **来源：TechCrunch** | 海外
 
-> Google found a series of hacking tools they said were used by a Russian espionage group and a cybercriminal group in China. Sources from a U.S. government defense contractor said some of those hacking tools were theirs.
+> 谷歌发现了一系列黑客工具，他们说这些工具被俄罗斯间谍集团和中国的网络犯罪集团使用。美国政府国防承包商的消息来源称，其中一些黑客工具是他们的。
 >
 > 🔗 [查看原文](https://techcrunch.com/2026/03/09/an-iphone-hacking-toolkit-used-by-russian-spies-likely-came-from-u-s-military-contractor/)
 
 ---
 
-### [Electric air taxi maker Archer hits back at Joby in countersuit alleging concealed Chinese ties](https://techcrunch.com/2026/03/09/electric-air-taxi-maker-archer-hits-back-at-joby-in-countersuit-alleging-concealed-chinese-ties/)
+### [电动空中出租车制造商Archer在反诉中回击Joby ，指控隐瞒中国关系](https://techcrunch.com/2026/03/09/electric-air-taxi-maker-archer-hits-back-at-joby-in-countersuit-alleging-concealed-chinese-ties/)
+*Electric air taxi maker Archer hits back at Joby in countersuit alleging concealed Chinese ties*
 **来源：TechCrunch** | 海外
 
-> Founder Summit 2026 in Boston: Dont miss ticket savings of up to $300. Register Now. Save up to $680 on your Disrupt 2026 pass. Ends 11:59 p.m. PT tonight. REGISTER NOW. Image Credits:Archer Aviation Transportation Electric air taxi maker Archer hits back at Joby in countersuit alleging concealed Chinese ties Kirsten Korosec 6:41 PM PDT · March 9, 2026 Electric air taxi developer Archer Aviation responded to a lawsuit Monday with its own counterclaims that rival Joby Aviation allegedly defrauded the U.S. government and its competitors by falsely presenting itself as an American-made company. T
+> 创始人峰会2026 ，波士顿：不要错过高达300 $的门票优惠。立即注册。Disrupt 2026通行证最高可节省$ 680。今晚太平洋时间晚上11:59结束。立即注册。图片来源： Archer Aviation Transportation电动空中出租车制造商Archer在反诉中回击Joby ，指控隐瞒中国关系Kirsten Korosec太平洋时间下午6:41 · 2026年3月9日电动空中出租车开发商Archer Aviation周一以自己的反诉回应诉讼，竞争对手Joby Aviation涉嫌欺诈
 >
 > 🔗 [查看原文](https://techcrunch.com/2026/03/09/electric-air-taxi-maker-archer-hits-back-at-joby-in-countersuit-alleging-concealed-chinese-ties/)
 
 ---
 
-### [Founders Fund nears $6B close for latest growth fund, sources say](https://techcrunch.com/2026/03/09/founders-fund-nears-6-billion-close-for-latest-growth-fund-sources-say/)
+### [消息人士称， Founders Fund的最新成长基金接近$ 6B收盘价](https://techcrunch.com/2026/03/09/founders-fund-nears-6-billion-close-for-latest-growth-fund-sources-say/)
+*Founders Fund nears $6B close for latest growth fund, sources say*
 **来源：TechCrunch** | 海外
 
-> The fresh fundraise comes less than a year after Founders Fund closed its third growth fund, a $4.6 billion vehicle intended primarily for follow-on investments in its successful late-stage companies.
+> 新一轮融资是在Founders Fund关闭其第三只成长型基金后不到一年的时间内完成的，这只$ 46亿的工具主要用于对其成功后期公司的后续投资。
 >
 > 🔗 [查看原文](https://techcrunch.com/2026/03/09/founders-fund-nears-6-billion-close-for-latest-growth-fund-sources-say/)
 
 ---
 
-### [Electric air taxis are about to take flight in 26 states](https://techcrunch.com/2026/03/09/electric-air-taxis-are-about-to-take-flight-in-26-states/)
+### [电动空中出租车即将在26个州起飞](https://techcrunch.com/2026/03/09/electric-air-taxis-are-about-to-take-flight-in-26-states/)
+*Electric air taxis are about to take flight in 26 states*
 **来源：TechCrunch** | 海外
 
-> Founder Summit 2026 in Boston: Dont miss ticket savings of up to $300. Register Now. Save up to $680 on your Disrupt 2026 pass. Ends 11:59 p.m. PT tonight. REGISTER NOW. Image Credits:Joby Aviation Transportation Electric air taxis are about to take flight in 26 states Kirsten Korosec 3:30 PM PDT · March 9, 2026 The Federal Aviation Administration (FAA) approved eight pilot programs that will allow a handful of companies, including Archer Aviation, Beta Technologies, Joby Aviation, and Wisk to start widespread electric aircraft testing as early as this summer. The three-year program, which wil
+> 创始人峰会2026 ，波士顿：不要错过高达300 $的门票优惠。立即注册。Disrupt 2026通行证最高可节省$ 680。今晚太平洋时间晚上11:59结束。立即注册。图片来源： Joby Aviation Transportation电动空中出租车即将在26个州起飞Kirsten Korosec太平洋夏令时下午3:30 · 2026年3月9日美国联邦航空管理局（ FAA ）批准了八个试点项目，将允许少数几家公司，包括Archer Aviation、Beta Technologies、Joby Aviation和Wisk
 >
 > 🔗 [查看原文](https://techcrunch.com/2026/03/09/electric-air-taxis-are-about-to-take-flight-in-26-states/)
 
 ---
 
-### [OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit](https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/)
+### [OpenAI和谷歌员工在国防部诉讼中急于为Anthropic辩护](https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/)
+*OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit*
 **来源：TechCrunch** | 海外
 
-> More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, according to court filings.
+> 根据法庭文件，超过30名OpenAI和谷歌DeepMind员工签署了一份声明，支持Anthropic针对国防部的诉讼，此前该机构将该人工智能公司标记为供应链风险。
 >
 > 🔗 [查看原文](https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/)
 
 ---
 
-### [Anthropic launches code review tool to check flood of AI-generated code](https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/)
+### [Anthropic推出代码审查工具，以检查AI生成的大量代码](https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/)
+*Anthropic launches code review tool to check flood of AI-generated code*
 **来源：TechCrunch** | 海外
 
-> Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code produced with AI.
+> Anthropic在Claude Code中推出了Code Review ，这是一个多代理系统，可自动分析AI生成的代码，标记逻辑错误，并帮助企业开发人员管理使用AI生成的越来越多的代码。
 >
 > 🔗 [查看原文](https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/)
 
 ---
 
-### [Bluesky CEO Jay Graber steps down](https://techcrunch.com/2026/03/09/bluesky-ceo-jay-graber-steps-down/)
+### [Bluesky首席执行官Jay Graber辞职](https://techcrunch.com/2026/03/09/bluesky-ceo-jay-graber-steps-down/)
+*Bluesky CEO Jay Graber steps down*
 **来源：TechCrunch** | 海外
 
-> Founder Summit 2026 in Boston: Dont miss ticket savings of up to $300. Register Now. Save up to $680 on your Disrupt 2026 pass. Ends 11:59 p.m. PT tonight. REGISTER NOW. Image Credits:TechCrunch Startups Bluesky CEO Jay Graber steps down Sarah Perez 12:32 PM PDT · March 9, 2026 Bluesky CEO Jay Graber is stepping down from the top leadership position and transitioning to a new role as chief innovation officer, the company announced Monday. Graber, who has helped grow the X and Threads competitor to 43 million users and furthered the development of its underlying AT Protocol, will be replaced by
+> 创始人峰会2026 ，波士顿：不要错过高达300 $的门票优惠。立即注册。Disrupt 2026通行证最高可节省$ 680。今晚太平洋时间晚上11:59结束。立即注册。图片来源： TechCrunch Startups Bluesky首席执行官杰伊·格雷伯（ Jay Graber ）于太平洋标准时间2026年3月9日中午12:32下台。该公司周一宣布， Bluesky首席执行官杰伊·格雷伯（ Jay Graber ）将从最高领导职位下台，并过渡到首席创新官的新职位。Graber ，他帮助发展了X和Threads的竞争对手
 >
 > 🔗 [查看原文](https://techcrunch.com/2026/03/09/bluesky-ceo-jay-graber-steps-down/)
 
 ---
 
-### [Periwinkle is making self-hosted social media on Bluesky’s AT Protocol even easier](https://techcrunch.com/2026/03/09/periwinkle-at-protocol-bluesky-self-hosted-social-media/)
+### [Periwinkle让Bluesky AT Protocol上的自托管社交媒体变得更加轻松](https://techcrunch.com/2026/03/09/periwinkle-at-protocol-bluesky-self-hosted-social-media/)
+*Periwinkle is making self-hosted social media on Bluesky’s AT Protocol even easier*
 **来源：TechCrunch** | 海外
 
-> Founder Summit 2026 in Boston: Dont miss ticket savings of up to $300. Register Now. Save up to $680 on your Disrupt 2026 pass. Ends 11:59 p.m. PT tonight. REGISTER NOW. Image Credits:Arterra / Contributor (opens in a new window) / Getty Images Social Periwinkle is making self-hosted social media on Blueskys AT Protocol even easier Sarah Perez 11:18 AM PDT · March 9, 2026 The Berlin-based startup Periwinkle is offering a new avenue for those wanting to leave centralized social media operated by Big Tech companies. Instead of joining a decentralized, open social networking app like Mastodon or 
+> 创始人峰会2026 ，波士顿：不要错过高达300 $的门票优惠。立即注册。Disrupt 2026通行证最高可节省$ 680。今晚太平洋时间晚上11:59结束。立即注册。图片来源： Arterra/Contributor （在新窗口中打开）/Getty Images Social Periwinkle让Blueskys AT Protocol上的自托管社交媒体变得更加容易Sarah Perez 11:18 AM PDT · 2026年3月9日柏林创业公司Periwinkle为那些希望离开由
 >
 > 🔗 [查看原文](https://techcrunch.com/2026/03/09/periwinkle-at-protocol-bluesky-self-hosted-social-media/)
 
 ---
 
-### [OpenAI acquires Promptfoo to secure its AI agents](https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/)
+### [OpenAI收购Promptfoo以保护其AI代理](https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/)
+*OpenAI acquires Promptfoo to secure its AI agents*
 **来源：TechCrunch** | 海外
 
-> Founder Summit 2026 in Boston: Dont miss ticket savings of up to $300. Register Now. Save up to $680 on your Disrupt 2026 pass. Ends 11:59 p.m. PT tonight. REGISTER NOW. OpenAI announced Monday it has acquired Promptfoo, an AI security startup founded in 2024 to protect LLMs from online adversaries. The frontier lab said in a blog post that once the deal closes, Promptfoos technology will be integrated into OpenAI Frontier, its enterprise platform for AI agents. The development of independent AI agents that perform digital tasks has generated excitement about productivity gains. But its also g
+> 创始人峰会2026 ，波士顿：不要错过高达300 $的门票优惠。立即注册。Disrupt 2026通行证最高可节省$ 680。今晚太平洋时间晚上11:59结束。立即注册。OpenAI周一宣布已收购Promptfoo ，这是一家成立于2024年的人工智能安全初创公司，旨在保护LLM免受在线对手的攻击。前沿实验室在一篇博客文章中表示，一旦交易完成， Promptfoos技术将整合到其AI代理企业平台OpenAI Frontier中。自主人工智能的发展
 >
 > 🔗 [查看原文](https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/)
 
 ---
 
-### [GM figured out how to navigate EV uncertainty with the Chevy Bolt](https://techcrunch.com/2026/03/09/gm-figured-out-how-to-navigate-ev-uncertainty-with-the-chevy-bolt/)
-**来源：TechCrunch** | 海外
-
-> Founder Summit 2026 in Boston: Dont miss ticket savings of up to $300. Register Now. Save up to $680 on your Disrupt 2026 pass. Ends 11:59 p.m. PT tonight. REGISTER NOW. Image Credits:Tim De Chant Transportation GM figured out how to navigate EV uncertainty with the Chevy Bolt Tim De Chant 10:29 AM PDT · March 9, 2026 Die-hard Chevrolet Bolt fans rejoiced when General Motors announced it was bringing a refreshed version of the EV subcompact back into production. The GM brand gave a lot of credit to those owners — and to Bolt supporters within General Motors — for the car’s revival. But fandom 
->
-> 🔗 [查看原文](https://techcrunch.com/2026/03/09/gm-figured-out-how-to-navigate-ev-uncertainty-with-the-chevy-bolt/)
-
----
-
-### [Anthropic sues Defense Department over supply-chain risk designation](https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/)
-**来源：TechCrunch** | 海外
-
-> Founder Summit 2026 in Boston: Dont miss ticket savings of up to $300. Register Now. Save up to $680 on your Disrupt 2026 pass. Ends 11:59 p.m. PT tonight. REGISTER NOW. Image Credits:Benjamin Girette / Bloomberg / Getty Images Government & Policy Anthropic sues Defense Department over supply-chain risk designation Rebecca Bellan 10:25 AM PDT · March 9, 2026 Anthropic has made good on its promise to challenge the Department of Defense (DOD) in court after the agency labeled it a supply-chain risk late last week. The Claude maker filed two complaints against the DOD on Monday in California and 
->
-> 🔗 [查看原文](https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/)
-
----
-
-### [Russian government hackers targeting Signal and WhatsApp users, Dutch spies warn](https://techcrunch.com/2026/03/09/russian-government-hackers-targeting-signal-and-whatsapp-users-dutch-spies-warn/)
-**来源：TechCrunch** | 海外
-
-> Founder Summit 2026 in Boston: Dont miss ticket savings of up to $300. Register Now. Save up to $680 on your Disrupt 2026 pass. Ends 11:59 p.m. PT tonight. REGISTER NOW. Image Credits:Matthias Balk/picture alliance / Getty Images Security Russian government hackers targeting Signal and WhatsApp users, Dutch spies warn Lorenzo Franceschi-Bicchierai 8:56 AM PDT · March 9, 2026 Russian government hackers are targeting Signal and WhatsApp users, particularly government and military officials, as well as journalists all over the world, Dutch intelligence said on Monday. The Netherlands’ Defence Int
->
-> 🔗 [查看原文](https://techcrunch.com/2026/03/09/russian-government-hackers-targeting-signal-and-whatsapp-users-dutch-spies-warn/)
-
----
-
-### [The government shutdown is hitting airports — but not ICE](https://www.theverge.com/policy/891686/dhs-government-shutdown-ice-cbp-tsa-airports)
+### [政府关闭正在打击机场—但不是ICE](https://www.theverge.com/policy/891686/dhs-government-shutdown-ice-cbp-tsa-airports)
+*The government shutdown is hitting airports — but not ICE*
 **来源：The Verge** | 海外
 
-> Chaos reigned at airports across the country last weekend, with thousands of travelers reportedly waiting in hours-long security lines thanks to staffing shortages. Transportation Security Administration (TSA) and Coast Guard workers have turned to food banks for assistance after weeks without pay. But amid a partial government shutdown aimed at curtailing the Department of Homeland []
+> 上周末，全国各地的机场一片混乱，据报道，由于人员短缺，成千上万的旅客排着长达数小时的安全队伍等待。运输安全管理局（ TSA ）和海岸警卫队工作人员在数周无薪后转向食品银行寻求援助。但在政府部分关闭的情况下，旨在削减国土安全部[]
 >
 > 🔗 [查看原文](https://www.theverge.com/policy/891686/dhs-government-shutdown-ice-cbp-tsa-airports)
 
 ---
 
-### [Everything from the last week of everything is gambling now](https://www.theverge.com/tech/891676/kalshi-iran-prediction-markets)
+### [从上周开始，一切都在赌博](https://www.theverge.com/tech/891676/kalshi-iran-prediction-markets)
+*Everything from the last week of everything is gambling now*
 **来源：The Verge** | 海外
 
-> Kalshi is facing backlash from its own users after a class action lawsuit was filed last week alleging it failed to pay out as promised for wagers regarding when Iranian Supreme Leader Ayatollah Ali Khamenei would leave or be removed from office. Khamenei was killed in strikes on Iran last month, but according to the []
+> Kalshi在上周提起集体诉讼后面临用户的强烈反对，该诉讼指控其未能按照承诺支付伊朗最高领导人阿亚图拉·阿里·哈梅内伊何时离职或被免职的赌注。哈梅内伊在上个月对伊朗的袭击中丧生，但根据[]
 >
 > 🔗 [查看原文](https://www.theverge.com/tech/891676/kalshi-iran-prediction-markets)
 
 ---
 
-### [Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon](https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google)
+### [OpenAI和谷歌的员工支持Anthropic对五角大楼的诉讼](https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google)
+*Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon*
 **来源：The Verge** | 海外
 
-> On Monday, Anthropic filed its lawsuit against the Department of Defense over being designated as a supply chain risk. Hours later, nearly 40 employees from OpenAI and Google - including Jeff Dean, Google's chief scientist and Gemini lead - filed an amicus brief in support of Anthropic's lawsuit, detailing their concerns over the Trump administration's []
+> 周一， Anthropic就被指定为供应链风险向国防部提起诉讼。几个小时后，来自OpenAI和谷歌的近40名员工（包括谷歌首席科学家兼Gemini负责人杰夫·迪恩（ Jeff Dean ） ）提交了一份法庭之友简报，支持Anthropic的诉讼，详细说明了他们对特朗普政府
 >
 > 🔗 [查看原文](https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google)
 
 ---
 
-### [You can get three months of Disney Plus and Hulu for $15](https://www.theverge.com/gadgets/891598/disney-plus-hulu-academy-awards-deal-sale)
+### [您可以以$ 15的价格获得三个月的Disney Plus和Hulu](https://www.theverge.com/gadgets/891598/disney-plus-hulu-academy-awards-deal-sale)
+*You can get three months of Disney Plus and Hulu for $15*
 **来源：The Verge** | 海外
 
-> If you’re looking for a way to stream the Oscars this weekend, or catch up on nominees like The Secret Agent, the Disney Plus and Hulu bundle is worth a look. The ceremony will stream live on Hulu for the first time on March 15th, and right now, new and eligible returning subscribers can get []
+> 如果您正在寻找本周末观看奥斯卡颁奖典礼的方式，或者正在寻找《秘密特工》等提名作品，那么迪士尼Plus和Hulu捆绑包值得一看。仪式将于3月15日在Hulu上首次直播，现在，新的和符合条件的回头订阅者可以获得[]
 >
 > 🔗 [查看原文](https://www.theverge.com/gadgets/891598/disney-plus-hulu-academy-awards-deal-sale)
 
 ---
 
-### [Apples new M5 Max feels like a huge upgrade if you bought your laptop three years ago](https://www.theverge.com/gadgets/891508/apple-macbook-pro-air-2026-m5-max-benchmark-comparisons-m4-m3-m2-m1)
-**来源：The Verge** | 海外
-
-> We've been busy testing many new MacBooks, ranging from the new $1,099 M5 MacBook Air, going all the way up the $6,149 16-inch MacBook Pro with the M5 Max chip. While these computers are identical in design to last year's models, they have some things in common: neither delivers a significant lead over their M4 []
->
-> 🔗 [查看原文](https://www.theverge.com/gadgets/891508/apple-macbook-pro-air-2026-m5-max-benchmark-comparisons-m4-m3-m2-m1)
-
----
-
-### [‘Cash Apples’ is giving away $500,000 to people who click on trees in a web browser](https://www.theverge.com/games/891544/cash-apples-is-giving-away-500000-to-people-who-click-on-trees-in-a-web-browser)
-**来源：The Verge** | 海外
-
-> Want to make real money just by clicking on virtual trees? Starting today at 1PM PT / 4PM ET, residents of the United States can begin an online hunt for golden apples in a cutesy web game - collect enough of them, and Cash App will send you a certain amount of cash. (The game's []
->
-> 🔗 [查看原文](https://www.theverge.com/games/891544/cash-apples-is-giving-away-500000-to-people-who-click-on-trees-in-a-web-browser)
-
----
-
-### [Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
+### [Yann LeCun筹集了10亿美元用于构建理解物理世界的人工智能](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
+*Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World*
 **来源：Wired** | 海外
 
-> Save this storySave StorySave this storyAdvanced Machine Intelligence (AMI), a new Paris-based startup cofounded by Meta’s former chief AI scientist Yann LeCun, announced Monday it has raised more than $1 billion to develop AI world models. LeCun argues that most human reasoning is grounded in the physical world, not language, and that AI world models are necessary to develop true human-level intelligence. “The idea that you’re going to extend the capabilities of LLMs [large language models] to the point that they’re going to have human-level intelligence is complete nonsense,” he said in an i
+> 保存这个故事保存这个故事由Meta的前首席人工智能科学家Yann LeCun共同创立的新巴黎初创公司Advanced Machine Intelligence （ AMI ）周一宣布，它已筹集超过10 $ 10亿用于开发人工智能世界模型。LeCun认为，大多数人类推理都基于物理世界，而不是语言，人工智能世界模型对于开发真正的人类智能是必要的。“您将LLM [大型语言模型]的能力扩展到
 >
 > 🔗 [查看原文](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
 
 ---
 
-### [Nvidia Is Planning to Launch an Open-Source AI Agent Platform](https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/)
+### [英伟达计划推出开源人工智能代理平台](https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/)
+*Nvidia Is Planning to Launch an Open-Source AI Agent Platform*
 **来源：Wired** | 海外
 
-> Save this storySave StorySave this storyNvidia is planning to launch an open-source platform for AI agents, people familiar with the company’s plans tell WIRED. The chipmaker has been pitching the product, referred to as NemoClaw, to enterprise software companies. The platform will allow these companies to dispatch AI agents to perform tasks for their own workforces. Companies will be able to access the platform regardless of whether their products run on Nvidia’s chips, sources say. The move comes as Nvidia prepares for its annual developer conference in San Jose next week. Ahead of the confe
+> 保存此故事保存此故事Nvidia计划为AI代理商推出一个开源平台，熟悉公司计划的人士告诉WIRED。这家芯片制造商一直在向企业软件公司推销该产品，称为NemoClaw。该平台将允许这些公司派遣人工智能代理为自己的员工执行任务。消息人士称，无论其产品是否在英伟达芯片上运行，公司都将能够访问该平台。
 >
 > 🔗 [查看原文](https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/)
 
 ---
 
-### [Anthropic Claims Pentagon Feud Could Cost It Billions](https://www.wired.com/story/anthropic-claims-business-is-in-peril-due-to-supply-chain-risk-designation/)
+### [人类声称五角大楼的争斗可能会花费数十亿美元](https://www.wired.com/story/anthropic-claims-business-is-in-peril-due-to-supply-chain-risk-designation/)
+*Anthropic Claims Pentagon Feud Could Cost It Billions*
 **来源：Wired** | 海外
 
-> Save this storySave StorySave this storyAnthropic executives allege that current customers and prospective ones have been demanding new terms and even backing out of negotiations since the US Department of Defense labeled the AI startup a supply-chain risk late last month, according to court papers that also revealed new financial details about the company. Hundreds of millions of dollars in expected revenue this year from work tied to the Pentagon is already at risk for Anthropic, the company’s chief financial officer, Krishna Rao, wrote in a court filing on Monday. But if the government has 
+> 这家AI初创公司的高管表示，在特朗普政府将其标记为供应链风险后，公司暂停了交易谈判，并警告说，这种影响可能会导致重大的收入损失。
 >
 > 🔗 [查看原文](https://www.wired.com/story/anthropic-claims-business-is-in-peril-due-to-supply-chain-risk-designation/)
 
 ---
 
-### [OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government](https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/)
+### [OpenAI和Google Workers提交法庭之友简报，支持Anthropic反对美国政府](https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/)
+*OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government*
 **来源：Wired** | 海外
 
-> Save this storySave StorySave this storyMore than 30 employees from OpenAI and Google, including Google DeepMind chief scientist Jeff Dean, filed an amicus brief on Monday in support of Anthropic in its legal fight against the US government. “If allowed to proceed, this effort to punish one of the leading US AI companies will undoubtedly have consequences for the United States’ industrial and scientific competitiveness in the field of artificial intelligence and beyond,” the employees wrote. The brief was filed just hours after Anthropic sued the Department of Defense and other federal agencie
+> 保存此故事保存此故事OpenAI和Google的30多名员工，包括Google DeepMind首席科学家Jeff Dean ，周一提交了一份法庭之友简报，以支持Anthropic与美国政府的法律斗争。员工们写道： “如果允许继续进行，这种惩罚美国领先的人工智能公司之一的努力无疑将对美国在人工智能领域及其他领域的工业和科学竞争力产生影响。”
 >
 > 🔗 [查看原文](https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/)
 
 ---
 
-### [Your Espresso Machine Doesn’t Have to Be Fancy to Make Good Coffee](https://www.wired.com/story/casabrews-5700-espresso-machine-java-base/)
+### [您的浓缩咖啡机不一定要花哨才能煮出好咖啡](https://www.wired.com/story/casabrews-5700-espresso-machine-java-base/)
+*Your Espresso Machine Doesn’t Have to Be Fancy to Make Good Coffee*
 **来源：Wired** | 海外
 
-> LoaderSave StorySave this storyCommentLoaderSave StorySave this storyCoffee is the original biohack and the nation’s most popular productivity tool. As we adjust to the changeover to daylight saving time, the caffeine-addicted WIRED Reviews team is writing about our favorite coffee brewing routines and devices. Today, reviewer Peter Cottell expounds on why espresso machines don&#x27;t have to be any fancier than a Casabrews 5700. Look out for other Java.Base stories about other WIRED writers’ favorite brewing methods. There’s a slogan in the guitar world that claims “tone is stored in the fing
+> LoaderSave StorySave this storyCommentLoaderSave storySave this storyCoffee是原创的生物黑客和全国最受欢迎的生产力工具。随着我们适应夏令时的转变，咖啡因上瘾的有线评论团队正在撰写我们最喜欢的咖啡冲泡程序和设备。今天，评论家Peter Cottell解释了为什么咖啡机不必比Casabrews 5700更豪华。留意关于其他有线作家的其他Java.Base故事
 >
 > 🔗 [查看原文](https://www.wired.com/story/casabrews-5700-espresso-machine-java-base/)
 
 ---
 
-### [Anthropic Sues Department of Defense Over Supply-Chain-Risk Designation](https://www.wired.com/story/anthropic-sues-department-of-defense-over-supply-chain-risk-designation/)
+### [美国国防部因供应链风险认定而提起诉讼](https://www.wired.com/story/anthropic-sues-department-of-defense-over-supply-chain-risk-designation/)
+*Anthropic Sues Department of Defense Over Supply-Chain-Risk Designation*
 **来源：Wired** | 海外
 
-> Save this storySave StorySave this storyAnthropic filed a federal lawsuit against the US Department of Defense and other federal agencies on Monday, challenging its designation of the AI company as a “supply-chain risk.” The Pentagon formally sanctioned Anthropic last week, capping a weeks-long, publicly aired disagreement over limits on use of its generative AI technology for military applications such as autonomous weapons. “We do not believe this action is legally sound, and we see no choice but to challenge it in court,” Anthropic CEO Dario Amodei wrote in a blog post on Thursday. The laws
+> 保存此故事保存此故事Anthropic于周一向美国国防部和其他联邦机构提起联邦诉讼，质疑其将人工智能公司指定为“供应链风险”。五角大楼上周正式批准了《人类学》，限制了长达数周的公开分歧，即限制其生成人工智能技术在自主武器等军事应用中的使用。“我们认为此举在法律上不合理，我们别无选择
 >
 > 🔗 [查看原文](https://www.wired.com/story/anthropic-sues-department-of-defense-over-supply-chain-risk-designation/)
 
 ---
 
-### [Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’](https://www.wired.com/story/feeld-was-a-dating-app-for-the-freaks-now-some-people-call-it-normie-hell/)
+### [Feeld是Freaks的约会应用程序。现在有些人称之为“诺米地狱”](https://www.wired.com/story/feeld-was-a-dating-app-for-the-freaks-now-some-people-call-it-normie-hell/)
+*Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’*
 **来源：Wired** | 海外
 
-> LoaderSave StorySave this storyCommentLoaderSave StorySave this storyAlise Morales just happened to be on the dating app Feeld the night a man was detained by ICE agents a mile from her Brooklyn, New York, apartment. Fresh off of a divorce, Morales, a 35-year-old comedian, was in the market for something strictly casual. That’s when she came across Paul’s profile. “I was a couple swipes in, and it took me a second to even get what I was seeing,” she says. He was 32, straight, and, like Morales, looking for “casual fun.” He was also one mile away. Then she noticed his bio: “Hey I’m Paul! ICE ag
+> LoaderSave StorySave this storyCommentLoaderSave StorySave this storyAlise Morales刚好在约会应用程序上Feeld当晚，一名男子被ICE特工拘留，距离她在纽约布鲁克林的公寓一英里。35岁的喜剧演员莫拉莱斯刚刚离婚，在市场上买了一些纯粹休闲的东西。就在那时，她看到了保罗的个人资料。她说：「我花了好几次时间，才得到我所看到的。」他当时32岁，异性恋，像莫拉莱斯一样，
 >
 > 🔗 [查看原文](https://www.wired.com/story/feeld-was-a-dating-app-for-the-freaks-now-some-people-call-it-normie-hell/)
 
 ---
 
-### [Why RFK’s CDC Is Endorsing ‘Shared Decisionmaking’ for Vaccines](https://www.wired.com/story/why-rfks-cdc-is-endorsing-shared-decision-making-for-vaccines/)
-**来源：Wired** | 海外
-
-> Save this storySave StorySave this storyIn the year that US Health and Human Services Secretary Robert F. Kennedy Jr. has been in office, his agency has made unprecedented changes to the childhood immunization schedule, removing universal recommendations for a half-dozen vaccines in favor of “shared clinical decisionmaking.” The term has become something of a mantra for Kennedy’s Make America Healthy Again (MAHA) movement. National Institutes of Health Director Jay Bhattacharya, who is also temporarily leading the Centers for Disease Control and Prevention, has said he believes “very fundament
->
-> 🔗 [查看原文](https://www.wired.com/story/why-rfks-cdc-is-endorsing-shared-decision-making-for-vaccines/)
-
----
-
-### [Can AI Kill the Venture Capitalist?](https://www.wired.com/story/ai-kill-venture-capital/)
-**来源：Wired** | 海外
-
-> Save this storySave StorySave this storyLast fall, as venture capitalists were sinking record sums into artificial intelligence, a group of investors gathered to appraise a new startup. The company, Infinity Artificial Intelligence Institute, made software to automatically tune AI models, making them faster and cheaper. The founding team seemed strong, and the market was rapidly expanding. Half of the investors were cautious; the other half saw dollar signs. One of them dubbed the deal an “absolute banger.” This startup was real, and so was the $100,000 the VCs invested in its seed round. But 
->
-> 🔗 [查看原文](https://www.wired.com/story/ai-kill-venture-capital/)
-
----
-
-### [Chevrolet killed it then brought it back, now we drive it: The 2027 Bolt](https://arstechnica.com/cars/2026/03/new-battery-new-motor-but-the-2027-chevrolet-bolt-keeps-its-charm/)
-**来源：Ars Technica** | 海外
-
-> Text settings Story text Size Small Standard Large Width * Standard Wide Links Standard Orange * Subscribers only Learn more Minimize to nav WESTLAKE VILLAGE, Calif.—When the Chevrolet Bolt debuted in 2017, the electric hatchback stood out: Here was an electric vehicle with more than 200 miles of range for less than half the price of a Tesla Model S. The Bolt had its ups and downs, though. A $1.8 billion recall saw the automaker replace the battery packs in more than 142,000 cars, which wasn’t great. COVID delayed the Bolt’s midlife refresh a little. It got a price cut—the first of several—plu
->
-> 🔗 [查看原文](https://arstechnica.com/cars/2026/03/new-battery-new-motor-but-the-2027-chevrolet-bolt-keeps-its-charm/)
-
----
-
-### [How AI is turning the Iran conflict into theater](https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/)
+### [人工智能如何将伊朗冲突变成战场](https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/)
+*How AI is turning the Iran conflict into theater*
 **来源：MIT Technology Review** | 海外
 
-> This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. “Anyone wanna host a get together in SF and pull this up on a 100 inch TV?” The author of that post on X was referring to an online intelligence dashboard following
+> 这个故事最初出现在我们的人工智能每周通讯《算法》上。要先在收件箱中获取此类故事，请在此处注册。「有人想在旧金山举办聚会，在100英寸的电视上播放吗？ ”X上那篇文章的作者指的是一个在线情报仪表板，
 >
 > 🔗 [查看原文](https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/)
-
----
-
-### [The Download: murky AI surveillance laws, and the White House cracks down on defiant labs](https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/)
-**来源：MIT Technology Review** | 海外
-
-> This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Is the Pentagon allowed to surveil Americans with AI? The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question:
->
-> 🔗 [查看原文](https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/)
 
 ---
 
@@ -369,7 +311,7 @@ draft: false
 ### [提前披露中东美军动向，这家AI卫星情报公司完成新一轮融资｜硬氪首发](https://36kr.com/p/3715205580058756?f=rss)
 **来源：36氪** | 国内
 
-> 本文约1300字，建议阅读3分钟 作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，地理空间情报分析公司觅熵科技（杭州）有限公司（MizarVision）（以下简称“觅熵科技”）近日宣布完成pre-A轮融资，本轮融资由现象资本独家投资，融资金额超千万元人民币，资金将主要用于业务拓展。 觅熵科技成立于2021年，总部位于杭州，是国内首家专注于将商业卫星遥感与AI深度融合，服务实时地理情报的创新企业。公司通过聚合全球多模态实时传感器信息，构建专属的AI情报大模型，对地理空间信息进行深度解读，改变了传统的情报信息的使用方式，让来自太空视角的数据可以更好服务各行业决策。 值得注意，在近期的中东地缘热点事件中，觅熵科技多次提前公布区域美军装备分布和战略目标活动。 公司创始人兼CEO刘明向硬氪介绍，传统遥感数据行业更多解决的���“看得见”的问题，而真正的难点在于“看得懂”。在卫星制造与发射成本依然高企的背景下，觅熵科技选择从数据应用切入，通过AI算法挖掘潜在线索，优化卫星资源的使用效率，从而为原本仅有传感器与用户的简单链条，补齐了数据分析与应用服务这一关键环节。 公司创始团队成员来自多个不同领域，包
+> 本文约1300字，建议阅读3分钟 作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，地理空间情报分析公司觅熵科技（杭州）有限公司（MizarVision）（以下简称“觅熵科技”）近日宣布完成pre-A轮融资，本轮融资由现象资本独家投资，融资金额超千万元人民币，资金将主要用于业务拓展。 觅熵科技成立于2021年，总部位于杭州，是国内首家专注于将商业卫星遥感与AI深度融合，服务实时地理情报的创新企业。公司通过聚合全球多模态实时传感器信息，构建专属的AI情报大模型，对地理空间信息进行深度解读，改变了传统的情报信息的使用方式，让来自太空视角的数据可以更好服务各行业决策。 值得注意，在近期的中东地缘热点事件中，觅熵科技多次提前公布区域美军装备分布和战略目标活动。 公司创始人兼CEO刘明向硬氪介绍，传统遥感数据行业更多解决的是“看得见”的问题，而真正的难点在于“看得懂”。在卫星制造与发射成本依然高企的背景下，觅熵科技选择从数据应用切入，通过AI算法挖掘潜在线索，优化卫星资源的使用效率，从而为原本仅有传感器与用户的简单链条，补齐了数据分析与应用服务这一关键环节。 公司创始团队成员来自多个不同领域，包括华
 >
 > 🔗 [查看原文](https://36kr.com/p/3715205580058756?f=rss)
 
@@ -393,57 +335,21 @@ draft: false
 
 ---
 
-### [华为将于3月20日发布数据存储新品](https://36kr.com/newsflashes/3716853091661441?f=rss)
+### [黑芝麻智能配股融资6.31亿港元](https://36kr.com/newsflashes/3716886646273665?f=rss)
 **来源：36氪** | 国内
 
-> 36氪获悉，华为数据存储宣布，华为中国合作伙伴大会2026·数据存储峰会将于3月20日在深圳国际会展中心举行。在本届峰会上，华为数据存储将围绕“AI语料准备一AI训练一AI推理”三大关键环节，发布创新的数据存储产品与解决方案。原文链接下一篇雷诺公布五年战略规划，到2030年实现20%销量增长雷诺公司周二宣布了一项五年战略，旨在到2030年将其雷诺品牌汽车的一半销往海外，并实现超过五分之一的销量增长。该战略旨在保持其在全球竞争激烈的市场中的竞争力。（新浪财经） 8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场
+> 36氪获悉，3月9日，黑芝麻智能公告，公司与认购人无极资本（Infini Capital）订立认购协议，配发及发行合共约3354.46万股认购股份，每股认购价为18.88港元，较公司3月9日收盘价19.29港元折让2.13%，总代价约为6.31亿港元。据公告，本次募集资金主要用于新一代高性能芯片的研发，拓展机器人产品线及端侧AI产品线，加速产品商业化落地。下一篇金浦钛业：全资子公司与中研创星签订租赁经营合作协议，合作期三年36氪获悉，金浦钛业公告，全资子公司徐州钛白化工有限责任公司，拟以现有生产线与江苏中研创星材料科技有限公司开展租赁经营合作事宜，合作期三年，合作期内净利润为正时双方按约定比例分配利润，净利润为负时由中研创星独自承担所有成本和损失等。双方将签订《租赁经营合作协议》。3月10日，公司召开第九届董事会第八次会议审议通过了相关议案。 8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场 OpenClaw 3.8继续炸场，龙虾不睡觉，全球程序员连夜赶工
 >
-> 🔗 [查看原文](https://36kr.com/newsflashes/3716853091661441?f=rss)
+> 🔗 [查看原文](https://36kr.com/newsflashes/3716886646273665?f=rss)
 
 ---
 
-### [腾讯官宣全系“龙虾”产品，Qclaw支持微信远程操控](https://36kr.com/newsflashes/3716844168361606?f=rss)
+### [蚂蚁集团启动2026春季校园招聘：技术岗占比达85%，超七成聚焦AI领域](https://36kr.com/newsflashes/3716864143734147?f=rss)
 **来源：36氪** | 国内
 
-> 3月10日，腾讯官宣了全系“龙虾”矩阵，包括腾讯版"免部署小龙虾"WorkBuddy、内测中的QClaw、腾讯云Lighthouse等产品。其中，QClaw正在内测，该智能体可通过微信对话远程操控。腾讯介绍，基于OpenClaw打造的本地AI助手可在Windows或Mac上一键安装，覆盖5000个以上的skills。用户在微信上发个信息给QClaw，就可以让家里的电脑算报表、传文件。（第一财经）原文链接下一篇52条中日航线2月取消全部航班航班管家数据显示，在包括中国春节的整个2月，共有52条中日航线取消全部航班，取消率进一步提升。整个2月份共有2514个赴日航班取消，取消率达48.5%。中国到东南亚航线恢复率领跑，马来西亚、新加坡、越南的恢复率超130%，美国恢复率不足30%。（第一财经） 8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场
+> 36氪获悉，蚂蚁集团启动2026年度春季校园招聘。本次春招技术类岗位占比高达85%，其中超70%的岗位与人工智能直接相关，重点聚焦大模型算法、多模态生成、数据智能及基础平台研发、AI安全等核心领域。下一篇安达维尔：全资子公司与上海飞机制造有限公司签订销售框架合同36氪获悉，安达维尔公告，公司全资子公司北京安达维尔民用航空技术有限公司与上海飞机制造有限公司签订了《ARJ21新支线项目和C919大型客机项目批产厨房插件采购框架合同》，合同总价款不超过4.97亿元（不含税）。该合同旨在明确双方在国产大飞机部件供应协作中的具体权利与义务。实际销售金额以后续收到的采购定单或签订的专项协议为准，对公司2026年度的财务状况和经营成果是否构成重大影响存在不确定性。 8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场 OpenClaw 3.8继续炸场，龙虾不睡觉，全球程序员连夜赶工
 >
-> 🔗 [查看原文](https://36kr.com/newsflashes/3716844168361606?f=rss)
-
----
-
-### [英伟达计划推出面向企业的开源智能体平台NemoClaw](https://36kr.com/newsflashes/3716807432598914?f=rss)
-**来源：36氪** | 国内
-
-> 英伟达正计划推出一款名为NemoClaw的开源AI智能体平台，以顺应这类人工智能工具日益高涨的流行趋势。报道援引知情匿名消息人士称，英伟达已开始向企业软件公司推介该产品，寻求与Salesforce、思科、谷歌、奥多比、CrowdStrike建立合作关系。（新浪财经）原文链接下一篇IDC：2025年中国腕戴设备市场同比增长20.8%36氪获悉，根据国际数据公司（IDC）最新发布的报告，2025年中国腕戴设备市场出货量为7390万台，同比增长20.8%。腕戴设备市场包含智能手表和手环产品。其中，中国智能手表市场出货量5061万台，同比增长17.2%。手环市场出货量2329万台，同比增长29.4%。 8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场
->
-> 🔗 [查看原文](https://36kr.com/newsflashes/3716807432598914?f=rss)
-
----
-
-### [联想开天推出全场景“开天Claw”信创AI一体机方案](https://36kr.com/newsflashes/3716811528844676?f=rss)
-**来源：36氪** | 国内
-
-> 36氪获悉，联想开天正式推出全面覆盖“个人、团队、企业”三大核心场景的全矩阵“开天Claw”信创AI一体机解决方案。该方案以银河麒麟等主流国产操作系统为基础，深度适配了包括DeepSeek、千问、智谱等头部国产开源大模型，以阶梯式的国产化算力底座满足不同规模的落地需求。下一篇高盛和巴克莱均警告：持续油价上涨或推高整体通胀高盛和巴克莱两大行均警告称，持续的油价上涨可能会推高整体通胀。高盛估计，油价持续上涨10%可能会使CPI上升约0.28个百分点。（新华财经） 8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场
->
-> 🔗 [查看原文](https://36kr.com/newsflashes/3716811528844676?f=rss)
-
----
-
-### [前Meta首席AI科学家杨立昆创立的AI初创公司筹资超过10亿美元](https://36kr.com/newsflashes/3716790619846022?f=rss)
-**来源：36氪** | 国内
-
-> Meta前首席人工智能科学家杨立昆（Yann LeCun） 在欧洲有史以来最大规模的种子融资轮中为他的新初创公司筹集了超过10亿美元。该新企业的预值估值为35亿美元。该委员会将由法国初创公司Nabla前首席执行官Alexandre LeBrun领导， LeCun担任执行主席。（新浪财经）原文链接下一篇芒果TV AIGC创新内容中心正式成立36氪获悉，芒果TV AIGC创新内容中心已于日前正式成立。目前，团队已在市场上获取一批原创剧本与动漫IP，交由制作团队落地实践。下一阶段，AIGC创新内容中心将打通内容策划、项目制作、AI真人剧、AI漫剧等方向深度开发。 8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场
->
-> 🔗 [查看原文](https://36kr.com/newsflashes/3716790619846022?f=rss)
-
----
-
-### [芒果TV AIGC创新内容中心正式成立](https://36kr.com/newsflashes/3716786604602758?f=rss)
-**来源：36氪** | 国内
-
-> 36氪获悉，芒果TV AIGC创新内容中心已于日前正式成立。目前，团队已在市场上获取一批原创剧本与动漫IP，交由制作团队落地实践。下一阶段，AIGC创新内容中心将打通内容策划、项目制作、AI真人剧、AI漫剧等方向深度开发。下一篇香港航空宣布将上调燃油附加费据报道，香港航空宣布，将于本周四（3月12日）起调整客运燃油附加费，短途及长途航线均受影响，单程加幅最高150港元。（界面） 8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场
->
-> 🔗 [查看原文](https://36kr.com/newsflashes/3716786604602758?f=rss)
+> 🔗 [查看原文](https://36kr.com/newsflashes/3716864143734147?f=rss)
 
 ---
 
@@ -474,24 +380,6 @@ draft: false
 
 ---
 
-### [年度征文｜荷马与人工智能：一场跨越三千年的「众筹」](https://sspai.com/post/106762)
-**来源：少数派** | 国内
-
-> 编者按：本文是少数派 2025 年度征文活动#TeamSilicon25标签下的入围文章。本文仅代表作者本人观点，少数派只略微调整排版。 今年的征文活动更有创意，「只能用 AI」和「不能用 AI」两大赛道激情 PK，硅基生物和碳基生物都将决出各自领域的佼佼者。我们会在征文结束后统一组织投票活动，但在正式投票之前，如果你喜欢这篇文章，不妨通过充电或评论的方式支持作者，让内容创作者获得更多维度的鼓励。 这篇文章的由来，是我在阅读斯蒂芬·弗莱（Stephen Fry）的《奥德赛》时，在后记中看到作者写下了一段非常有意思的文字。他将「荷马」的创作方式与现代的人工智能进行了类比，我觉得这两个看似风马牛不相及的事物被放在一起，碰撞出了一种奇妙的火花。有了这个引子，我便顺手把这些想法丢给了 Gemini，让它帮我解释和发散一下。 因为这本《奥德赛》似乎还没有出版中文版，所以我遇到一些喜欢的段落，就直接让 Gemini 帮我翻译。说实话，有些地方它实在翻译得太贴切、太地道了。比如它把形容天生跛足的锻造之神赫菲斯托斯的话译成「外貌不够才华来凑」，又因为某个角色上了年纪就把「小鹿乱撞」换成了「老鹿乱撞」。很多地方简直是神来之笔，比我看过的许多商业译者翻译得要好上不少。 所以我忍不住问它：「你觉得在翻译这件事上，哪些东西是你比普通译者做得更好的？但又有哪些是哪怕你这么厉害，也依然不及顶级人类译者的？」它
->
-> 🔗 [查看原文](https://sspai.com/post/106762)
-
----
-
-### [派早报：苹果禁止美国用户下载中国版字节跳动应用](https://sspai.com/post/106955)
-**来源：少数派** | 国内
-
-> 据《连线》报道，近期，苹果已开始采取严格的技术手段，阻止位于美国境内的 iOS 用户下载或更新由字节跳动面向中国市场开发的应用。自 2026 年 1 月下旬起，大量在美华人及游客反映，即便使用有效的中国区 App Store 账号，在尝试获取抖音、豆包及番茄小说等应用时，系统会提示该应用在当地不可用。 这一限制源于美国国会此前通过的《保护美国人免受外国对手控制应用程序侵害法案》。该法案规定，任何企业不得在美国领土或海域内分发、维护或更新受字节跳动绝对控制的应用。TikTok 以及剪映海外版（CapCut）、Lemon8 等应用已于今年 1 月截止期前完成了美国业务剥离，保住了在美运营权，但未包含在交易内的其他字节跳动中国应用，则成为了封禁对象。 为配合该法案，苹果改变了以往仅依靠 Apple ID 注册地来划分应用市场的传统做法，启用了更为精准的物理位置检测技术。根据最新的 App Store 条款及技术分析，苹果的系统会综合利用用户设备的 IP 地址、GPS 定位、Wi-Fi 路由器的国家代码以及 SIM 卡信息，来判定使用者的真实物理坐标。一旦确认设备身处美国境内，即便账号属于中国区，也会触发拦截机制。 目前，此类封锁仅针对字节跳动旗下的应用程序，并未波及其他中国科技公司的产品。相比之下，Android 系统由于对第三方应用商店和安装包下载的限制较少，实质性影响有限。部分 iO
->
-> 🔗 [查看原文](https://sspai.com/post/106955)
-
----
-
 ### [全网疯抢的AI“小龙虾”到底割了多少打工人的韭菜？](http://www.huxiu.com/article/4840479.html?f=wangzhan)
 **来源：虎嗅** | 国内
 
@@ -507,15 +395,6 @@ draft: false
 > 高考英语降到100分、拒绝高价彩礼、防止AI冲击就业、带货博主负责产品真实性、废除劳务派遣制度、驾照考试增加智驾内容……今年两会代表和委员的议案提案好像比往年都更精彩、更贴近生活了。下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动
 >
 > 🔗 [查看原文](http://www.huxiu.com/article/4840155.html?f=wangzhan)
-
----
-
-### [狂热的小龙虾，大厂的AI阳谋](http://www.huxiu.com/article/4840062.html?f=wangzhan)
-**来源：虎嗅** | 国内
-
-> “小龙虾会颠覆世界”，这个念头确实很吸引人，但很可能，跟漂亮国当年的淘金热一样，真正躺赢的，只有卖铲子的商人。下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动
->
-> 🔗 [查看原文](http://www.huxiu.com/article/4840062.html?f=wangzhan)
 
 ---
 
@@ -600,39 +479,30 @@ draft: false
 
 ---
 
-### [OpenAI工程师不写代码了：AI写得太快，人类检查跟不上，Agent直接包办开发](https://www.infoq.cn/article/XiMNJ9e87lH8Xu9CpUHG?utm_source=rss&utm_medium=article)
-**来源：InfoQ中文** | 国内
+### [OpenClaw 3.8 更新炸场：龙虾不睡觉，全球程序员连夜赶工](https://www.ithome.com/0/927/670.htm)
+**来源：IT之家** | 国内
 
-> OpenAI 最近在一篇 Blog 中说了件挺炸裂的事：他们自己的工程师，已经不怎么写代码了。 在一个内部项目里，短短五个月，就产出了 100 万行代码，而且没一行手写，全都是 Codex 写的。 这些代码并不是什么零散脚本，而是从零开始搭出来的一整套软件产品内部 Beta 版：从应用逻辑、基础设施，到工具、文档和内部开发者工具，几乎一应俱全。 这种变化，或许能从 OpenAI 内部一直以来的工程师文化中找到一些线索。 一位曾参与 Codex 项目的 OpenAI 工程师 Calvin French-Owen，在离职后写过一篇博客，虽然他在其中吐槽说，过去一年里 OpenAI 员工规模迅速扩张，带来了不少混乱。 不过他同时也提到，公司内部依然保留着很强的创业公司氛围：团队小、决策快，工程师拥有很高的自主权。 另外，很多科技巨头是高层定路线、然后团队执行，但在 OpenAI，通常没有明确的长期 roadmap，研究员往往自己发现问题、提出想法，小团队围绕好点子自然形成并推进项目。 他表示，真正推动进展的好想法可能随时从任何地方随时，而不是来自某个宏大计划。 比如 Codex，最初其实诞生在 OpenAI 的一个只有十几人的小团队里。这个团队在 7 周内几乎不眠不休，把 Codex 从想法一路推到了上线。 而现在这个“OpenAI 工程师不写代码”一事，其实也要从公司一个团队，在开发流
+> 3 月 8 日凌晨，OpenClaw 3.7 发布；3 月 9 日下午，OpenClaw 3.8 就发布了。这帮人的发版节奏，有点过于疯狂了！全球程序员跟着连夜赶工。一句话让你看懂这次更新这次更新只干了四件大事：1.你的智能体终于知道是谁在跟它说话了（ACP 溯源）2.部署前终于可以先存档再冲（openclaw backup）3.Telegram 的重复消息彻底凉了4.12+ 项安全修复，补了一堆你可能都没发现的洞官方自己也说：我们修复的问题比制造的多。进步了。重点一：ACP 溯源 —— 你的 Agent 终于认识你了说人话：之前你问智能体帮我做个报告，它根本不知道你是谁、有什么权限、该信你到什么程度。就像你雇了个保安，但他连门禁卡都不认，见谁都放进来 —— 这合理吗？3.8 之后，不一样了。OpenClaw 引入了 ACP（Agent Communication Protocol）溯源机制。现在每条发给智能体的指令，都自带身份证 —— 智能体能识别是谁发的、从哪个入口来的、有没有权限干这件事。对普通用户来说，这意味着：多人协作场景下，Agent 不再无法无天权限管控更精细，想拦的消息
 >
-> 🔗 [查看原文](https://www.infoq.cn/article/XiMNJ9e87lH8Xu9CpUHG?utm_source=rss&utm_medium=article)
+> 🔗 [查看原文](https://www.ithome.com/0/927/670.htm)
 
 ---
 
-### [终端大模型操作系统的架构、优化与展望](https://www.infoq.cn/article/DO91JjU98lL2Z4CEGzWx?utm_source=rss&utm_medium=article)
-**来源：InfoQ中文** | 国内
+### [黑鲨预热凤鸣耳夹式蓝牙耳机 Pro，3 月 20 日发布](https://www.ithome.com/0/927/667.htm)
+**来源：IT之家** | 国内
 
-> 通过本地化搭载大模型，终端设备的智能能力将获得飞跃式提升，铸造移动计算的下一个黄金时代，对学术界和产业界都是巨大的机遇。为了更好地适应这个过程中上层应用编程接口、用户交互范式、底层资源管理的重要变化，操作系统可能会被重新定义和改写。本文整理自北京邮电大学副教授、博士生导师徐梦炜博士在 2025 年 QCon 全球软件开发大会（上海站） 的分享“终端大模型操作系统的架构、优化与展望”。徐老师介绍了团队在大模型操作系统设计和优化方向的思考和尝试，包括 GUI/API 终端智能体构建、面向 NPU 的端侧大模型推理优化加速等。 预告：将于 4 月 16 - 18 召开的 QCon 北京站设计了「小模型与领域适配模型」专题，将深入探讨：如何通过持续预训练、高质量数据筛选、大模型蒸馏、强化学习、MoE 架构等技术提升大模型的专业能力；如何通过模型压缩、显存管理、算子优化、解码优化、系统调度等推理优化技术提升大模型的推理性能；vLLM、SGLang 等推理框架的应用经验等等。敬请关注。 我今天讲得可能不会那么技术，主要想说说我们团队和我个人对端侧大模型的一些看法。背景我就快速带过：从读博开始，我就一直在做端侧 AI 的优化，到现在刚好十年——前五年在读书，后五年在北邮工作。其实那时候端侧已经有不少 AI 应用了，比如“集五福”就是一个很典型的例子。但在学术界做端侧 AI，我总觉得缺了点劲儿，因
+> IT之家 3 月 10 日消息，黑鲨今天在微博预热凤鸣耳夹式蓝牙耳机 Pro 新品，主打 AI 入耳、无感贴合，号称“澎湃音质，声声入魂”，3 月 20 日 17:00 发布。值得注意的是，黑鲨已在昨天宣布了相同日期举行的 2026 年春季新品发布会，届时将推出冰封制冷背夹 6 Max 磁吸版、冰封液冷背夹 6 Ultra、冰封直播制冷背夹、笔记本散热器风神 Pro 等散热器新品。作为比较，黑鲨最近几个月主要推出了刀锋 3 磁吸充电宝、磁吸蓝牙音箱、磁吸无线充、凤鸣头戴式耳机、冷暖鼠标、游戏指套等产品。IT之家了解到，黑鲨上月还在海外发布了一款名为 Black Shark Gaming Tablet 的电竞小平板，该机匹配一块 8.8 英寸 2560 × 1600 分辨率 144Hz 面板，采用高通骁龙 8s Gen 3 处理器 + 12GB LPDDR5X RAM + 256GB UFS 4.0 存储配置，内置 7300 mAh 电池。
 >
-> 🔗 [查看原文](https://www.infoq.cn/article/DO91JjU98lL2Z4CEGzWx?utm_source=rss&utm_medium=article)
+> 🔗 [查看原文](https://www.ithome.com/0/927/667.htm)
 
 ---
 
-### [ODCC联合NVIDIA、焱融等首发KVCache评测结果｜焱融AI存储实现推理提速降本双突破](https://www.infoq.cn/article/zVRRjI7EfCiEoYTS2QqH?utm_source=rss&utm_medium=article)
-**来源：InfoQ中文** | 国内
+### [阿里云将在上海金山建设超大规模算力中心，重点部署平头哥“真武”芯片](https://www.ithome.com/0/927/660.htm)
+**来源：IT之家** | 国内
 
-> AI 从模型能力竞争，进入规模化推理能力竞争的新阶段。随着大模型在企业级场景中的落地，推理系统的性能、成本与资源利用率，正成为决定 AI 商业化成败的关键因素。在这一过程中，存储作为 AI 基础设施核心支撑环节，成为释放 AI 算力、重构推理效率结构的核心能力。 为系统评估算力中心的“存力”水平、打通技术研发与产业应用壁垒，在 NVIDIA、美团、三星、Solidigm 等产业链领军企业支持下，ODCC 成立 AI 存储实验室。针对推理场景中的数据响应瓶颈，实验室聚焦大模型推理中的关键制约因素—KV Cache，启动面向存储软硬件的专项协同测试工作，旨在构建一套适配推理场景的 KV Cache 存储解决方案及测试规范，切实推动 AI 存储技术的标准化、规范化与规模化落地。 焱融科技作为国内专业的 AI 存储厂商，其自主研发的 YRCache 推理存储系统参与首批测试，并取得优异成果。测试结果不仅验证了 YRCache 对推理性能的显著提升，更证明了 YRCache 可以让中低配置 GPU 跑出接近高配置 GPU 的推理性能，优化推理成本，重构企业 AI 推理基础设施的投入产出比。 1. TTFT（首 Token 延时）降低 97%，实时响应，告别等待。 2. TPOT（每个输出 Token 生成时间）降低 97%，流畅输出不卡顿。 3. Token 吞吐量（每秒生成 token 数
+> IT之家 3 月 10 日消息，阿里云昨天与上海市金山区政府签署战略合作协议，加速建设阿里飞天云智能华东算力中心，将成为华东地区规模最大的智算枢纽之一。IT之家在此援引官方公众号消息，根据新合作协议，该超大规模算力中心将重点部署平头哥“真武”芯片，通过构建从底层芯片、智算平台到上层应用的全栈自主算力底座，力争成为绿色算力中心标杆。同时，阿里云将深度参与金山区政务服务与城市治理的数字化转型，支持金山区建设稳定可靠的政务服务基础设施，并通过 AI 技术提升公共服务的实时响应效率。值得注意的是，阿里云与上海市金山区的合作由来已久，总投资 400 亿元的阿里云金山算力中心早在 2021 年就扎根金山。据IT之家此前援引《科创板日报》消息，接近阿里的消息人士透露，平头哥真武 PPU 芯片总出货量已达数十万片，超过寒武纪，在国产 GPU 厂商中领先。
 >
-> 🔗 [查看原文](https://www.infoq.cn/article/zVRRjI7EfCiEoYTS2QqH?utm_source=rss&utm_medium=article)
-
----
-
-### [从上下文到长期记忆：大模型记忆工程的架构设计与实践](https://www.infoq.cn/article/AIVoC9eKfZhW199IQkwB?utm_source=rss&utm_medium=article)
-**来源：InfoQ中文** | 国内
-
-> 随着大模型在企业和行业场景中持续落地，“记忆”正在成为继参数调优和上下文工程之后的下一个工程化核心。短时遗忘、知识碎片化、跨任务信息无法留存等问题，正在限制大模型的个性化、推理链延展与持续演化能力。 本文整理自记忆张量 CTO 李志宇博士在 2025 年 QCon 全球软件开发大会（上海站）的演讲分享。志宇博士结合他多年的研发与落地实践，系统剖析大模型记忆工程的核心技术：记忆分层管理、多粒度调度、可信更新与安全治理，并展示这些技术在金融、工业、知识管理等业务中的应用效果。通过对架构设计、实现细节和案例经验的讲解，帮助开发者与架构师全面理解如何构建具备长期留存与动态调度能力的“有记忆的 AI”，以及它在未来产业智能化演进中的角色与挑战。 预告：将于 4 月 16 - 18 召开的 QCon 北京站设计了「记忆觉醒：智能体记忆系统的范式重塑与产业落地」专题，旨在重新定义企业级记忆系统的未来——聚焦非显式偏好捕捉、记忆自主演化与生命周期管理等前沿方向，探索其在高端客服、个性化助理、企业决策等场景的深层价值。敬请关注。 我们公司名为“记忆张量”，单从名字便可看出，我们聚焦的是“记忆增强”——或者说“记忆优化”这一方向。去年十一月刚刚成立，不久前刚完成近亿元人民币的天使轮融资。 之所以选择“记忆”作为主攻点，根本原因在于我们判断：在大模型的演进史中，记忆将成为与 MCP 工具并列的下一个关键
->
-> 🔗 [查看原文](https://www.infoq.cn/article/AIVoC9eKfZhW199IQkwB?utm_source=rss&utm_medium=article)
+> 🔗 [查看原文](https://www.ithome.com/0/927/660.htm)
 
 ---
 
@@ -654,138 +524,33 @@ draft: false
 
 ---
 
-### [三星 SDI 将首次展示人形机器人用软包全固态电池，瞄准 AI 实体应用](https://www.ithome.com/0/927/620.htm)
-**来源：IT之家** | 国内
-
-> IT之家 3 月 10 日消息，三星 SDI 昨日宣布，将在 3 月 11 日至 13 日于首尔江南区 COEX 举办的 2026 国际电池展（InterBattery 2026）上，首次公开展示其为人形机器人等实体人工智能（AI）应用研发的软包型全固态电池样品。机器人的电池安装空间有限，需要电池体积小巧、能量密度高、续航时间长。此外，机器人在运动时会瞬间出现功率峰值，因此要求电池具备高输出性能。三星 SDI 正在开发满足实体 AI 应用高安全性、高输出要求的全固态电池，并采用软包形态以实现轻量化。该公司目标是明年下半年实现量产。三星 SDI 此前一直在为电动汽车研发方形全固态电池，如今计划多样化电池形态，将该技术应用于人形机器人、航空系统及下一代可穿戴设备等多个领域。在本次展会上，三星 SDI 还将展出用于 AI 数据中心核心设备 —— 不间断电源（UPS）和备用电池单元（BBU）的超高输出电池。展会展台主区域将 1:1 还原真实 IT 企业的数据中心场景，该数据中心模型搭载了三星 SDI 的 UPS 电池 U8A1。据IT之家了解，U8A1 在三星 SDI 自研的方形电池形态上采用
->
-> 🔗 [查看原文](https://www.ithome.com/0/927/620.htm)
-
----
-
-### [百度加入 2026 抢人才大战：启动史上最大规模暑期实习招聘，超九成岗位与 AI 相关](https://www.ithome.com/0/927/618.htm)
-**来源：IT之家** | 国内
-
-> IT之家 3 月 10 日消息，百度今日宣布启动面向 2027 届在校生的暑期实习招聘项目，开放超过 5000 个实习 offer。这是百度历年来设置业务实习专项最多的一次，包含管培实习生计划在内的 7 大业务实习专项同步对外公布。据介绍，此次百度暑期实习招聘超九成岗位与 AI 相关，涉及大模型算法、多模态、自动驾驶等多个前沿领域，是该公司史上最大规模的一次暑期实习招聘。IT之家此前报道，2026 年春节刚过，多家互联网大厂开始了新一轮的人才争夺战，尤其是在 AI 高速发展的背景下，AI 人才成了第一招聘目标。字节跳动官方 3 月 6 日发文，2026 实习生招聘启动，提供 7000+ Offer，是字节跳动史上最大规模的转正实习生招聘。官方表示研发类共计 4800+ Offer 史上最多，有大量 AI 相关岗位在招。腾讯也不甘示弱，全球招聘超 1 万名实习生，第一个提到的也是 AI 相关方向岗位，包括多模态、自然语言处理、推荐算法等。
->
-> 🔗 [查看原文](https://www.ithome.com/0/927/618.htm)
-
----
-
-### [京东推出“OpenClaw 远程部署服务”：工程师一对一安装“龙虾”，定价 399 元](https://www.ithome.com/0/927/614.htm)
-**来源：IT之家** | 国内
-
-> IT之家 3 月 10 日消息，京东今日宣布推出“OpenClaw 远程部署服务”，定价 399 元。据介绍，进入“京东 3C 数码服务自营旗舰店”搜索“养龙虾上京东”，选择“OpenClaw 远程部署服务”一键下单，自购买之日起 30 日内拨打服务热线 4001003000-2-5（服务时间：7:00-21:00），提供订单号进行核验，即可预约专业工程师进行远程一对一部署。IT之家注意到，该服务是由京东和联想百应联合推出的，会预装百应的 AI 服务 Skill，默认推荐 Kimi 2.5 模型，需要用户提供正版大模型 API Key。电脑配置方面，该服务推荐 Windows 11 23H2+ 或以上版本系统，以及 8GB 内存 + 20GB SSD 硬盘。
->
-> 🔗 [查看原文](https://www.ithome.com/0/927/614.htm)
-
----
-
-### [腾讯官宣内测 QClaw，支持微信远程操控](https://www.ithome.com/0/927/613.htm)
-**来源：IT之家** | 国内
-
-> IT之家 3 月 10 日消息，今日，腾讯宣布 QClaw 正处于内测中。腾讯方面介绍，QClaw 是基于 OpenClaw 推出的本地 AI 助手，支持 Windows / Mac 一键安装，覆盖 5000+skills。可通过微信对话，远程操控。用户只需在手机微信上发句指令（如：“帮我把桌面报表求和并传给我”），助理即可自动操作电脑执行并回传。据IT之家了解，最近爆火的 OpenClaw（俗称“小龙虾”）是一款能让 AI 直接操作电脑的开源智能体框架，其最大突破在于让 AI 从“回答问题”升级为“动手干活”。OpenClaw 通过自然语言指令（如“整理桌面文件”或“自动回复邮件”），直接操控操作系统、浏览器及本地文件，形成任务闭环。这种“数字员工”特性使其区别于传统聊天机器人。
->
-> 🔗 [查看原文](https://www.ithome.com/0/927/613.htm)
-
----
-
-### [毕马威调查：多数美企 CEO 认为 AI 短期被高估，长期潜力却被低估](https://www.ithome.com/0/927/605.htm)
-**来源：IT之家** | 国内
-
-> IT之家 3 月 10 日消息，在毕马威美国的一项调查中，四分之三的大型企业 CEO 表示，过去一年生成式人工智能或许被过度炒作，但其在未来 5 至 10 年的真正影响力与“颠覆性潜力”，很可能被低估了。毕马威美国董事长兼首席执行官蒂姆 · 沃尔什在接受 Business Insider 采访时表示：“企业对人工智能落地应用的热情无疑正在加速。”他指出，众多企业已从试点阶段转向实际部署，相关投资正处于他所说的“变革动荡环境”中。据IT之家了解，此次调查由毕马威美国于 1 月下旬至 2 月中旬开展，受访对象为 100 家美国大型企业的 CEO，调研内容涵盖人工智能、招聘计划及经济形势等多个议题。多数 CEO 仍在加大人工智能投入尽管四分之一的受访 CEO 认为人工智能投资存在泡沫，但人工智能仍是核心投入领域。近 80% 的高管表示，今年将把至少 5% 的资本预算分配给人工智能。约三分之二的企业高管称，出于对人工智能相关风险的担忧，正在增加网络安全支出。60% 的 CEO 表示，会优先将人工智能预算用于提升员工技能；约半数企业会投入资金加快创新，并将该技术融入日常运营。对于担心被人工智能取
->
-> 🔗 [查看原文](https://www.ithome.com/0/927/605.htm)
-
----
-
-### [vivo X300s“移植”蓝厂最强性能电竞体验全家桶，含 Monster 超核引擎、寰宇信号放大系统](https://www.ithome.com/0/927/604.htm)
-**来源：IT之家** | 国内
-
-> IT之家 3 月 10 日消息，vivo 通信科技有限公司产品经理韩伯啸今日继续预热 X300s 新机。据称，vivo X300s 将“移植”蓝厂最强性能电竞体验全家桶，含 Monster 超核引擎、寰宇信号放大系统等。第一是 Super 稳帧，X 系列首发搭载口碑绝佳的 Monster 超核引擎，能把游戏稳帧做到极致：内置「先知调度器」，能精准预判游戏资源的负载，提前预判风险减少掉帧；再来是「闪电加速器」，能进一步加速游戏画面的渲染绘制，减少因画面延迟而导致掉帧的可能。第二是 Super 游戏信号，我们给 X300s 塞入了一整套电竞信号全家桶，寰宇信号放大系统：全新自研游戏天线：X 系列首发更高效的天线竖插板方案，在横屏游戏时，游戏信号能大幅提升超 50%。四芯信号 Wi-Fi 增强：穿墙能力大幅提升，哪怕隔着四堵墙，Wi-Fi 只剩两格信号，照样开黑。AI 电竞信号引擎 2.0：通过智能选网算法，能够大幅降低约 74% 的游戏 460 次数。据IT之家昨日报道，消息称 vivo X300s 将配备 6.78 英寸 1.5K+144Hz BOE Q10+ 直屏，采用金属中框 + 大
->
-> 🔗 [查看原文](https://www.ithome.com/0/927/604.htm)
-
----
-
-### [银昕推出三模 PCIe HBA 控制卡 ECS08，采用 PCIe Gen3 ×8 接口](https://www.ithome.com/0/927/602.htm)
-**来源：IT之家** | 国内
-
-> IT之家 3 月 10 日消息，SilverStone 银欣 / 银昕官网上线了 PCIe AIC 附加卡 ECS08。这是一款支持 SAS / SATA / NVMe 三种存储模式的 PCIe HBA 控制卡，兼容多种存储设备。这款 AIC 三维 155.65×18×68.90 (mm)，支持全高 (FH) 与半高 (HH / Low Profile) 挡板，采用 PCIe 3.1 ×8 接口。IT之家注意到，其基于博通 SAS3416 控制芯片，采用博通 MegaRAID 9400-16i 方案，提供 4 个 SFF-8643 (Mini-SAS HD) 接口，配合背板或扩展卡可扩展出至多 1024 个 SATA / SAS 或 NVMe 设备。
->
-> 🔗 [查看原文](https://www.ithome.com/0/927/602.htm)
-
----
-
-### [小米推出米家儿童电动牙刷 Pro：彩屏动画互动引导，刷满 2 分钟有正向激励](https://www.ithome.com/0/927/601.htm)
-**来源：IT之家** | 国内
-
-> IT之家 3 月 10 日消息，小米官方今日宣布，米家儿童电动牙刷 Pro 开启 0 元众测活动。官方描述显示，米家儿童电动牙刷 Pro 配备轻柔扫振电机 + 弹性缓震刷头 + 软胶防护圈，支持分龄洁牙，还支持彩屏动画互动引导，支持声音提醒，刷满 2 分钟有正向激励，让孩子主动爱上刷牙；可以在米家 App 标记蛀牙、缺牙，通过 AI 定制刷牙方案。此外，小米还将附赠个性化贴纸，让多彩配色搭配个性贴纸打造儿童牙刷版“痛机”；这款牙刷采用了贴合儿童小手握持的人体工学手柄，防滑易抓。IT之家注意到，这款电动牙刷支持 IPX8 全身防水、90 天长续航、旅行锁防误触，还有牙刷课堂，提供科学指引，刷牙更高效。
->
-> 🔗 [查看原文](https://www.ithome.com/0/927/601.htm)
-
----
-
-### [华为 Mate 60、Pura 70 系列手机开放星闪车钥匙，需升级鸿蒙 HarmonyOS 6.0.0.328 版本](https://www.ithome.com/0/927/599.htm)
-**来源：IT之家** | 国内
-
-> IT之家 3 月 10 日消息，华为多款机型已开启鸿蒙 HarmonyOS 6.0.0.328 的花粉 Beta 版尝鲜升级，新版本最新升级到了 SP22 版本，带来诸多新特性。据鸿蒙智行车主反馈，在升级 HarmonyOS 6.0.0.328 SP22 版本后，华为 Mate 60、Pura 70 等系列机型开放星闪车钥匙功能。截图画面显示，支持星闪的机型在连接车辆后，会弹出“手机钥匙升级”的弹窗，提醒用户升级星闪钥匙，随后还会显示“蓝牙已断开”的提示。IT之家查询华为官网获悉，开通手机星闪车钥匙需要具备以下条件（官网暂未更新 Mate 60、Pura 70 的支持情况）：开通手机星闪车钥匙需要的条件支持机型及系统版本 HarmonyOS 5.1 及以上版本：Pura 80 系列，Mate XTs，Mate 70 AirHarmonyOS 6.0 及以上版本：Mate 80 系列，Mate X7 系列，Mate 70 RS| ULTIMATE DESIGN，Mate 70 Pro+，Pura X 系列，nova 15 Pro，nova 15 Ultra，nova 14 Pro，nov
->
-> 🔗 [查看原文](https://www.ithome.com/0/927/599.htm)
-
----
-
-### [消息称特斯拉延迟 AI6 芯片在三星电子 2nm 节点的多项目晶圆 (MPW) 测试](https://www.ithome.com/0/927/596.htm)
-**来源：IT之家** | 国内
-
-> IT之家 3 月 10 日消息，韩媒 The Elec 当地时间 9 日报道称，由于大客户特斯拉方面的计划推迟，三星晶圆代工不得不将原定今年 4 月举行的 2nm 先进制程多项目晶圆 (MPW) 测试服务延后半年，而这影响到了韩国 Fabless 企业 DEEPX 的 DX-M2 项目。IT之家了解到，MPW 服务将来自多个客户的芯片设计样品汇集到同一片测试晶圆上进行生产，可分摊晶圆成本，并能快速完成芯片的试产和验证。特斯拉作为三星电子在 2nm 上的“头号客户”选择推迟 AI6 芯片的 MPW 进程；DEEPX 无力单独负担测试开支，进度被迫延后。受此次事件影响，DEEPX 的新一代设备端生成式 AI 芯片将无法按计划在 2027Q2 实现量产，目前看来其预计在 2027Q3 完成质量测试，2027Q4 方能进入全面销售。
->
-> 🔗 [查看原文](https://www.ithome.com/0/927/596.htm)
-
----
-
 ## 📱 手机 / 消费电子
 
-### [Apple smart home display rumors now point to a fall launch with iOS 27](https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor)
+### [苹果智能家居显示屏谣言现在指向iOS 27的秋季发布](https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor)
+*Apple smart home display rumors now point to a fall launch with iOS 27*
 **来源：The Verge** | 海外
 
-> The rumored "HomePod with a screen" we've heard so much about was reportedly lined up for launch in 2025, and then this spring, and now, according to the latest updates, it's on the shelf until this fall. Leaker Kosutami posted as much on X last week, and today, Bloomberg reporter Mark Gurman followed up with []
+> 据报道，传闻中的“带屏幕的HomePod”将于2025年推出，然后是今年春天，现在，根据最新更新，它已经上架，直到今年秋天。Leaker Kosutami上周在X上发布了同样多的内容，今天，彭博记者Mark Gurman跟进了[]
 >
 > 🔗 [查看原文](https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor)
 
 ---
 
-### [Apple Studio Display XDR review: pro at a premium](https://www.theverge.com/tech/891436/apple-studio-display-xdr-review)
-**来源：The Verge** | 海外
-
-> It's been almost exactly four years since Apple released the 5K Studio Display that so many wanted, even if it didn't really deliver as a high-end display. Apple has now revamped the Studio Display lineup, sort of, with another Studio Display and the Studio Display XDR. They're both 27-inch 5K (5,120 x 2,880) displays with []
->
-> 🔗 [查看原文](https://www.theverge.com/tech/891436/apple-studio-display-xdr-review)
-
----
-
-### [One of this rugged phones cameras is a pop-out action cam](https://www.theverge.com/tech/891496/ulefone-rugone-xsnap-7-pro-removable-action-camera)
-**来源：The Verge** | 海外
-
-> What if your smartphone's camera wasn't locked to the back of the device? Honor's Robot Phone, which we got to see in action at MWC 2026, features a camera attached to a stabilized gimbal arm that can pop-up and look around. But it's still permanently tethered to the phone. The RugOne Xsnap 7 Pro, a []
->
-> 🔗 [查看原文](https://www.theverge.com/tech/891496/ulefone-rugone-xsnap-7-pro-removable-action-camera)
-
----
-
-### [Apple iPhone 17e Review: MagSafe Makes a Difference](https://www.wired.com/review/apple-iphone-17e/)
+### [苹果iPhone 17E评测： MagSafe与众不同](https://www.wired.com/review/apple-iphone-17e/)
+*Apple iPhone 17e Review: MagSafe Makes a Difference*
 **来源：Wired** | 海外
 
-> Buy NowMultiple Buying Options Available$599 at Apple$600 at Best BuyCommentLoaderSave StorySave this storyCommentLoaderSave StorySave this storyRating:7/10 WIREDPerfectly great performance. Reliable day-long battery life. Solid camera. Now has MagSafe. Improved screen durability.TIREDScreen stuck at 60 Hz. Still no ultra-wideband chip. Single rear camera is limiting.Would you rather buy a brand-new MacBook Neo—a whole computer—or Apple&#x27;s cheapest iPhone 17e smartphone for the same amount of cash? It feels weird that a laptop could cost as much as something so small, but I&#x27;d argue th
+> 立即购买多种购买选项在百思买以599美元的价格购买Apple 600美元CommentLoader保存故事保存此故事CommentLoader保存故事保存此故事评级： 7/10 WIRED完美的性能。可靠的一日电池续航时间。坚固的摄像头。现在有MagSafe。提高了屏幕耐用性。TIRED屏幕卡在60 Hz。仍然没有超宽带芯片。单后置摄像头是有限的。您是否愿意以相同的价格购买全新的MacBook Neo-整台电脑或Apple最便宜的iPhone 17e智能手机或
 >
 > 🔗 [查看原文](https://www.wired.com/review/apple-iphone-17e/)
 
 ---
 
-### [Testing Apple's 2026 16-inch MacBook Pro, M5 Max, and its new "performance" cores](https://arstechnica.com/gadgets/2026/03/testing-apples-2026-16-inch-macbook-pro-m5-max-and-its-new-performance-cores/)
+### [测试Apple 2026 16英寸MacBook Pro、M5 Max及其新的“性能”内核](https://arstechnica.com/gadgets/2026/03/testing-apples-2026-16-inch-macbook-pro-m5-max-and-its-new-performance-cores/)
+*Testing Apple's 2026 16-inch MacBook Pro, M5 Max, and its new "performance" cores*
 **来源：Ars Technica** | 海外
 
-> Text settings Story text Size Small Standard Large Width * Standard Wide Links Standard Orange * Subscribers only Learn more Minimize to nav Apple’s M5 Pro and M5 Max make deceptively large changes to how Apple’s high-end laptop and desktop chips are built. We’ve already covered those changes in some depth, but in essence: The M5 Pro and M5 Max are no longer monolithic chips with all the CPU and GPU cores and everything else packed into a single silicon die. Using an “all-new Fusion Architecture” like the one used to combine two Max chips into a single Ultra chip, Apple now splits the CPU core
+> 文字设置故事文字大小小标准大宽度*标准宽链接标准橙色*仅限订阅者了解更多尽量减少到导航Apple的M5 Pro和M5 Max对Apple的高端笔记本电脑和台式机芯片的构建方式做出了巨大的改变。我们已经深入介绍了这些变化，但从本质上讲： M5 Pro和M5 Max不再是单片芯片，所有CPU和GPU内核以及所有其他内容都集成在单个硅芯片中。使用“全新的融合架构
 >
 > 🔗 [查看原文](https://arstechnica.com/gadgets/2026/03/testing-apples-2026-16-inch-macbook-pro-m5-max-and-its-new-performance-cores/)
 
@@ -797,6 +562,24 @@ draft: false
 > 作为新一代 iPhone 机型的入门版本，iPhone 17e 不仅补齐了前一代机型的若干基础体验，在价格方面也较此前表现出了意外的诚意：起售价格不变的基础上，存储容量加倍起步，让新一代的 iPhone 全线产品彻底告别 128GB 时代。要知道，同时更新的 iPad Air (M4) 机型，还依然保持着 128GB 的存储容量选项。 外观方面，iPhone 17e 与 iPhone 16e 相比没有任何变化，同样的尺寸与相近的重量、同样的单摄镜头模组，以及依然未配备灵动岛的屏幕。不同的是，超瓷晶面板 2 成了新一代 iPhone 的标配，同样能为 iPhone 17e 提供多达 3 倍的抗刮划能力，并且还有能够减少眩光的抗反射涂层。 最为吸引人的是，在原有黑色和白色之外，iPhone17e 新增了全新的浅粉色选项。在 iPhone 17e 的玻璃背板上，浅粉色带来的依旧是「素净」的视觉效果：粉色在背板中若隐若现，并会随光线变化呈现不同的视觉色彩效果。为了更好地衬托全新的浅粉色，Apple 也推出了同色的 MagSafe 硅胶保护壳和斜挎挂绳，让 iPhone 17e 能与配件搭配相得益彰。 令人略感失望却又不出所料的是，iPhone 17e 的屏幕继续保持了「刘海」设计，没有支持许多人期待的灵动岛功能。 不过，在更大的起始容量、更耐用的屏幕面板、终于支持 MagSafe 等升级的
 >
 > 🔗 [查看原文](https://sspai.com/post/106983)
+
+---
+
+### [群联 CEO 潘健成：NAND 原厂报价近期无预警一夜跳涨 50%](https://www.ithome.com/0/927/665.htm)
+**来源：IT之家** | 国内
+
+> IT之家 3 月 10 日消息，参考台媒《电子时报》报道，SSD 第三方主控大厂群联 CEO 潘健成表示，NAND 市场供需失衡状况超出预期，近日 NAND 原厂报价突然无预警“一夜飙涨 50%”，反映供应端当前极度吃紧。群联目前的库存水位已提升至 500 亿新台币（IT之家注：现汇率约合 110.45 亿元人民币）；该企业已同上游存储器原厂和下游主要客户都达成了 LTA（长期协议）；为保持供应稳定，公司正与部分供应商协商预付款以获得产能优先分配权，保障企业级产品生产。群联当前的业务也显著转向非消费级领域：企业级产品对其整体营收的贡献有望在本季度达到 30%，而群联当前的库存中仅有 3% 是零售端产品。群联表示，其 QLC UFS 正在接受头部智能手机 OEM 的测试验证，企业级 PCIe Gen6 SSD 主控样品计划今年 8 月交付，PCIe Gen7 世代芯片也在开发中。
+>
+> 🔗 [查看原文](https://www.ithome.com/0/927/665.htm)
+
+---
+
+### [荣耀新款游戏本曝光：i7-14650HX+RTX5060、16GB DDR5+512GB/1TB SSD，有望归属 WIN 系列](https://www.ithome.com/0/927/657.htm)
+**来源：IT之家** | 国内
+
+> IT之家 3 月 10 日消息，博主 @数码闲聊站 今日发文，称好像摸到了一台荣耀游戏本。该机搭载 Intel i7-14650HX 处理器 + RTX5060 显卡，辅以 16GB DDR5+512GB/1TB SSD，同时风扇怼满。博主“建议”这款笔记本命名 WIN 游戏本，和 WIN 手机一起打性能认知。另外博主还透露，荣耀 WIN 2 新机已开模测试，卷核心 + 外围配置。IT之家注意到，去年 12 月，荣耀终端股份有限公司 PC 产品总经理 @朱臣才-荣耀 发文称，荣耀全新游戏本即将发布（具体发布时间暂未公布）。而在同月的荣耀新品发布会上，荣耀官方明确表示，全新游戏本产品将在今年推出，且是《三角洲行动》职业联赛指定笔记本。相关阅读：《荣耀预告全新游戏本产品，明年发布》《荣耀游戏本将至？林林预告 WIN Gaming's coming soon》
+>
+> 🔗 [查看原文](https://www.ithome.com/0/927/657.htm)
 
 ---
 
@@ -818,75 +601,23 @@ draft: false
 
 ---
 
-### [一加 15T 新机三色外观公布：6.32 英寸小屏 + 71.82mm 窄机身设计、7500mAh 电池，本月发布](https://www.ithome.com/0/927/615.htm)
-**来源：IT之家** | 国内
-
-> IT之家 3 月 10 日消息，一加 15T 手机已官宣本月发布，内置 7500mAh 电池，号称新一代「小屏大魔王」，目前新机已公布三款配色外观，包括「纯粹可可」「松弛抹茶」，以及「治愈白巧」。IT之家注意到，一加中国区总裁李杰今日发文介绍了一加 15T 的设计细节：新机采用 6.32 英寸小屏 + 71.82mm 窄机身设计，重约 194g；金属魔方小 Deco 模组具备不挡手不硌手的特点；50:50 配重可避免“头重脚轻”的情况出现。IT之家注意到，一加中国区总裁李杰已于昨日宣布，将在 3 月 11 日 19 点举行一加 15T 真机全球首曝直播。届时，总裁将开箱揭秘「小夯机」，OPPO 工业设计中心总经理刘浩然也将在直播间现身。相关阅读：《一加 15T 手机「纯粹可可」「松弛抹茶」配色官图公布：黄金大 R 角、金属魔方后摄模组》《一加 15T 全白配色“治愈白巧”公布：金属中框 + 背板均采用白色设计》
->
-> 🔗 [查看原文](https://www.ithome.com/0/927/615.htm)
-
----
-
-### [Counterpoint：内存价格暴涨导致手机成本结构巨变，涨价不可避免](https://www.ithome.com/0/927/610.htm)
-**来源：IT之家** | 国内
-
-> IT之家 3 月 10 日消息，根据 Counterpoint Research 内存价格追踪报告，2026 年第一季度移动内存价格持续大幅上涨，其中 DRAM 价格环比涨幅超 50%，NAND Flash 价格环比暴涨超 90%。此次大幅涨价正引发智能手机物料清单（BOM）成本的结构性变化。Counterpoint 元器件成本与拆解服务数据显示，尽管所有价位段均受影响，但入门级机型所受冲击尤为严重。低端机型（批发价＜200 美元）：在其他元器件成本保持稳定的前提下，2026 年第一季度，采用 6GB LPDDR4X + 128GB eMMC 内存配置的典型机型，其整体 BOM 成本环比将上涨 25%，内存成本占比将高达 43%。中端机型（批发价 400–600 美元）：该价位段通常采用多样化配置面向不同用户群体。以 8GB LPDDR5X + 256GB UFS 4.0 配置为例，2026 年第一季度，DRAM 与 NAND 在 BOM 中的占比将分别升至 14% 和 11%，预计到第二季度将进一步攀升至 20% 和 16%。高端及旗舰机型（批发价＞800 美元）：旗舰机将面临大容量
->
-> 🔗 [查看原文](https://www.ithome.com/0/927/610.htm)
-
----
-
-### [二手价格飞升：苹果 Mac mini M4 教育优惠 3188 元本地有货速囤](https://www.ithome.com/0/927/607.htm)
-**来源：IT之家** | 国内
-
-> 苹果 2024 款 Mac mini 搭载 M4 / M4 Pro 芯片，教育优惠版官方定价 3749 元起。今日京东国补后低至 3188 元，本地如有货，可闭眼囤。去年买的小伙伴，用了一年现在出闲鱼还有得赚（目前二手价格很疯狂，官网下单无国补且需等 2~3 周），真真划算：京东苹果 Mac mini M4 教育优惠版 16+256G 国补后 3188 元直达链接Mac mini 搭载 10+10 核 M4 芯片，实测赛博朋克 2077 分辨率 1080P 下（关闭垂直同步），低画质可跑 58 帧左右，中画质 48 帧左右，高画质 38 帧左右，超级画质 30～33 帧上下。另外 Mac 版 Steam 赛博朋克 2077 仅需 92G 左右（日常大促 119 元），用 256G 版绰绰有余哦。搭载 M4 芯片的新款 Mac mini 相比 M1 机型，CPU 提速最高可达 1.8 倍，GPU 提速最高可达 2.2 倍。苹果表示，相比同等价位的 PC 台式电脑畅销机型，Mac mini 的尺寸规格仅为其 1/20，速度却最高快达 6 倍。相比英特尔酷睿 i7 芯片版 Mac mini，
->
-> 🔗 [查看原文](https://www.ithome.com/0/927/607.htm)
-
----
-
-### [IDC 称 2025 中国腕戴设备出货量同比增 20.8%：华为增 18.6%、小米增 47.8%、步步高降 4.5%、Apple 增 40.9%、荣耀增 29.0%](https://www.ithome.com/0/927/606.htm)
-**来源：IT之家** | 国内
-
-> IT之家 3 月 10 日消息，市场调查机构 IDC 今天（3 月 10 日）发布博文，报告称 2025 年中国腕戴设备（包含智能手表和手环产品）市场出货量为 7390 万台，同比增长 20.8%。其中，中国智能手表市场出货量 5061 万台，同比增长 17.2%；手环市场出货量 2329 万台，同比增长 29.4%。细分到品牌方面，IT之家附上原文对 TOP5 厂商的表现如下：华为2025 年，华为在腕戴市场稳健领跑，稳居中国市场出货量第一。Watch GT 6 系列首发骑行模拟功率，快速迭代并广泛铺货；Watch 5 系列进一步夯实了其在中高端智能手表市场的领先地位；Watch Fit 系列则凭借精致外观与出色性能，在轻运动场景中表现亮眼。小米小米第四季度发布智能手表新品 REDMI Watch 6 和全智能旗舰手表 Xiaomi Watch 5。此次推出的全智能手表是小米可穿戴系列完善其产品在高阶智能手表领域布局，向中高端市场迈进的重要一步。Apple2025 年 Apple 在中国市场增长迅速，主要得益于国补政策带来的价格优惠刺激。其下半年通过 Apple Watch S11，
->
-> 🔗 [查看原文](https://www.ithome.com/0/927/606.htm)
-
----
-
-### [谷歌回应“Pixel 10a 等手机限制充电最后 3% 变慢”：延长电池寿命](https://www.ithome.com/0/927/603.htm)
-**来源：IT之家** | 国内
-
-> IT之家 3 月 10 日消息，科技媒体 Android Police 昨日（3 月 9 日）发布博文，报道称 Pixel 10a 等手机安装谷歌 3 月更新后，开启“80% 充电限制”后充至约 77% 后速度骤降，最后 3% 电量耗时极长。在本次更新之前，Pixel 10a 等手机开启“80% 充电限制”后，接通电源后会全速充电，达到 80% 后自动停止，若电量回落则再次补电。不过在本次更新之后，很多用户反馈充至 76% 或 77% 时便会“撞墙”，最后 3% 至 4% 的电量补充过程变得异常缓慢。IT之家附上相关截图如下：用户最初普遍认为是系统 Bug，不过谷歌在 IssueTracker 回应中确认，这并非故障，而是有意为之的调整。开发者解释称，设备在达到约 77% 后会自动切换至低电流模式，从而更好地延长电池寿命。
->
-> 🔗 [查看原文](https://www.ithome.com/0/927/603.htm)
-
----
-
-### [谷歌安卓 17 迈步桌面化：借鉴 ChromeOS 将限制 USB4 接口直接访问内存](https://www.ithome.com/0/927/594.htm)
-**来源：IT之家** | 国内
-
-> IT之家 3 月 10 日消息，科技媒体 Android Authority 昨日（3 月 9 日）发布博文，报道称在安卓 17 Beta 2 更新中，谷歌正借鉴 ChromeOS 的安全机制，新增限制 Thunderbolt（雷电）和 USB4 设备访问系统内存。安卓系统正加速向桌面端扩张，除了 Android TV 和桌面模式外，安卓 17 Beta 2 的最新代码线索进一步揭示了其“桌面化”进程。为了满足桌面用户对硬件连接的高需求，谷歌正在为安卓引入 Chromebooks 已有的安全特性，即限制 Thunderbolt 或 USB4 设备对系统内存的访问权限。IT之家援引博文介绍，ChromeOS 的安全策略为规避直接内存访问（DMA）的隐患，默认禁止通过 Thunderbolt 或 USB4 连接的设备直接获取内存访问权限，谷歌建议用户仅在连接受信任设备且面临性能瓶颈时才开启此权限。而基于安卓 17 Beta 2 更新代码，谷歌正着手为安卓构建类似的访问限制机制。代码中出现了“数据访问保护”的设置选项，支持用户控制 USB 和雷电设备是否直接访问内存以获得最大硬件速度，并提示
->
-> 🔗 [查看原文](https://www.ithome.com/0/927/594.htm)
-
----
-
 ## ☁️ 云计算 / 基础设施
 
-### [It looks like the DOJ isn’t going to break up Live Nation and Ticketmaster](https://techcrunch.com/2026/03/09/it-looks-like-the-doj-isnt-going-to-break-up-live-nation-and-ticketmaster/)
+### [看来司法部不会拆分Live Nation和Ticketmaster](https://techcrunch.com/2026/03/09/it-looks-like-the-doj-isnt-going-to-break-up-live-nation-and-ticketmaster/)
+*It looks like the DOJ isn’t going to break up Live Nation and Ticketmaster*
 **来源：TechCrunch** | 海外
 
-> Founder Summit 2026 in Boston: Dont miss ticket savings of up to $300. Register Now. Save up to $680 on your Disrupt 2026 pass. Ends 11:59 p.m. PT tonight. REGISTER NOW. Image Credits:Mario Tama / Getty Images Media & Entertainment It looks like the DOJ isnt going to break up Live Nation and Ticketmaster Amanda Silberling 11:49 AM PDT · March 9, 2026 After a high-profile antitrust lawsuit, the U.S. Justice Department said Monday that it has tentatively settled with Ticketmaster and its parent company, Live Nation. After merging in 2010, the combined Live Nation and Ticketmaster control the maj
+> 创始人峰会2026 ，波士顿：不要错过高达300 $的门票优惠。立即注册。Disrupt 2026通行证最高可节省$ 680。今晚太平洋时间晚上11:59结束。立即注册。图片来源： Mario Tama/Getty Images Media & Entertainment看起来美国司法部不会在太平洋时间2026年3月9日上午11:49分解Live Nation和Ticketmaster Amanda Silberling。经过一场备受瞩目的反垄断诉讼，美国司法部周一表示，它已与Ticketmaster及其母公司达成初步和解。
 >
 > 🔗 [查看原文](https://techcrunch.com/2026/03/09/it-looks-like-the-doj-isnt-going-to-break-up-live-nation-and-ticketmaster/)
 
 ---
 
-### [The usability imperative for securing digital asset devices](https://www.technologyreview.com/2026/03/09/1132352/the-usability-imperative-for-securing-digital-asset-devices/)
+### [保护数字资产设备的可用性势在必行](https://www.technologyreview.com/2026/03/09/1132352/the-usability-imperative-for-securing-digital-asset-devices/)
+*The usability imperative for securing digital asset devices*
 **来源：MIT Technology Review** | 海外
 
-> When Tony Fadell started working on the iPod, usability often trumped security. The result was an iterative process. Every time someone would find a security weakness or a way to hack the device, the development group would iterate to add measures and fix the issues. Yet, flaws would frequently be found, and the secure design
+> 当托尼·法德尔（ Tony Fadell ）开始研究iPod时，可用性往往胜过安全性。结果是一个迭代过程。每次有人发现安全漏洞或破解设备的方法时，开发小组都会迭代添加措施并解决问题。然而，经常会发现缺陷，安全的设计
 >
 > 🔗 [查看原文](https://www.technologyreview.com/2026/03/09/1132352/the-usability-imperative-for-securing-digital-asset-devices/)
 
@@ -902,33 +633,6 @@ draft: false
 ---
 
 ## 🔒 网络安全
-
-### [Salt Typhoon is hacking the world’s phone and internet giants — here’s everywhere that’s been hit](https://techcrunch.com/2026/03/09/salt-typhoon-china-who-has-been-hacked-global-telecom-giants/)
-**来源：TechCrunch** | 海外
-
-> Founder Summit 2026 in Boston: Dont miss ticket savings of up to $300. Register Now. Save up to $680 on your Disrupt 2026 pass. Ends 11:59 p.m. PT tonight. REGISTER NOW. Image Credits:Getty Images Security Salt Typhoon is hacking the worlds phone and internet giants — heres everywhere thats been hit Zack Whittaker 8:50 AM PDT · March 9, 2026 Salt Typhoon is behind one of the broadest hacking campaigns in recent years, targeting some of the worlds largest phone and internet companies and stealing tens of millions of phone records about senior government officials. The hacking group, attributed 
->
-> 🔗 [查看原文](https://techcrunch.com/2026/03/09/salt-typhoon-china-who-has-been-hacked-global-telecom-giants/)
-
----
-
-### [江苏：到2030年，认定不少于30个脑机接口“三首两新”产品](https://36kr.com/newsflashes/3716856026494339?f=rss)
-**来源：36氪** | 国内
-
-> 36氪获悉，江苏省工信厅等九部门印发《江苏省脑机接口产业创新发展行动方案》，其中提到，打造高性能产品。加强脑机接口传感器、芯片、电池等核心硬件与软件系统的集成适配，推动脑机接口产品向智能化、轻量化、高速率、低功耗等方向发展。在工业制造领域，研发可穿戴脑状态监测设备、脑控装备与机器人、安全预警系统；在医疗康养领域，研发植入式神经调控设备、微创介入式脑机系统等脑疾病诊疗设备，以及脑卒中、渐冻症等专用康复训练设备；在生活消费领域，开发睡眠监测干预、注意力训练、脑控智能家居等消费级产品。定期遴选一批技术先进、成效显著、可复制推广的典型案例，择优推荐参评国家典型案例。到2030年，认定不少于30个脑机接口“三首两新”产品。
->
-> 🔗 [查看原文](https://36kr.com/newsflashes/3716856026494339?f=rss)
-
----
-
-### [GlassFish 8.0发布，兼容Jakarta EE 11，增强安全性并改进数据访问](https://www.infoq.cn/article/rLVi30GAlEd0bX8VxTBZ?utm_source=rss&utm_medium=article)
-**来源：InfoQ中文** | 国内
-
-> Eclipse 基金会发布了Eclipse GlassFish 8.0.0。这款轻量级开源应用服务器多年来一直是 Java EE/Jakarta EE 的参考实现与兼容实现。 除了缺陷修复与依赖项升级外，本版本的新特性包括，虚拟线程支持、增强的应用安全能力，以及改进的数据访问支持。 在OmniFish团队的主导下，历经 15 个里程碑版本后，GlassFish 8.0.0 正式发布，该版本最低要求 JDK 21，并已支持 JDK 25，同时作为 Jakarta EE 11 的兼容实现。 虚拟线程支持包括，来自Jakarta Concurrency 3.1规范的托管执行器，以及GlassFish Grizzly为 HTTP 和 IIOP 请求提供的虚拟线程池。这让 GlassFish 能够以极低开销处理大量并发请求。 GlassFish 通过初步集成Eclipse JNoSQL（Jakarta NoSQL规范的兼容实现），支持了Jakarta Data 1.0规范。Jakarta Data 定义的存储库模式（repository pattern）为开发者带来了更优的体验，包括，减少样板代码、可基于领域模型与用例组织存储库，同时支持基于偏移量与基于游标的两种分页方式。 GlassFish 通过集成MicroProfile JWT Authentication 2.1与Jakarta S
->
-> 🔗 [查看原文](https://www.infoq.cn/article/rLVi30GAlEd0bX8VxTBZ?utm_source=rss&utm_medium=article)
-
----
 
 ### [比亚迪仰望 U8L「白玉金」车色上线：24K 真金车标、承袭宋瓷「白釉描金」匠艺](https://www.ithome.com/0/927/654.htm)
 **来源：IT之家** | 国内
@@ -950,48 +654,22 @@ draft: false
 
 ## 💰 科技商业
 
-### [Uzbekistan’s Uzum valuation leaps over 50% in seven months to $2.3B](https://techcrunch.com/2026/03/10/uzbekistans-uzum-valuation-rises-1-5x-in-seven-months-to-2-3b/)
+### [乌兹别克斯坦的Uzum估值在七个月内跃升超过50 ％至23亿$](https://techcrunch.com/2026/03/10/uzbekistans-uzum-valuation-rises-1-5x-in-seven-months-to-2-3b/)
+*Uzbekistan’s Uzum valuation leaps over 50% in seven months to $2.3B*
 **来源：TechCrunch** | 海外
 
-> Founder Summit 2026 in Boston: Dont miss ticket savings of up to $300. Register Now. Save up to $680 on your Disrupt 2026 pass. Ends 11:59 p.m. PT tonight. REGISTER NOW. Image Credits:Uzum Commerce Uzbekistans Uzum valuation leaps over 50% in seven months to $2.3B Jagmeet Singh 12:15 AM PDT · March 10, 2026 Uzbekistan fintech Uzum has reached a $2.3 billion valuation — about 53% higher than just seven months ago — as investors place growing bets on the countrys emerging digital economy. The valuation stems from a $131.5 million investment led by sovereign wealth funds from Oman, with participa
+> 创始人峰会2026 ，波士顿：不要错过高达300 $的门票优惠。立即注册。Disrupt 2026通行证最高可节省$ 680。今晚太平洋时间晚上11:59结束。立即注册。图片来源： Uzum Commerce Uzbekistans Uzum的估值在七个月内跃升超过50% ，达到23亿$ Jagmeet Singh 12:15 AM PDT · 2026年3月10日乌兹别克斯坦金融科技公司Uzum的估值达到23亿$ —比七个月前高出约53% —因为投资者对该国新兴数字经济的押注越来越大。
 >
 > 🔗 [查看原文](https://techcrunch.com/2026/03/10/uzbekistans-uzum-valuation-rises-1-5x-in-seven-months-to-2-3b/)
 
 ---
 
-### [Slate Auto changes CEO months ahead of affordable EV launch](https://techcrunch.com/2026/03/09/slate-auto-changes-ceo-months-ahead-of-affordable-ev-launch/)
-**来源：TechCrunch** | 海外
-
-> Founder Summit 2026 in Boston: Dont miss ticket savings of up to $300. Register Now. Save up to $680 on your Disrupt 2026 pass. Ends 11:59 p.m. PT tonight. REGISTER NOW. Image Credits:Slate Auto Transportation Slate Auto changes CEO months ahead of affordable EV launch Sean OKane 9:14 AM PDT · March 9, 2026 Slate Auto, the electric vehicle startup backed by Jeff Bezos, has replaced its CEO months ahead of the launch of its affordable electric truck. Former Amazon Marketplace vice president Peter Faricy is the new person in charge of the company, and he started on Monday, Slate spokesperson Jef
->
-> 🔗 [查看原文](https://techcrunch.com/2026/03/09/slate-auto-changes-ceo-months-ahead-of-affordable-ev-launch/)
-
----
-
-### [Xprize founder Peter Diamandis launches new contest to manifest a new ‘Star Trek’](https://techcrunch.com/2026/03/09/xprize-founder-peter-diamandis-launches-new-contest-to-manifest-a-new-star-trek/)
-**来源：TechCrunch** | 海外
-
-> Founder Summit 2026 in Boston: Dont miss ticket savings of up to $300. Register Now. Save up to $680 on your Disrupt 2026 pass. Ends 11:59 p.m. PT tonight. REGISTER NOW. Image Credits:Patrick T. Fallon/Bloomberg via Getty Images / Getty Images Venture Xprize founder Peter Diamandis launches new contest to manifest a new Star Trek Julie Bort 9:00 AM PDT · March 9, 2026 As any Star Trek fan will tell you, the reason why this sci-fi world has endured for so long is because it illustrates an optimistic future, with tech starring as a power for good. In fact, famed Xprize founder, author, tech inve
->
-> 🔗 [查看原文](https://techcrunch.com/2026/03/09/xprize-founder-peter-diamandis-launches-new-contest-to-manifest-a-new-star-trek/)
-
----
-
-### [恒指收涨2.17%，恒生科技指数涨2.4%](https://36kr.com/newsflashes/3716845334590852?f=rss)
+### [陕西煤业：2025年净利润165.48亿元，同比减少25.99%](https://36kr.com/newsflashes/3716859598304901?f=rss)
 **来源：36氪** | 国内
 
-> 36氪获悉，恒指收涨2.17%，恒生科技指数涨2.4%；GEO概念、科技股大涨，MINIMAX-WP大涨超22%，智谱涨超12%，腾讯控股涨超7%，阿里巴巴涨超3%；油气、煤炭股调整，山东墨龙、中港石油跌超10%；南向资金净流出超179.53亿港元。下一篇腾讯官宣全系“龙虾”产品，Qclaw支持微信远程操控3月10日，腾讯官宣了全系“龙虾”矩阵，包括腾讯版"免部署小龙虾"WorkBuddy、内测中的QClaw、腾讯云Lighthouse等产品。其中，QClaw正在内测，该智能体可通过微信对话远程操控。腾讯介绍，基于OpenClaw打造的本地AI助手可在Windows或Mac上一键安装，覆盖5000个以上的skills。用户在微信上发个信息给QClaw，就可以让家里的电脑算报表、传文件。（第一财经） 8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场
+> 36氪获悉，陕西煤业公告，2025年营业总收入1581.89亿元，同比减少14.10%；实现归属于上市公司股东的净利润165.48亿元，同比减少25.99%。业绩下降主要受煤炭产品销售价格同比下降影响，同时交易性金融资产公允价值变动增加收益以及投资收益增加。原文链接下一篇江苏：引导有条件的地区设立脑机接口产业投资基金，吸引社会资本参与，助力种子期、初创期企业发展壮大36氪获悉，江苏省工信厅等九部门印发《江苏省脑机接口产业创新发展行动方案》，其中提到，强化金融支持。发挥省战略性新兴产业母基金引导作用，支持相关产业专项基金及子基金投向应用场景广阔、成长性强的脑机接口项目。引导有条件的地区设立脑机接口产业投资基金，吸引社会资本参与，助力种子期、初创期企业发展壮大。依托省科技金融综合服务平台，汇聚“苏科贷”“专精特新贷”等政银合作信贷产品，鼓励金融机构开发服务脑机接口产业的特色金融产品，提供涵盖“股债贷保担”的一站式综合科技金融服务。 8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场 OpenClaw 3.8继续炸场，龙虾不睡觉，全球程序员连夜赶工
 >
-> 🔗 [查看原文](https://36kr.com/newsflashes/3716845334590852?f=rss)
-
----
-
-### [腾讯混元开源首个面向世界模型的强化学习后训练框架](https://36kr.com/newsflashes/3716793623541122?f=rss)
-**来源：36氪** | 国内
-
-> 36氪获悉，腾讯混元3D团队开源首个面向世界模型的强化学习后训练框架WorldCompass。据介绍，这是一个专为长时序、交互式世界模型设计的强化学习（RL）后训练框架。如果说世界模型是引擎，那么WorldCompass就是精准的“指南针”，通过引入强化学习机制，直接“引导”模型如何更准确地遵循用户指令探索世界，并保持长时序的视觉一致性。原文链接下一篇集邦咨询：存储器与CPU价格同步上涨 主流笔电售价或将上调40%36氪获悉，根据TrendForce集邦咨询最新笔电产业研究，2026年全球笔电市场正面临需求疲弱、成本上升的双重压力，除了存储器价格快速攀升，CPU价格也开始上调。据TrendForce集邦咨询估计，若要维持品牌厂、渠道端的既有毛利率结构，一台原建议售价（MSRP）为900美元的主流机种，终端售价涨幅可能将逼近40%。 8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场
->
-> 🔗 [查看原文](https://36kr.com/newsflashes/3716793623541122?f=rss)
+> 🔗 [查看原文](https://36kr.com/newsflashes/3716859598304901?f=rss)
 
 ---
 
@@ -1006,57 +684,69 @@ draft: false
 
 ## 🔬 科学 / 前沿技术
 
-### [2026 Australian Grand Prix: Formula 1 debuts a new style of racing](https://arstechnica.com/cars/2026/03/2026-australian-grand-prix-formula-1-debuts-a-new-style-of-racing/)
-**来源：Ars Technica** | 海外
+### [乘联分会崔东树：1月二手车转籍比例达到35%当期历史高位](https://36kr.com/newsflashes/3716890509653384?f=rss)
+**来源：36氪** | 国内
 
-> The key is understanding how to conserve energy across a lap. Oh, and be reliable.
+> 36氪获悉，乘联分会秘书长崔东树发文表示，2026年1月，全国二手车市场交易量173万台，环比降8%，同比增18%，交易金额为1106亿元，同比增14.8%。2025年1-12月，二手车累计交易量2011万台，同比增2.5%，交易额12898亿元，增0.4%。近几年二手车的转籍比例在25到30%之间波动的趋势，2026年1月达到35%的当期历史高位。2026年1月，全国新能源二手车市场交易量15.8万台，环比降6%，同比增长74%，新能源渗透率12.2%。2025年1-12月，新能源二手车累计交易量161万台，同比增43%。
 >
-> 🔗 [查看原文](https://arstechnica.com/cars/2026/03/2026-australian-grand-prix-formula-1-debuts-a-new-style-of-racing/)
+> 🔗 [查看原文](https://36kr.com/newsflashes/3716890509653384?f=rss)
 
 ---
 
-### [江苏：到2027年，建设不少于两个省级脑机接口产业集聚区](https://36kr.com/newsflashes/3716855405032840?f=rss)
-**来源：36氪** | 国内
+### [比亚迪领汇 e7 全国 127 城首批展车已到店，覆盖上海、天津、重庆等](https://www.ithome.com/0/927/669.htm)
+**来源：IT之家** | 国内
 
-> 36氪获悉，江苏省工业和信息化厅等九部门印发《江苏省脑机接口产业创新发展行动方案》。其中提出，到2027年，在电极、芯片、算法等方面取得新突破，脑机接口感知、调控、交互等技术实现融合发展。推动一批脑机接口相关医疗器械完成注册审批，认定一批脑机接口创新产品，在工业制造、医疗康养、生活消费等领域加快应用。加快推动产业集聚发展，建设不少于2个省级脑机接口产业集聚区。到2030年，产业发展体系初步完善，打造2-3家具有国内外影响力的领军企业，培育一批专精特新中小企业，形成涵盖基础材料、核心部件、整机产品、应用服务等较完整的产业生态，产业综合竞争力位居全国前列，积极争创国家未来产业先导区。
+> IT之家 3 月 10 日消息，比亚迪领汇汽车今日宣布，领汇 e7 全国 127 城首批展车已到店，覆盖上海、天津、重庆等城市，主打“发布即布局，布局即到店”。IT之家注意到，比亚迪领汇汽车旗下首款车型领汇 e7 已于上个月官宣，该车设计延续比亚迪海洋网家族风格。根据官方最新预热，领汇 e7 将搭载比亚迪闪充技术，可实现“5 分钟充好、9 分钟充饱”。参考工信部申报信息，该车基本延续比亚迪 e7 整体造型，前后换装领汇新车标，车型充电口位置从右前翼子板区调整至车身右后侧。该车尺寸长宽高分别为 4780×1900×1515mm，轴距 2820mm。动力方面，新车搭载前置单电机，分 100kW、130kW 版本；搭载弗迪磷酸铁锂刀片电池，电池循环寿命达 60 万公里，匹配营运周期；CLTC 续航有 450km、550km 等版本可选；采用宽温域热泵空调，冬季能耗更低。相关阅读：《比亚迪全新品牌“领汇”官宣，致力于打造“技术不妥协、价格更亲民”的新能源汽车产品》《比亚迪领汇 e7 新车预热：5 分钟充好，9 分钟充饱》
 >
-> 🔗 [查看原文](https://36kr.com/newsflashes/3716855405032840?f=rss)
+> 🔗 [查看原文](https://www.ithome.com/0/927/669.htm)
+
+---
+
+### [拿起就刷离口即停：追觅 NB01 无按键电动牙刷发布，支持 30 天免费用](https://www.ithome.com/0/927/668.htm)
+**来源：IT之家** | 国内
+
+> 追觅现已推出无按键感应式电动牙刷 NB01，主打“拿起就刷、离口即停”的全自动交互。搭载智能压力智控与高频声波马达，2 刷头套装官方定价 349 元。预付定金尾款立减 60 元 → 实付仅 299 元晒单返 60 元 E 卡赠 20 元京东超市卡折合实付 219 元，支持 30 天免费试用：京东追觅电动牙刷 NB01 无按键黑科技实付 299 元直达链接这款牙刷搭载 FitClean 无键感应系统，摒弃物理按键，实现手持唤醒、入口启振、离口即停的无感操作。搭配四色智感灯环实时显示运行状态；支持 IPX7 级整机防水，运行噪音低于 60 分贝。牙刷内置高精度压力智控模块，可在 50g-380g 压力区间自动匹配清洁档位，用力过度持续 3 秒自动减速降档，呵护牙龈与牙釉质。搭载 36000 次 / 分钟高频声波马达，标配净澈型、柔护型双效刷头，适配不同口腔护理需求。IT之家附牙刷主要参数如下：产品型号：NB01防水等级：IPX7电池容量：800mAh充电方式：底座式充电核心功能：无按键感应启停、智能压力自动调速马达性能：36000 次 / 分钟高频声波震动京东追觅电动牙刷 NB01 无按键
+>
+> 🔗 [查看原文](https://www.ithome.com/0/927/668.htm)
+
+---
+
+### [重达 600 公斤，NASA 退役卫星范艾伦探测器 A 即将坠回地球](https://www.ithome.com/0/927/661.htm)
+**来源：IT之家** | 国内
+
+> IT之家 3 月 10 日消息，专家称，美国国家航空航天局（NASA）一颗大型卫星在轨道运行近 14 年后，将于当地时间 3 月 10 日坠回地球。据IT之家了解，这颗航天器是范艾伦探测器 A，重 1323 磅（600 公斤），于 2012 年 8 月与其孪生探测器范艾伦探测器 B 一同发射，用于研究以其命名的地球辐射带。两颗探测器均于 2019 年退役，如今范艾伦探测器 A 的在轨生涯即将结束。截至当地时间周一下午（3 月 9 日），美国太空部队预测，这颗卫星将于美国东部时间周二 19:45（北京时间周三 7:45）再入地球大气层，误差在 24 小时左右。NASA 官员在当地时间周一的最新公告中表示：“NASA 预计探测器大部分结构将在穿越大气层时燃烧殆尽，但部分部件预计会在再入过程中幸存。对地球人员造成伤害的风险很低 —— 约为 1/4200。”这一约 0.02% 的低受伤风险，是考虑到地球表面约 70% 被水覆盖。因此，任何幸存的残骸都很可能坠入开阔海域，而非城市及其周边地区。太空部队给出的再入时间仅为预估。随着更多、更精准的数据获取，未来几小时内该时间将更新。范艾伦探测器（原名
+>
+> 🔗 [查看原文](https://www.ithome.com/0/927/661.htm)
 
 ---
 
 ## 📰 其他科技资讯
 
-### [Qualcomm’s partnership with Neura Robotics is just the beginning](https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/)
-**来源：TechCrunch** | 海外
-
-> Founder Summit 2026 in Boston: Dont miss ticket savings of up to $300. Register Now. Save up to $680 on your Disrupt 2026 pass. Ends 11:59 p.m. PT tonight. REGISTER NOW. Image Credits:Brian Heater AI Qualcomms partnership with Neura Robotics is just the beginning Rebecca Szkutak 8:58 AM PDT · March 9, 2026 German robotics startup Neura Robotics has inked a partnership with semiconductor giant Qualcomm to build the next generation of robots and physical AI. The deal is the latest coupling in the emerging physical AI industry between robotics startups and larger tech hardware and software compan
->
-> 🔗 [查看原文](https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/)
-
----
-
-### [Bluesky CEO Jay Graber will step aside](https://www.theverge.com/tech/891562/bluesky-new-ceo)
+### [Bluesky首席执行官Jay Graber将辞职](https://www.theverge.com/tech/891562/bluesky-new-ceo)
+*Bluesky CEO Jay Graber will step aside*
 **来源：The Verge** | 海外
 
-> Jay Graber became the first CEO of Bluesky in 2021 when the network and its AT Protocol spun out from life as a Twitter research project to go independent, but now she's leaving that role, as reported previously by Wired. While venture capitalist and former Automattic CEO Toni Schneider steps in as interim CEO until []
+> 杰伊·格雷伯（ Jay Graber ）于2021年成为Bluesky的第一位首席执行官，当时该网络及其AT协议作为Twitter研究项目从生活中脱颖而出，走向独立，但现在她将离开这个角色，正如《连线》杂志此前报道的那样。风险资本家和前Automattic首席执行官托尼·施耐德（ Toni Schneider ）担任临时首席执行官，直至[]
 >
 > 🔗 [查看原文](https://www.theverge.com/tech/891562/bluesky-new-ceo)
 
 ---
 
-### [‘Flying Cars’ Will Take Off in American Skies This Summer](https://www.wired.com/story/flying-cars-will-take-off-in-american-skies-this-summer/)
+### [“飞行汽车”将于今年夏天在美国的天空中起飞](https://www.wired.com/story/flying-cars-will-take-off-in-american-skies-this-summer/)
+*‘Flying Cars’ Will Take Off in American Skies This Summer*
 **来源：Wired** | 海外
 
-> LoaderSave StorySave this storyCommentLoaderSave StorySave this storyNew kinds of aircraft, sorts of “flying cars” that can take off and land with little space like helicopters but function like airplanes, will start operating in US airspace as early as June, the US Department of Transportation announced on Monday. Eight regions across the US, including New York and New Jersey, Texas, Florida, and Albuquerque, New Mexico, will take part in a three-year pilot program that will see new aircraft designs ferrying people and cargo around the country even before they formally receive full certificat
+> 装载机保存故事保存此故事注释装载机保存故事保存此故事美国交通部周一宣布，新型飞机，即可以像直升机一样在很小的空间内起降但功能像飞机一样的“飞行汽车” ，最早将于6月开始在美国领空运营。包括纽约和新泽西、德克萨斯、佛罗里达和新墨西哥州阿尔伯克基在内的美国八个地区将参加为期三年的试点项目，
 >
 > 🔗 [查看原文](https://www.wired.com/story/flying-cars-will-take-off-in-american-skies-this-summer/)
 
 ---
 
-### [Bluesky CEO Jay Graber Is Stepping Down](https://www.wired.com/story/bluesky-ceo-jay-graber-is-stepping-down/)
+### [Bluesky首席执行官杰伊·格雷伯（ Jay Graber ）即将辞职](https://www.wired.com/story/bluesky-ceo-jay-graber-is-stepping-down/)
+*Bluesky CEO Jay Graber Is Stepping Down*
 **来源：Wired** | 海外
 
-> Save this storySave StorySave this storyJay Graber is stepping down as head of Bluesky, the social media platform exclusively announced to WIRED. Venture capitalist Toni Schneider will be the interim CEO until a permanent replacement is found. “As Bluesky matures, the company needs a seasoned operator focused on scaling and execution, while I return to what I do best: building new things,” Graber wrote in a statement about the personnel change. Graber joined Bluesky in 2019, when it was a research project within Twitter focused on developing a decentralized framework for the social web. She be
+> 保存此故事保存此故事Jay Graber将辞去Bluesky的负责人一职， Bluesky是专门向WIRED宣布的社交媒体平台。风险投资家托尼·施耐德（ Toni Schneider ）将担任临时首席执行官，直至找到永久替代人选。Graber在一份关于人事变动的声明中写道： “随着Bluesky的成熟，公司需要一位经验丰富的运营商，专注于扩展和执行，而我则回到我最擅长的领域：构建新事物。” Graber于2019年加入Bluesky ，当时它是一名研究员
 >
 > 🔗 [查看原文](https://www.wired.com/story/bluesky-ceo-jay-graber-is-stepping-down/)
 
@@ -1065,135 +755,79 @@ draft: false
 ### [Our Favorite Wireless Headphones Are $60 Off](https://www.wired.com/story/sony-wh-1000xm6-deal-326/)
 **来源：Wired** | 海外
 
-> LoaderSave StorySave this storyCommentLoaderSave StorySave this storyIf you&#x27;ve been longing for a new wireless headset to take on long flights or crowded commutes, but holding out for a good deal, your time has come. You can grab the Sony WH-1000XM6 for just $398 from Amazon in Black and Platinum Silver, while the Midnight Blue and Sand Pink are marked as limited-time deals. It&#x27;s our favorite wireless headset, with best-in-class noise reduction, excellent battery life, and every feature you&#x27;d expect for the price point. Photograph: Ryan WaniataSave to wishlistSave to wishlistSon
+> LoaderSave StorySave this storyCommentLoaderSave storySave this story如果您一直渴望一款新的无线耳机可以长途飞行或拥挤的通勤，但坚持要好价钱，那么您的时机已经到来。黑色和白金银色的索尼WH-1000XM6仅需398 $ ，而午夜蓝色和沙粉色则标记为限时优惠。这是我们最喜欢的无线耳机，具有一流的降噪功能、出色的电池续航时间和
 >
 > 🔗 [查看原文](https://www.wired.com/story/sony-wh-1000xm6-deal-326/)
 
 ---
 
-### [Best Base Layers (2026): Merino Wool, Synthetic, and More](https://www.wired.com/gallery/best-base-layers/)
+### [最佳基础层（ 2026年） ：美利奴羊毛、合成羊毛等](https://www.wired.com/gallery/best-base-layers/)
+*Best Base Layers (2026): Merino Wool, Synthetic, and More*
 **来源：Wired** | 海外
 
-> LoaderSave StorySave this storyCommentLoaderSave StorySave this storyFeatured in this articleThe Best Ultralight Merino Wool Base LayerIbex Woolies Pro Tech CrewRead more$120 Ibex (Womens) Best Midweight Base LayerIcebreaker Merino 200 Oasis Thermal TopRead more$120 REI (Mens) The Best Heavyweight Base LayerSmartWool Classic Thermal Merino Base LayerRead more$115 Smartwool (Mens) The Best Base Layer for Extreme ColdMinus33 Heavyweight Yukon Thermal Long SleeveRead more$150 Minus 33 (Mens) Base layers, thermal underwear, long johns—whatever you want to call them, nothing in the process of layer
+> 加载器保存故事保存此故事评论加载器保存故事保存此故事本文特色最佳超轻美利奴羊毛基层IBEX羊毛专业技术人员阅读更多$ 120 Ibex （女式）最佳中等重量基层Icebreaker美利奴200绿洲保暖上衣阅读更多$ 120 REI （男式）最佳重量基层智能羊毛经典保暖美利奴基层阅读更多$ 115智能羊毛（男式）极度寒冷的最佳基层Minus33重量级育空保暖长袖阅读更多$ 150减33 （男式）基层
 >
 > 🔗 [查看原文](https://www.wired.com/gallery/best-base-layers/)
 
 ---
 
-### [Best Sonos Speakers (2026): Soundbars, Headphones, Dolby Atmos, and More](https://www.wired.com/gallery/best-sonos-speakers-buying-guide/)
-**来源：Wired** | 海外
-
-> LoaderSave StorySave this storyCommentLoaderSave StorySave this storySonos speakers are still great. There, I said it. Though the app issues that began in 2024 have put the company in quite the consumer-confidence hole, my reference models have worked fine for over a year now. I use an old (now discontinued) Sonos Symfonisk Lamp from Ikea every night to put my daughter to bed, and speakers like the Sonos Era 100 and Era 300 are among the most accessible and best-sounding wireless speakers in my library. While new challengers like Wiim have won my heart (their amps are incredible for the money)
->
-> 🔗 [查看原文](https://www.wired.com/gallery/best-sonos-speakers-buying-guide/)
-
----
-
-### [Hatch’s Sale Has the Restore 3, Rest, and Rest+ All Discounted](https://www.wired.com/story/hatch-sleep-week-sale-2026/)
-**来源：Wired** | 海外
-
-> LoaderSave StorySave this storyCommentLoaderSave StorySave this storyEveryone&#x27;s exhausted after the loss of an hour of sleep. But you don&#x27;t have to grin and bear it. Hatch&#x27;s sale includes several of its popular sunrise alarm clocks that can help both adults and kids alike to adjust to the new time of day. Sunrise alarm clocks simulate the sunrise right on your bedside table, slowly brightening over the course of anywhere between 10 minutes and an hour, helping activate your circadian rhythm and naturally waking you up. If you&#x27;re interested in one after the rough loss of an 
->
-> 🔗 [查看原文](https://www.wired.com/story/hatch-sleep-week-sale-2026/)
-
----
-
-### [Don’t Expect Big Surprises in the Government’s Alien Files](https://www.wired.com/story/dont-expect-big-surprises-in-the-governments-alien-files/)
-**来源：Wired** | 海外
-
-> Save this storySave StorySave this storyAliens have invaded the news again. Last month, two US presidents weighed in on the topic in rapid succession, managing to make a public that was already obsessed with extraterrestrials even more so. First, Barack Obama sparked a furor by saying aliens are “real” during a podcast lightning round. He later clarified that he simply meant this in the sense that it’s very likely that there is life somewhere in the vast universe, but the accidental media frenzy seemed to inspire President Donald Trump to announce in a Truth Social post that his administration
->
-> 🔗 [查看原文](https://www.wired.com/story/dont-expect-big-surprises-in-the-governments-alien-files/)
-
----
-
-### [Are Smart Beds Worth It? A Certified Sleep Science Coach Weighs In (2026)](https://www.wired.com/gallery/best-smart-beds/)
-**来源：Wired** | 海外
-
-> LoaderSave StorySave this storyCommentLoaderSave StorySave this storyWhile they may not be able to levitate or act like a Jetsons-style robot personal assistant, smart beds these days come pretty close to accomplishing both. As a professional mattress tester and certified sleep science coach, I always expect the unexpected, especially when it comes to smart beds. The latest and greatest models these days include features I usually see in sleep trackers, noise machines, and even massage guns—all contained in a single mattress. In my honest, professional opinion, smart beds are similar to, but n
->
-> 🔗 [查看原文](https://www.wired.com/gallery/best-smart-beds/)
-
----
-
-### [H&R Block Coupon: $50 Off Assisted Tax Prep](https://www.wired.com/story/hr-block-coupon/)
-**来源：Wired** | 海外
-
-> Save this storySave StorySave this storyAs they say, the only things you can&#x27;t escape in life are death and taxes. Doing your own taxes has only gotten easier over the years but it’s still plenty confusing, especially with both federal and state rules and rates always in flux. To help you figure out this confusing process, I’ve written a guide on How to Pay Your Taxes Online, and included H&R Block and other competitors to give you more information as you navigate between the seemingly endless options available for your specific tax needs. Tax day may not be until April 15 but as we all k
->
-> 🔗 [查看原文](https://www.wired.com/story/hr-block-coupon/)
-
----
-
-### [After falling far behind the rest of industry, Blue Origin creates new stock option plan](https://arstechnica.com/space/2026/03/after-years-of-missteps-blue-origin-to-finally-offer-meaningful-stock-options/)
+### [在远远落后于行业其他部门后，蓝色起源制定了新的股票期权计划](https://arstechnica.com/space/2026/03/after-years-of-missteps-blue-origin-to-finally-offer-meaningful-stock-options/)
+*After falling far behind the rest of industry, Blue Origin creates new stock option plan*
 **来源：Ars Technica** | 海外
 
-> Text settings Story text Size Small Standard Large Width * Standard Wide Links Standard Orange * Subscribers only Learn more Minimize to nav Two years after he founded his space company in the summer of 2004, Jeff Bezos penned a letter that greeted new employees with the message, “Welcome to Blue Origin!” A copy of this letter was subsequently given to new employees for nearly two decades. At one point in the letter, Bezos questioned whether Blue Origin was a good investment. “I accept that Blue Origin will not meet a reasonable investor’s expectations for return on investment over a typical i
+> 文字设置故事文字尺寸小标准大宽度*标准宽链接标准橙色*订阅者仅了解详情最小化到导航2004年夏天创立太空公司两年后， Jeff Bezos写了一封信，向新员工致敬，信中写道： “欢迎来到蓝色起源！“这封信的副本随后被提供给新员工近二十年。在信中，贝索斯曾质疑蓝色起源是否是一项不错的投资。“我接受蓝色
 >
 > 🔗 [查看原文](https://arstechnica.com/space/2026/03/after-years-of-missteps-blue-origin-to-finally-offer-meaningful-stock-options/)
 
 ---
 
-### [Quad Cortex mini amp modeler: All the power, half the size](https://arstechnica.com/reviews/2026/03/quad-cortex-mini-insane-amp-modeling-power-for-the-discerning-guitarist/)
+### [Quad Cortex迷你放大器建模器：所有功率，一半大小](https://arstechnica.com/reviews/2026/03/quad-cortex-mini-insane-amp-modeling-power-for-the-discerning-guitarist/)
+*Quad Cortex mini amp modeler: All the power, half the size*
 **来源：Ars Technica** | 海外
 
-> Text settings Story text Size Small Standard Large Width * Standard Wide Links Standard Orange * Subscribers only Learn more Minimize to nav At this January’s massive NAMM music tech show in Los Angeles, six products won “best of show” awards. Several of them went to major music and electronic brands like Yamaha and Boss, but one of the six went to Neural DSP, a much smaller company started in 2017 by Chilean immigrants to Finland. From its base in the Helsinki area, Neural has made itself an expert in the use of machine learning, robots, and impulse response technology to automate the constru
+> 文字设置故事文字大小小标准大宽度*标准宽链接标准橙色*仅限订阅者了解更多尽量减少到导航在今年1月在洛杉矶举行的大型NAMM音乐技术展上，六款产品获得了“最佳展示”奖。他们中的一些人去了雅马哈和Boss等主要的音乐和电子品牌，但其中一个去了Neural DSP ，这是一家规模小得多的公司，由智利移民到芬兰于2017年创立。从赫尔辛基地区的基地来看， Neural已经成为
 >
 > 🔗 [查看原文](https://arstechnica.com/reviews/2026/03/quad-cortex-mini-insane-amp-modeling-power-for-the-discerning-guitarist/)
 
 ---
 
-### [US blindsides states with surprise settlement in Live Nation/Ticketmaster trial](https://arstechnica.com/tech-policy/2026/03/us-blindsides-states-with-surprise-settlement-in-live-nation-ticketmaster-trial/)
+### [Live Nation/Ticketmaster审判中的美国盲点州意外和解](https://arstechnica.com/tech-policy/2026/03/us-blindsides-states-with-surprise-settlement-in-live-nation-ticketmaster-trial/)
+*US blindsides states with surprise settlement in Live Nation/Ticketmaster trial*
 **来源：Ars Technica** | 海外
 
-> States seek mistrial, saying "sudden disappearance" of US will influence jury.
+> 文本设置故事文本大小小标准大宽度*标准宽链接标准橙色*订阅者仅了解详情最小化导航特朗普政府同意停止追求Live Nation和Ticketmaster的分手，作为在审判过程中蒙蔽州检察长的和解的一部分。来自27个州和哥伦比亚特区的司法部长正在继续在没有美国政府的情况下追究此案，至少目前是这样。美国司法部和大多数
 >
 > 🔗 [查看原文](https://arstechnica.com/tech-policy/2026/03/us-blindsides-states-with-surprise-settlement-in-live-nation-ticketmaster-trial/)
 
 ---
 
-### [An unlikely set of clues helps reconstruct ancient Chinese disasters](https://arstechnica.com/science/2026/03/an-unlikely-set-of-clues-helps-reconstruct-ancient-chinese-disasters/)
+### [一组不太可能的线索有助于重建中国古代的灾难](https://arstechnica.com/science/2026/03/an-unlikely-set-of-clues-helps-reconstruct-ancient-chinese-disasters/)
+*An unlikely set of clues helps reconstruct ancient Chinese disasters*
 **来源：Ars Technica** | 海外
 
-> Text settings Story text Size Small Standard Large Width * Standard Wide Links Standard Orange * Subscribers only Learn more Minimize to nav Warmer waters in the Pacific Ocean may have brought devastating floods to the cradle of ancient Chinese civilization, according to a recent study in which its authors link three wildly different lines of evidence to tell the story. People in Shang Dynasty China, around 3,000 years ago, probably didn’t realize that the massive floods sweeping through their heartland were the product of typhoons battering the southern Chinese coast hundreds of kilometers aw
+> 文本设置故事文本大小小标准大宽度*标准宽链接标准橙色*订阅者仅了解详情尽量减少到航行太平洋温暖的水域可能给中国古代文明的摇篮带来了毁灭性的洪水，根据最近的一项研究，其作者将三条截然不同的证据联系起来讲述这个故事。大约3000年前，中国商代的人们可能没有意识到大洪水席卷他们的
 >
 > 🔗 [查看原文](https://arstechnica.com/science/2026/03/an-unlikely-set-of-clues-helps-reconstruct-ancient-chinese-disasters/)
 
 ---
 
-### [Nintendo sues to prevent Trump from dodging full tariff refunds](https://arstechnica.com/tech-policy/2026/03/nintendo-sues-for-full-tariff-refund-after-backlash-over-price-hikes/)
+### [任天堂起诉阻止特朗普躲避全额关税退税](https://arstechnica.com/tech-policy/2026/03/nintendo-sues-for-full-tariff-refund-after-backlash-over-price-hikes/)
+*Nintendo sues to prevent Trump from dodging full tariff refunds*
 **来源：Ars Technica** | 海外
 
-> Nintendo may face pressure to share refunds with gamers who helped pay tariffs.
+> 文本设置故事文本大小小标准大宽度*标准宽链接标准橙色*订阅者仅了解详情最小化到导航上周五，任天堂与数千家公司一起起诉特朗普政府，要求获得全额退款，以及根据《国际紧急经济权力法》（ IEEPA ）收取的数十亿美元非法关税的利息。任天堂在其投诉中坚称，特朗普政府已经承认，超过2000亿美元的退款
 >
 > 🔗 [查看原文](https://arstechnica.com/tech-policy/2026/03/nintendo-sues-for-full-tariff-refund-after-backlash-over-price-hikes/)
 
 ---
 
-### [Flexible feline spines shed light on "falling cat" problem](https://arstechnica.com/science/2026/03/tuck-and-turn-or-bend-and-twist-how-falling-cats-land-on-their-feet/)
+### [灵活的猫刺揭示了“坠落的猫”问题](https://arstechnica.com/science/2026/03/tuck-and-turn-or-bend-and-twist-how-falling-cats-land-on-their-feet/)
+*Flexible feline spines shed light on "falling cat" problem*
 **来源：Ars Technica** | 海外
 
-> Text settings Story text Size Small Standard Large Width * Standard Wide Links Standard Orange * Subscribers only Learn more Minimize to nav Why do falling cats always seem to land on their feet? Scientists have been arguing about the precise mechanism for a very long time—since at least 1700, in fact—conducting all manner of experiments to pin down what’s going on. The research continues, with a paper published in the journal The Anatomical Record reporting on new experiments to analyze the flexibility of feline spines. We covered this topic in-depth in 2019, when University of North Carolina
+> 文本设置故事文本尺寸小标准大宽度*标准宽链接标准橙色*仅限订阅者了解详情最小化导航为什么坠落的猫咪似乎总是站着落地？科学家们一直在争论精确的机制很长一段时间-事实上，至少从1700年开始-进行各种各样的实验来确定发生了什么。这项研究仍在继续，发表在《解剖记录》杂志上的一篇论文报道了分析跳蚤的新实验
 >
 > 🔗 [查看原文](https://arstechnica.com/science/2026/03/tuck-and-turn-or-bend-and-twist-how-falling-cats-land-on-their-feet/)
-
----
-
-### [Don't worry, Valve still plans to launch the Steam Machine "this year"](https://arstechnica.com/gaming/2026/03/dont-worry-valve-still-plans-to-launch-the-steam-machine-this-year/)
-**来源：Ars Technica** | 海外
-
-> Text settings Story text Size Small Standard Large Width * Standard Wide Links Standard Orange * Subscribers only Learn more Minimize to nav Valve quickly reconfirmed that it plans to ship the Steam Machine and other recently announced hardware products “this year,” after an official blog post late last week set off some worried speculation about possible delays. While Steam’s 2025 Year in Review mainly focused on new Steam tools and features released last year, the introductory section focused on the company’s previously announced upcoming hardware plans. However, when that Year in Review pos
->
-> 🔗 [查看原文](https://arstechnica.com/gaming/2026/03/dont-worry-valve-still-plans-to-launch-the-steam-machine-this-year/)
-
----
-
-### [“It doesn't feel safe”—Many international game developers plan to skip GDC in US](https://arstechnica.com/gaming/2026/03/it-doesnt-feel-safe-many-international-game-developers-plan-to-skip-gdc-in-us/)
-**来源：Ars Technica** | 海外
-
-> Stories of border issues lead to pervasive travel fears across the worldwide industry.
->
-> 🔗 [查看原文](https://arstechnica.com/gaming/2026/03/it-doesnt-feel-safe-many-international-game-developers-plan-to-skip-gdc-in-us/)
 
 ---
 
@@ -1215,93 +849,48 @@ draft: false
 
 ---
 
-### [江苏：引导有条件的地区设立脑机接口产业投资基金，吸引社会资本参与，助力种子期、初创期企业发展壮大](https://36kr.com/newsflashes/3716857752106369?f=rss)
+### [金浦钛业：全资子公司与中研创星签订租赁经营合作协议，合作期三年](https://36kr.com/newsflashes/3716884776203912?f=rss)
 **来源：36氪** | 国内
 
-> 36氪获悉，江苏省工信厅等九部门印发《江苏省脑机接口产业创新发展行动方案》，其中提到，强化金融支持。发挥省战略性新兴产业母基金引导作用，支持相关产业专项基金及子基金投向应用场景广阔、成长性强的脑机接口项目。引导有条件的地区设立脑机接口产业投资基金，吸引社会资本参与，助力种子期、初创期企业发展壮大。依托省科技金融综合服务平台，汇聚“苏科贷”“专精特新贷”等政银合作信贷产品，鼓励金融机构开发服务脑机接口产业的特色金融产品，提供涵盖“股债贷保担”的一站式综合科技金融服务。
+> 36氪获悉，金浦钛业公告，全资子公司徐州钛白化工有限责任公司，拟以现有生产线与江苏中研创星材料科技有限公司开展租赁经营合作事宜，合作期三年，合作期内净利润为正时双方按约定比例分配利润，净利润为负时由中研创星独自承担所有成本和损失等。双方将签订《租赁经营合作协议》。3月10日，公司召开第九届董事会第八次会议审议通过了相关议案。原文链接下一篇2连板中南文化：公司目前经营正常，无应披露而未披露的重大事项36氪获悉，中南文化公告，公司股票交易价格连续两个交易日收盘价格涨幅偏离值累计超过20%，属于异常波动情况。公司前期披露的信息无需更正或补充，控股股东及实际控制人在股票异常波动期间未买卖公司股票。公司目前经营正常，内外部经营环境未发生重大变化，无应披露而未披露的重大事项，也无其他处于筹划阶段的重大事项。 8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场 OpenClaw 3.8继续炸场，龙虾不睡觉，全球程序员连夜赶工
 >
-> 🔗 [查看原文](https://36kr.com/newsflashes/3716857752106369?f=rss)
+> 🔗 [查看原文](https://36kr.com/newsflashes/3716884776203912?f=rss)
 
 ---
 
-### [雷诺公布五年战略规划，到2030年实现20%销量增长](https://36kr.com/newsflashes/3716851319698820?f=rss)
+### [2连板中南文化：公司目前经营正常，无应披露而未披露的重大事项](https://36kr.com/newsflashes/3716880041473673?f=rss)
 **来源：36氪** | 国内
 
-> 雷诺公司周二宣布了一项五年战略，旨在到2030年将其雷诺品牌汽车的一半销往海外，并实现超过五分之一的销量增长。该战略旨在保持其在全球竞争激烈的市场中的竞争力。（新浪财经）原文链接下一篇恒指收涨2.17%，恒生科技指数涨2.4%36氪获悉，恒指收涨2.17%，恒生科技指数涨2.4%；GEO概念、科技股大涨，MINIMAX-WP大涨超22%，智谱涨超12%，腾讯控股涨超7%，阿里巴巴涨超3%；油气、煤炭股调整，山东墨龙、中港石油跌超10%；南向资金净流出超179.53亿港元。 8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场
+> 36氪获悉，中南文化公告，公司股票交易价格连续两个交易日收盘价格涨幅偏离值累计超过20%，属于异常波动情况。公司前期披露的信息无需更正或补充，控股股东及实际控制人在股票异常波动期间未买卖公司股票。公司目前经营正常，内外部经营环境未发生重大变化，无应披露而未披露的重大事项，也无其他处于筹划阶段的重大事项。原文链接下一篇现货黄金日内涨幅扩大至1%36氪获悉，现货黄金日内涨幅扩大至1%，报5188.02美元/盎司。 8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场 OpenClaw 3.8继续炸场，龙虾不睡觉，全球程序员连夜赶工
 >
-> 🔗 [查看原文](https://36kr.com/newsflashes/3716851319698820?f=rss)
+> 🔗 [查看原文](https://36kr.com/newsflashes/3716880041473673?f=rss)
 
 ---
 
-### [52条中日航线2月取消全部航班](https://36kr.com/newsflashes/3716835660576135?f=rss)
+### [和硕2月营收同比下降17.58％](https://36kr.com/newsflashes/3716868210439810?f=rss)
 **来源：36氪** | 国内
 
-> 航班管家数据显示，在包括中国春节的整个2月，共有52条中日航线取消全部航班，取消率进一步提升。整个2月份共有2514个赴日航班取消，取消率达48.5%。中国到东南亚航线恢复率领跑，马来西亚、新加坡、越南的恢复率超130%，美国恢复率不足30%。（第一财经）原文链接下一篇青龙管业： 控股孙公司签订1.46亿元买卖合同36氪获悉，青龙管业公告，公司此前公告，公司控股孙公司彭阳县青龙管道科技有限公司被确认为彭阳县王洼电厂余热至县城供热管网项目一标段的中标单位。近日，公司收到了经合同双方签字盖章的《直埋式预制钢管保温管采购合同》，合同合计总金额为1.46亿元，占公司2024年度经审计营业总收入的5.19%。 8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场
+> 3月10日，和硕公布，2026年2月营收为新台币679.82亿元，同比下降17.58％。（界面）原文链接下一篇蚂蚁集团启动2026春季校园招聘：技术岗占比达85%，超七成聚焦AI领域36氪获悉，蚂蚁集团启动2026年度春季校园招聘。本次春招技术类岗位占比高达85%，其中超70%的岗位与人工智能直接相关，重点聚焦大模型算法、多模态生成、数据智能及基础平台研发、AI安全等核心领域。 8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场 OpenClaw 3.8继续炸场，龙虾不睡觉，全球程序员连夜赶工
 >
-> 🔗 [查看原文](https://36kr.com/newsflashes/3716835660576135?f=rss)
+> 🔗 [查看原文](https://36kr.com/newsflashes/3716868210439810?f=rss)
 
 ---
 
-### [青龙管业： 控股孙公司签订1.46亿元买卖合同](https://36kr.com/newsflashes/3716829702731141?f=rss)
+### [现货黄金日内涨幅扩大至1%](https://36kr.com/newsflashes/3716870454719879?f=rss)
 **来源：36氪** | 国内
 
-> 36氪获悉，青龙管业公告，公司此前公告，公司控股孙公司彭阳县青龙管道科技有限公司被确认为彭阳县王洼电厂余热至县城供热管网项目一标段的中标单位。近日，公司收到了经合同双方签字盖章的《直埋式预制钢管保温管采购合同》，合同合计总金额为1.46亿元，占公司2024年度经审计营业总收入的5.19%。原文链接下一篇晓鸣股份：2026年2月销售鸡产品收入6420.19万元36氪获悉，晓鸣股份公告，公司2026年2月销售鸡产品2188.77万羽，销售收入6420.19万元，环比变动分别为-4.35%、9.57%，同比变动分别为-19.66%、-44.39%。 8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场
+> 36氪获悉，现货黄金日内涨幅扩大至1%，报5188.02美元/盎司。下一篇和硕2月营收同比下降17.58％3月10日，和硕公布，2026年2月营收为新台币679.82亿元，同比下降17.58％。（界面） 8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场 OpenClaw 3.8继续炸场，龙虾不睡觉，全球程序员连夜赶工
 >
-> 🔗 [查看原文](https://36kr.com/newsflashes/3716829702731141?f=rss)
+> 🔗 [查看原文](https://36kr.com/newsflashes/3716870454719879?f=rss)
 
 ---
 
-### [晓鸣股份：2026年2月销售鸡产品收入6420.19万元](https://36kr.com/newsflashes/3716825998112131?f=rss)
+### [安达维尔：全资子公司与上海飞机制造有限公司签订销售框架合同](https://36kr.com/newsflashes/3716860227810688?f=rss)
 **来源：36氪** | 国内
 
-> 36氪获悉，晓鸣股份公告，公司2026年2月销售鸡产品2188.77万羽，销售收入6420.19万元，环比变动分别为-4.35%、9.57%，同比变动分别为-19.66%、-44.39%。原文链接下一篇联想开天推出全场景“开天Claw”信创AI一体机方案36氪获悉，联想开天正式推出全面覆盖“个人、团队、企业”三大核心场景的全矩阵“开天Claw”信创AI一体机解决方案。该方案以银河麒麟等主流国产操作系统为基础，深度适配了包括DeepSeek、千问、智谱等头部国产开源大模型，以阶梯式的国产化算力底座满足不同规模的落地需求。 8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场
+> 36氪获悉，安达维尔公告，公司全资子公司北京安达维尔民用航空技术有限公司与上海飞机制造有限公司签订了《ARJ21新支线项目和C919大型客机项目批产厨房插件采购框架合同》，合同总价款不超过4.97亿元（不含税）。该合同旨在明确双方在国产大飞机部件供应协作中的具体权利与义务。实际销售金额以后续收到的采购定单或签订的专项协议为准，对公司2026年度的财务状况和经营成果是否构成重大影响存在不确定性。原文链接下一篇陕西煤业：2025年净利润165.48亿元，同比减少25.99%36氪获悉，陕西煤业公告，2025年营业总收入1581.89亿元，同比减少14.10%；实现归属于上市公司股东的净利润165.48亿元，同比减少25.99%。业绩下降主要受煤炭产品销售价格同比下降影响，同时交易性金融资产公允价值变动增加收益以及投资收益增加。 8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场 OpenClaw 3.8继续炸场，龙虾不睡觉，全球程序员连夜赶工
 >
-> 🔗 [查看原文](https://36kr.com/newsflashes/3716825998112131?f=rss)
-
----
-
-### [高盛和巴克莱均警告：持续油价上涨或推高整体通胀](https://36kr.com/newsflashes/3716811145901444?f=rss)
-**来源：36氪** | 国内
-
-> 高盛和巴克莱两大行均警告称，持续的油价上涨可能会推高整体通胀。高盛估计，油价持续上涨10%可能会使CPI上升约0.28个百分点。（新华财经）原文链接下一篇英伟达计划推出面向企业的开源智能体平台NemoClaw英伟达正计划推出一款名为NemoClaw的开源AI智能体平台，以顺应这类人工智能工具日益高涨的流行趋势。报道援引知情匿名消息人士称，英伟达已开始向企业软件公司推介该产品，寻求与Salesforce、思科、谷歌、奥多比、CrowdStrike建立合作关系。（新浪财经） 8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场
->
-> 🔗 [查看原文](https://36kr.com/newsflashes/3716811145901444?f=rss)
-
----
-
-### [IDC：2025年中国腕戴设备市场同比增长20.8%](https://36kr.com/newsflashes/3716797223171714?f=rss)
-**来源：36氪** | 国内
-
-> 36氪获悉，根据国际数据公司（IDC）最新发布的报告，2025年中国腕戴设备市场出货量为7390万台，同比增长20.8%。腕戴设备市场包含智能手表和手环产品。其中，中国智能手表市场出货量5061万台，同比增长17.2%。手环市场出货量2329万台，同比增长29.4%。原文链接下一篇腾讯混元开源首个面向世界模型的强化学习后训练框架36氪获悉，腾讯混元3D团队开源首个面向世界模型的强化学习后训练框架WorldCompass。据介绍，这是一个专为长时序、交互式世界模型设计的强化学习（RL）后训练框架。如果说世界模型是引擎，那么WorldCompass就是精准的“指南针”，通过引入强化学习机制，直接“引导”模型如何更准确地遵循用户指令探索世界，并保持长时序的视觉一致性。 8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场
->
-> 🔗 [查看原文](https://36kr.com/newsflashes/3716797223171714?f=rss)
-
----
-
-### [集邦咨询：存储器与CPU价格同步上涨 主流笔电售价或将上调40%](https://36kr.com/newsflashes/3716792823084674?f=rss)
-**来源：36氪** | 国内
-
-> 36氪获悉，根据TrendForce集邦咨询最新笔电产业研究，2026年全球笔电市场正面临需求疲弱、成本上升的双重压力，除了存储器价格快速攀升，CPU价格也开始上调。据TrendForce集邦咨询估计，若要维持品牌厂、渠道端的既有毛利率结构，一台原建议售价（MSRP）为900美元的主流机种，终端售价涨幅可能将逼近40%。原文链接下一篇前Meta首席AI科学家杨立昆创立的AI初创公司筹资超过10亿美元Meta前首席人工智能科学家杨立昆（Yann LeCun） 在欧洲有史以来最大规模的种子融资轮中为他的新初创公司筹集了超过10亿美元。该新企业的预值估值为35亿美元。该委员会将由法国初创公司Nabla前首席执行官Alexandre LeBrun领导， LeCun担任执行主席。（新浪财经） 8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场
->
-> 🔗 [查看原文](https://36kr.com/newsflashes/3716792823084674?f=rss)
-
----
-
-### [香港航空宣布将上调燃油附加费](https://36kr.com/newsflashes/3716784580785537?f=rss)
-**来源：36氪** | 国内
-
-> 据报道，香港航空宣布，将于本周四（3月12日）起调整客运燃油附加费，短途及长途航线均受影响，单程加幅最高150港元。（界面）原文链接下一篇A股三大指数集体收涨，全市场超4500股上涨36氪获悉，A股三大指数集体收涨，沪指涨0.65%，深成指涨2.04%，创业板指涨3.04%；算力股爆发，CPO、PCB等方向领涨，长光华芯、长飞光纤、东山精密涨停，源杰科技、天孚通信涨超10%；油气、煤炭回调，山东墨龙、准油股份涨停。 8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场
->
-> 🔗 [查看原文](https://36kr.com/newsflashes/3716784580785537?f=rss)
-
----
-
-### [大众汽车去年全年营收3219.1亿欧元，同比下降0.8%](https://36kr.com/newsflashes/3716762939586178?f=rss)
-**来源：36氪** | 国内
-
-> 3月10日，大众汽车2025年全年营收为3219.1亿欧元，同比下降0.85，预估为3,245.1亿欧元。大众汽车2025年全年营业利润为88.7亿欧元。（界面）原文链接下一篇WPS 365接入OpenClaw数字员工36氪获悉，金山办公WPS 365旗下IM服务“WPS 协作”正式接入OpenClaw数字员工。据了解，WPS协作可通过OpenClaw数字员工，一句话搞定约会议、发消息、管文档等协作操作，云端调度+本地执行保障数据安全。 8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场
->
-> 🔗 [查看原文](https://36kr.com/newsflashes/3716762939586178?f=rss)
+> 🔗 [查看原文](https://36kr.com/newsflashes/3716860227810688?f=rss)
 
 ---
 
@@ -1320,24 +909,6 @@ draft: false
 > 编者按：本文是少数派 2025 年度征文活动#TeamCarbon25标签下的入围文章。本文仅代表作者本人观点，少数派只略微调整排版。 今年的征文活动更有创意，「只能用 AI」和「不能用 AI」两大赛道激情 PK，硅基生物和碳基生物都将决出各自领域的佼佼者。我们会在征文结束后统一组织投票活动，但在正式投票之前，如果你喜欢这篇文章，不妨通过充电或评论的方式支持作者，让内容创作者获得更多维度的鼓励。 作者声明：本文中提及了一些「人工智能生成文本」的案例，但所有这些文本的具体内容都经过了人工复述和转写。作者并未使用 AI 直接生成本文中的任何句子，或对任何句子直接进行修改/润色。 你完全错了。年轻人，我告诉你，要击倒对方，最好的方法就是用手枪。练武的目标，是要将人的体能推到最高极限。如果你想达到这种境界，就必须要了解宇宙苍生。 在电影《精武英雄》中，象征武学最高境界的船越文夫，讲出了也许是整个动作电影史上最具人文哲思的一句台词。这句台词完全可以代表我在人工智能（以下均简称 AI）时代转向体育科学的初衷，也代表了我在「体商」这个话题上的立场：人在这个主题上的写作，是很难被 AI 超越或取代的。 AI 可以是手枪，但习武或用枪的主体始终是人。手枪是工具，人才是武器。 「体商」是我提出的一个小小概念，一定程度上基于丹尼尔·西格尔（Daniel Siegel, 2021）对心智（Mind）的界定
 >
 > 🔗 [查看原文](https://sspai.com/post/106567)
-
----
-
-### [派评｜近期值得关注的 App](https://sspai.com/post/106974)
-**来源：少数派** | 国内
-
-> 欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们讨论。 ScreenKite 是一款 macOS 平台的、轻量但功能强大的屏幕录制应用，特色功能包括自动缩放、快速导出、自带编辑器、转录生成字幕等实用功能。非常适用于产品演示、软件操作、课程录屏等场景。 传统的录屏应用仅仅是把屏幕或窗口录制下来，不同于此，ScreenKite 主打自动缩放功能，会在录制时根据鼠标点击和键盘操作，放大显示相关区域，自动聚焦重要内容，让观众更容易看清关键操作。并且这项功能无需通过手动后期来实现。 ScreenKite 也内置了一个简单但功能丰富的视频编辑器，在我们完成屏幕录制后，可以直接在应用内完成基础编辑，无需导入到其他视频编辑软件。编辑器以传统样式布局，窗口中央为预览区，在下方时间线中可以手动设置自动缩放轨道，右侧功能区则提供了丰富的设置。 画面背景功能中，我们还可以更换录频的背景画面，它提供了历代 macOS 桌面壁纸、纯色和渐变壁纸，并提供模糊、调整内边距、设置圆角、设置阴影等个性化效果。自动缩放功能可能调整缩放比例、延迟效果、自动跟随光标等细节。光标样式还有指针、文本、小手等等样式，并且可以更换颜色、设置点击后的缩放比例。 此外 ScreenKite 还提供录屏调用相机拍摄、转录生成字幕等实用功能，对于录制课程
->
-> 🔗 [查看原文](https://sspai.com/post/106974)
-
----
-
-### [我与驿站斗智斗勇 3 个月，终于如愿让快递送货上门](https://sspai.com/post/106611)
-**来源：少数派** | 国内
-
-> 我家楼下的快递驿站，在去年年末的时候从菜鸟驿站变更为了多多驿站，从此幺蛾子就开始不断了。先是驿站以取件方便为由，要求我们都下载使用拼多多扫码取件，然后又是经过一通操作要求送货上门，驿站以人手不够和爬不动钢楼梯为由拒绝 。 一来二去，我居然和快递公司、驿站斗智斗勇了两三个月。思来想去，这个故事不写出来实在是亏大了，于是开始动笔，希望有和我一样困扰的兄弟姐妹们能从我的例子中获得一些经验，或者有成功的派友也可以给我更好的建议。 一切的根源都要回到最原始的问题：谁才是快递的收件人？你可能会觉得这个问题有点儿傻，但是现在快递的现状确实就是这个问题本身。尽管下单时我们写了自己的名字（或网名）、联系方式和收货地址，然而事实是大多数情况下快递员根据运单上的「虚拟号码」把收件人的快递放在了收货地址对应的诸多快递驿站中的其中一个。 即使很少放在驿站的顺丰和京东快递，你也会经常看到签收人为「家门口」的签收记录，并同步看到「经用户同意」的字样。不难发现，我们这个「真实」的收件人已经几乎成了摆设，「驿站代收」和「家门口」好像才是「真正」的收件人。 好，就算我们对上一个问题三缄其口，人人都愿意去驿站取快递，但还有一个问题： 假设你特别善良且看得开，把每天去取快递的时间当做锻炼和消遣，也不是就意味着天下太平。到了驿站，需要打开支付宝或者拼多多扫码找到位置，有时候还因为虚拟手机号入库导致扫不出自己的快递，几经下来
->
-> 🔗 [查看原文](https://sspai.com/post/106611)
 
 ---
 
@@ -1377,21 +948,30 @@ draft: false
 
 ---
 
-### [Uforwarder：优步的可扩展Kafka消费者代理，助力高效的事件驱动微服务](https://www.infoq.cn/article/yB0DZ1c5uLDdkVsJvgWY?utm_source=rss&utm_medium=article)
-**来源：InfoQ中文** | 国内
+### [任职 11 年后，特斯拉 OTA 更新系统缔造者离职](https://www.ithome.com/0/927/664.htm)
+**来源：IT之家** | 国内
 
-> Uber 工程团队宣布开源uForwarder，这是一款面向Apache Kafka的推送式消费者代理，用于提升分布式微服务间高吞吐事件流的可扩展性、效率与运维管控能力。uForwarder 作为 Kafka 与消费者服务之间的中间层，以 gRPC 驱动的推送接口替代了直接的消费者客户端实现。该系统旨在简化消费者逻辑、集中式管理偏移量、隔离工作负载，并为事件队列提供内置的延迟处理能力。 uForwarder 的诞生源于优步内部的 Kafka 部署场景，它支撑了超过 1000 个下游消费者服务，每日处理数万亿条消息与 PB 级别的数据。标准 Kafka 的消费者组在此规模下存在诸多局限，包括分区管理复杂、跨服务语言支持不一致以及运维开销大。直接使用消费者客户端需要每个服务自行实现偏移量管理、重试逻辑与延迟机制，这会增加队头阻塞的概率并降低资源利用率。 此前的内部消费者代理主要面临四大挑战，也就是，当消息因载荷大小限制或服务实例无效而投递失败时，顺序分区处理可能阻塞，从而产生队头阻塞；运行数千台代理服务器支撑消费者服务被证明效率低下，硬件资源消耗不均；消费者服务通常实现自定义的延迟语义，增加了服务复杂度；生产与非生产环境或不同区域之间的工作负载隔离，要么需要大量 Topic，要么需要复杂的负载均衡配置。 uForwarder 引入了上下文感知路由，以提升工作负载隔离与投递精准度。Kaf
+> IT之家 3 月 10 日消息，特斯拉失去了一位为公司打造出核心功能之一 —— 车载远程 OTA 升级的总监。在特斯拉任职超过 11 年、主导开发 OTA 升级系统并助力车辆通过该功能持续进化的托马斯 · 德米特里克（Thomas Dmytryk），已决定离职。他在领英发布长文宣布“为这段经历画上句号”，言语间全是正面评价：“在特斯拉度过精彩的 11 年后，我将为这段旅程画上句号。这是一生难忘的经历：始终处在舆论焦点，坚持不懈地创新，不断突破极限。特斯拉是才华横溢、充满热情之人的理想之地。能长期身处这样的企业文化中，我感到无比幸运。”长期高强度的研发与创造节奏，似乎让他不堪重负。德米特里克并未透露未来的具体计划，看起来他会先休息一段时间，再开启新事业：“未来？依旧无比光明。特斯拉的雄心未减，作为一家能改变数十亿人生活的变革性企业，它才刚刚起步。那我为何现在离开？人生一直是我的指引，此刻我需要陪伴自己的家人。我一直敬佩特斯拉的高层领导力与远见，但最让我惊叹的，是一线员工的坚韧、聪慧与奉献。是你们让特斯拉势不可挡。祝大家一切顺利，收获辉煌成就。”据IT之家了解，OTA 远程升级是特斯拉最核
 >
-> 🔗 [查看原文](https://www.infoq.cn/article/yB0DZ1c5uLDdkVsJvgWY?utm_source=rss&utm_medium=article)
+> 🔗 [查看原文](https://www.ithome.com/0/927/664.htm)
 
 ---
 
-### [鹅厂带大家“养虾”，昨天刚装、今天就裸奔！田渊栋：OpenClaw就像拿着所有秘密的笨小孩出门办事](https://www.infoq.cn/article/wZ6OLl08OyezbYDCLrQT?utm_source=rss&utm_medium=article)
-**来源：InfoQ中文** | 国内
+### [保险费吃掉部分网约车司机 25% 净收入，天能控股董事长张天任建议平台共担车险](https://www.ithome.com/0/927/663.htm)
+**来源：IT之家** | 国内
 
-> “真不敢相信旧金山湾区居然有人要花 6000 美元请人上门安装 OpenClaw。”今日，X 上一条这样的帖子引发热议。 这是海外代装平台 SetupClaw 给出的明码标价：托管安装 OpenClaw3000 美元，含 Mac mini 硬件的远程配置 5000 美元，含 Mac mini 硬件的现场配置 6000 美元。有人评价道，“价格确实离谱，但市场需求是真实存在的。” 短短两月，OpenClaw 以一个个人智能体的身份在全球掀起现象级安装热潮，远超此前任何一款 Agent 产品的公众影响力和普及程度。在国内平台，“OpenClaw 上门安装”的帖子也不断刷屏，服务提供者的 IP 蔓延到全国各地，报价普遍在几百到一千不等，还有人为了接单不仅上门部署还送“做饭服务”。 与此同时，已经有人靠这波安装热潮赚翻了。SetupClaw 创始人 Michael 更是号称靠这门手艺，有望年入百万美元。小米则是直接把“龙虾”搬到了手机上，小米手机版 AI Agent“Xiaomi miclaw”在昨日开启封测。 面对如此热潮，昨天，腾讯云团队也下场为大众提供了帮助大家安装 OpenClaw 的服务：“你带着笔记本电脑去现场，就能把小龙虾带回家”。 据悉，腾讯云这次一共派出了 20 位工程师到场摆摊讲解。在深圳腾讯大厦楼下，排起了长队，其中还不乏小学生和满头白发的老人。3 小时内，数百台 O
+> IT之家 3 月 10 日消息，据中国经营报 3 月 8 日报道，全国人大代表、天能控股集团董事长张天任围绕降低网约车保费提出建议。张天任指出，根据天能控股集团的调研数据，高额保费已成为网约车司机的负担，部分司机的保费支出占净收入比例超四分之一，甚至更高。同时，一方面，平台分担保费比例低，部分平台出资不足 5%，且在风险发生后多以‘协调者’身份参与，未实质性承担赔偿责任；另一方面，平台过高的抽成进一步削弱了司机的保费承担能力，部分平台存在‘隐性抽成’（如信息费、服务费等）情况，同时聚合平台存在叠加抽成的问题。针对上述一系列问题，张天任建议，采取“组合拳”进行综合治理。一是在源头上，他建议，进一步规范网约车平台抽成比例，保障司机收入空间，如推动将主流平台抽成比例控制在 18%—25% 之间，聚合平台信息服务费降至 5% 以内，且不得允许合作平台额外提高抽成。二是建议交通运输部门牵头制定《网约车平台风险分担指引》，如要求平台将保费分担比例从不足 5% 提高至 10%—15%，可通过“平台补贴 + 司机自付”的方式共同缴纳商业险，通过平台保费分担机制以平衡风险责任。三是建议由交通运输部门牵头
 >
-> 🔗 [查看原文](https://www.infoq.cn/article/wZ6OLl08OyezbYDCLrQT?utm_source=rss&utm_medium=article)
+> 🔗 [查看原文](https://www.ithome.com/0/927/663.htm)
+
+---
+
+### [QNAP 威联通推出 TS-h1077AFU：10× SATA 盘位 1U 全闪 NAS](https://www.ithome.com/0/927/659.htm)
+**来源：IT之家** | 国内
+
+> IT之家 3 月 10 日消息，QNAP 威联通本月 4 日宣布推出拥有 10 个 2.5 英寸 SATA 盘位的 1U 机架式全闪存 NAS 存储 TS-h1077AFU。这一型号面向入门企业级市场，可以相对较低的成本提供全闪存解决方案的高性能。TS-h1077AFU 基于 AMD 锐龙 7000 系列 8 核心 16 线程处理器，配备核心显卡，拥有 4 个 DDR5 ECC UDIMM 内存插槽（IT之家注：预装 32GB），板载 5GB 闪存用于双启动防护，运行采用 ZFS 架构的 QuTS hero 操作系统。其配备一对 350W 冗余电源，提供 2 个 PCIe Gen4 ×8 扩展槽，还提供了 2×2.5GbE + 2×10GbE 共四个 RJ45 网口，此外还包括 2 个 USB-A 10Gbps。
+>
+> 🔗 [查看原文](https://www.ithome.com/0/927/659.htm)
 
 ---
 
@@ -1404,60 +984,6 @@ draft: false
 
 ---
 
-### [联想推出 Thinkpad X1 2-in-1 Aura 版二合一翻转本：至高可选 Ultra 7 355 处理器、2.8K 120Hz 屏幕](https://www.ithome.com/0/927/619.htm)
-**来源：IT之家** | 国内
-
-> IT之家 3 月 10 日消息，联想现已在海外市场推出第 11 代 ThinkPad X1 2-in-1 Aura 版二合一翻转本，搭载英特尔 Panther Lake 架构处理器，最高可选 32GB 内存、120Hz 可变刷新率（VRR）OLED 屏幕。据介绍，这款笔记本相比上一代机型在多方面均有改进，机身尺寸 313.5*219.3*9.4～16.4 mm，入门款机型搭载英特尔酷睿 Ultra 5 325 处理器、32GB 内存以及 1TB PCIe 4.0 固态硬盘，屏幕则是 1200P IPS，只支持标准的 60Hz 刷新率。同时，这款电脑还可以加 120 欧元（IT之家注：现汇率约合 962.8 元人民币）升级到酷睿 Ultra 7 355 处理器，2.8K 120Hz VRR OLED 屏幕也是要价 120 欧元（现汇率约合 962.8 元人民币），硬盘也可以花 130 欧元（现汇率约合 1043 元人民币）升级到 PCIe 5.0 规格。此外，这款笔记本还可以加 30 欧元（现汇率约合 240.7 元人民币）选配 Slim Pen 2 触控笔、花 20 欧元（现汇率约合 
->
-> 🔗 [查看原文](https://www.ithome.com/0/927/619.htm)
 
 ---
-
-### [《直到黎明：重制版》开发商 Ballistic Moon 解散，此前曾大规模裁员](https://www.ithome.com/0/927/611.htm)
-**来源：IT之家** | 国内
-
-> IT之家 3 月 10 日消息，据游戏媒体 Insider Gaming 昨天报道，英国政府数据显示，《直到黎明：重制版》开发商 Ballistic Moon 现已正式解散。该工作室成立于 2019 年，唯一一款作品就是《直到黎明：重制版》。IT之家在此援引 Insider Gaming，Ballistic Moon 从 2024 年 9 月开始宣布裁员，到了去年 3 月则传闻称工作室已经处于“基本关闭”状态，而到了 12 月，公司又悄悄裁掉了游戏发售后仍然留在岗位负责后续支持工作的剩余员工。此外，《直到黎明：重制版》游戏发售后褒贬不一，目前在 M 站评分为 70 分，Steam 玩家评测最初为“褒贬不一”，目前为“特别好评”。部分玩家对此表示，这款游戏在某些方面看起来甚至不如原版。Steam 同时在线峰值为 2607 人，而 PS 平台的首发表现甚至不如饱受争议的《星鸣特攻》。虽然该作还有真人电影重制版，但同样表现平平，票房没有掀起太大波澜。
->
-> 🔗 [查看原文](https://www.ithome.com/0/927/611.htm)
-
----
-
-### [TrendForce：存储器与处理器双涨，900 美元主流级笔记本电脑恐提价 40%](https://www.ithome.com/0/927/609.htm)
-**来源：IT之家** | 国内
-
-> IT之家 3 月 10 日消息，TrendForce 集邦咨询今日在其最新研报中指出，在存储器价格快速攀升、处理器价格也开始调涨的情况下，一台在 2025Q1 建议零售价 900 美元（IT之家注：现汇率约合 6226 元人民币）的主流级笔记本电脑到 2026Q1 恐怕需要提价接近 40% 才能保持供应链各环节的利润结构。在 2025Q1，上述笔记本的处理器、内存、存储合计占到成本的 45%，而在当下这一比例已达到接近六成的 58%。图源：PexelsTrendForce 提到，进入 2026 年后笔记本电脑所需存储器的供应明显转紧，价格飙高的同时长短料问题也日益明显，导致上游厂商的备料策略面临更高的不确定性。与此同时，根据供应链消息，英特尔已调整部分入门级及旧世代移动端处理器报价，涨幅超过 15%，到 2026Q2 这波涨价将扩展到主流与高端平台；AMD 处理器方面部分低端平台也出现了缺货疑虑。
->
-> 🔗 [查看原文](https://www.ithome.com/0/927/609.htm)
-
----
-
-### [《勇者斗恶龙 1+2 HD-2D 重制版》游戏更新上线，移除 D 加密](https://www.ithome.com/0/927/598.htm)
-**来源：IT之家** | 国内
-
-> IT之家 3 月 10 日消息，SteamDB 数据库显示，SE 昨天为《勇者斗恶龙 1+2 HD-2D 重制版》游戏推送更新包，主要是移除了第三方防篡改组件 Denuvo（IT之家注：D 加密），使游戏文件体积缩小 306MB。作为参考，《勇者斗恶龙 1+2 HD-2D 重制版》游戏发售于去年 10 月 31 日，登陆 Switch、Switch 2、PS5、Xbox Series X|S 以及 PC 平台，Steam 国区定价 348 元。剧情方面，本作是《勇者斗恶龙 1》《勇者斗恶龙 2》的重制版，在保留原版游戏像素风的同时强化了角色模型，重绘环境场景、优化操作界面，还带有原版没有的独特 BOSS 战。IT之家注：勇者斗恶龙（日语：ドラゴンクエスト，英语：Dragon Quest）是由堀井雄二及其工作室 Armor Project 开发的电子角色扮演游戏（RPG）系列。系列在日本由史克威尔艾尼克斯（原艾尼克斯）发行，而在日本以外多由任天堂发行。《勇者斗恶龙》系列第一作于 1986 年 5 月 27 日在日本首发，并于 1989 年 8 月在北美以“Dragon Warrior”为
->
-> 🔗 [查看原文](https://www.ithome.com/0/927/598.htm)
-
----
-
-### [四川内江 3 个月内查处 124 起无人机“黑飞”事件，3 起涉嫌刑事犯罪依法立案](https://www.ithome.com/0/927/597.htm)
-**来源：IT之家** | 国内
-
-> IT之家 3 月 10 日消息，近年来，有关部门持续对无人机“黑飞”行为进行打击，据“内江公安”公众号，2025 年 12 月至今约 3 个月时间，内江公安机关已查处无人机违规违法飞行 124 起。相应违法飞行案例中，有 100 起责令限期整改，21 起予以行政处罚，3 起涉嫌刑事犯罪依法立案，其中 2 起案件共 2 名犯罪嫌疑人被依法采取刑事强制措施，1 起案件正在进一步侦查取证中。IT之家参考官方通报的典型案例获悉，2026 年 2 月 26 日，市中区分局核查到张某虽在大疆平台绑定无人机，但未按规定完善民用无人驾驶航空器实名登记程序，且多次未报备擅自飞行，两次超高飞行。其行为已违反《无人驾驶航空器飞行管理暂行条例》相关规定，市中区公安分局依法对其作出行政处罚。2026 年 1 月 7 日，东兴区公安分局核查到陈某某于 2025 年 10 月 21 日在内江市东兴区东兴街道放飞无人机，超高飞行且其存在多次未报备擅自进入管制空域飞行的行为。其行为违反《无人驾驶航空器飞行管理暂行条例》第五十一条规定，东兴区公安分局依法对其作出行政处罚。2025 年 12 月 16 日 20 时许，肖某
->
-> 🔗 [查看原文](https://www.ithome.com/0/927/597.htm)
-
----
-
-### [雷诺集团发布全新战略 futuREady：到 2030 年计划推出 36 款新车型，2028 年起用上 800V 架构](https://www.ithome.com/0/927/595.htm)
-**来源：IT之家** | 国内
-
-> IT之家 3 月 10 日消息，雷诺集团今日发布全新战略 futuREady，开启新一轮发展阶段。futuREady 战略将围绕产品与客户体验、技术创新、卓越运营三大核心方向展开，旨在依托四大核心支柱，将雷诺集团打造成为“全球公认的欧洲汽车制造商标杆”：增长支柱就绪（Growth Ready）技术支柱就绪（Tech Ready）卓越运营支柱就绪（Excellence Ready）信任支柱就绪（Trust Ready）到 2030 年，雷诺集团将推出 36 款全新车型，在全面加速电动化进程的同时，进一步拓展国际市场产品矩阵。雷诺集团计划在欧洲市场推出 22 款新车型（其中包括 16 款电动车型），并在国际市场发布 14 款全新车型。IT之家附各品牌目标如下：雷诺（Renault）品牌雷诺品牌将通过三大核心驱动力加速增长：在欧洲市场推出 12 款新产品，持续强化品牌竞争力；全方位推进电动化进程：2030 年后继续在欧洲发展混合动力技术优势，并将其拓展至国际市场；同时依托新平台进一步扩大纯电产品阵容；加速国际市场攻势，推出 14 款新车。到 2030 年，品牌目标明确：年销量突破 200 万
->
-> 🔗 [查看原文](https://www.ithome.com/0/927/595.htm)
-
----
-
-
----
-*由 tech-news-fetcher skill 自动生成 · 2026-03-10 16:29:57*
+*由 tech-news-fetcher skill 自动生成 · 2026-03-10 17:04:09*
