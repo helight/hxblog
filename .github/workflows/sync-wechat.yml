@@ -25,6 +25,11 @@ jobs:
       - name: Install dependencies
         run: pip install requests markdown
 
+      - name: Show runner IP (for WeChat whitelist)
+        run: |
+          RUNNER_IP=$(curl -sf https://api.ipify.org || curl -sf https://ipv4.icanhazip.com || echo "unknown")
+          echo "::notice::本次 Actions runner IP: $RUNNER_IP — 如同步失败(errcode 40164)，请将此IP加入微信公众号IP白名单"
+
       - name: Find changed posts
         id: find_posts
         run: |
