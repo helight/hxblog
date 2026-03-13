@@ -1,0 +1,62 @@
+name: Sync to WeChat Draft
+
+on:
+  pull_request:
+    types: [closed]
+    branches: [main]
+
+jobs:
+  sync-wechat:
+    # 只在 PR 被合并时触发（不是直接关闭）
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2   # 需要对比上次 commit 找新增文章
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests markdown
+
+      - name: Find changed posts
+        id: find_posts
+        run: |
+          # 找出本次 PR 新增或修改的 index.md（只同步 blog/ 下的）
+          git diff --name-only HEAD~1 HEAD | \
+            grep '^content/blog/' | \
+            grep 'index\.md$' | \
+            head -5 > /tmp/changed_posts.txt
+          echo "Changed posts:"
+          cat /tmp/changed_posts.txt
+          echo "count=$(wc -l < /tmp/changed_posts.txt)" >> $GITHUB_OUTPUT
+
+      - name: Sync posts to WeChat drafts
+        if: steps.find_posts.outputs.count != '0'
+        env:
+          WX_APPID: ${{ secrets.WX_APPID }}
+          WX_APPSECRET: ${{ secrets.WX_APPSECRET }}
+        run: |
+          SUCCESS=0
+          FAIL=0
+          while IFS= read -r post_file; do
+            [ -z "$post_file" ] && continue
+            echo "==> 同步: $post_file"
+            if python3 .github/scripts/sync_to_wechat.py --post-file "$post_file"; then
+              SUCCESS=$((SUCCESS+1))
+            else
+              echo "::warning::同步失败: $post_file"
+              FAIL=$((FAIL+1))
+            fi
+          done < /tmp/changed_posts.txt
+          echo "✅ 同步完成: 成功 $SUCCESS 篇，失败 $FAIL 篇"
+
+      - name: No posts to sync
+        if: steps.find_posts.outputs.count == '0'
+        run: echo "本次 PR 没有新增/修改 blog 文章，跳过微信同步"
