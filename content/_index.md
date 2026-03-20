@@ -37,7 +37,7 @@ layout: hextra-home
     title="云原生与微服务架构"
     subtitle="主导腾讯游戏数据服务的云原生改造，基于 ​Kubernetes 和 ​Istio 构建混合云管理平台，实现跨云资源统一调度；推动 ​Service Mesh 在游戏数据分析中的落地，优化微服务治理能力，提升服务间通信效率30%以上。"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="/images/cloudms.png"
+    image="/images/cloudms.webp"
     imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
@@ -45,7 +45,7 @@ layout: hextra-home
     title="大数据引擎技术"
     subtitle="设计并开发 ​腾讯游戏实时计算平台OneData，整合Flink、Kafka、Pulsar等组件，支撑400+款游戏的实时数据运营，包括任务系统、实时排行榜等场景，实现亚秒级延迟处理能力；"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
-    image="/images/bigdata.png"
+    image="/images/bigdata.webp"
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
   >}}
@@ -53,7 +53,7 @@ layout: hextra-home
     title="内核与操作系统技术"
     subtitle="作为 ​Linux内核之旅开源社区负责人，推动eBPF技术在容器网络监控、CPU性能分析等场景的应用，开发基于eBPF的实时指标采集工具。"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="/images/kernel.png"
+    image="/images/kernel.webp"
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}
